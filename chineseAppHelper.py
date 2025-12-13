@@ -2,6 +2,11 @@
 import json
 import argparse
 import sys
+import re
+
+# Define common punctuation and whitespace characters to ignore in logging.
+# Added the full-width quotation marks “ and ”
+PUNCTUATION_AND_WHITESPACE = set(" \t\n\r\f\v，。？！、：；《》【】（）“”")
 
 
 # --------------------------------------------------------
@@ -49,6 +54,12 @@ def tokenize_story(dict_path, story_path):
     max_len = 4
     i = 0
     n = len(story)
+    
+    # Store consecutive unknown Hanzi characters for grouped logging
+    unknown_hanzi_sequence = []
+    
+    # NEW: List to accumulate all sequences for a single, final log message
+    all_unknown_sequences = []
 
     while i < n:
         matched = False
@@ -61,6 +72,14 @@ def tokenize_story(dict_path, story_path):
             chunk = story[i:i+L]
 
             if chunk in dict_map:
+                # --- Known Token Found ---
+                
+                # If there's an accumulated unknown sequence, save it and clear the accumulator
+                if unknown_hanzi_sequence:
+                    all_unknown_sequences.append("".join(unknown_hanzi_sequence))
+                    unknown_hanzi_sequence = []
+                
+                # Add the known token
                 tokens.append({
                     "id": dict_map[chunk],
                     "text": chunk
@@ -72,19 +91,45 @@ def tokenize_story(dict_path, story_path):
         if matched:
             continue
 
-        # No match even for 1 char → unknown token
+        # --- No Match (Unknown Token) Found ---
         ch = story[i]
-        print(f"[WARN] Unknown token: '{ch}'")
-        tokens.append({
-            "id": None,
-            "text": ch
-        })
+
+        if ch in PUNCTUATION_AND_WHITESPACE:
+            # Punctuation/Whitespace: Ignore, but check for prior unknown sequence
+            
+            # If there's an accumulated unknown sequence, save it and clear the accumulator
+            if unknown_hanzi_sequence:
+                all_unknown_sequences.append("".join(unknown_hanzi_sequence))
+                unknown_hanzi_sequence = []
+            
+            # Add the punctuation/whitespace token (id: None)
+            tokens.append({
+                "id": None,
+                "text": ch
+            })
+
+        else:
+            # Unknown Hanzi character: Accumulate
+            unknown_hanzi_sequence.append(ch)
+            tokens.append({
+                "id": None,
+                "text": ch
+            })
+
         i += 1
+
+    # Final check after loop ends for any remaining unknown Hanzi sequence
+    if unknown_hanzi_sequence:
+        all_unknown_sequences.append("".join(unknown_hanzi_sequence))
+
+    # NEW: Log all accumulated unknown sequences in the desired format
+    log_final_unknown_sequences(all_unknown_sequences)
 
     # Build output structure
     output = {
         "storyId": "",
         "title": "",
+        "subtitle": "",
         "difficulty": 1,
         "topic": "",
         "tokens": tokens
@@ -94,6 +139,20 @@ def tokenize_story(dict_path, story_path):
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print("[OK] Wrote tokenized story → output.json")
+
+
+def log_final_unknown_sequences(all_sequences):
+    """
+    Logs all unknown sequences accumulated during tokenization in a single,
+    comma-separated line.
+    """
+    if not all_sequences:
+        return
+
+    # Join the individual sequences (e.g., '决' and '定' become '决定')
+    # Then join all the resulting multi-character sequences with ', '
+    log_output = ", ".join(all_sequences)
+    print(f"[WARN] All Unknown Hanzi: {log_output}")
 
 
 # --------------------------------------------------------

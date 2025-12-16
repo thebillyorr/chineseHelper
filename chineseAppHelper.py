@@ -5,7 +5,6 @@ import sys
 import re
 
 # Define common punctuation and whitespace characters to ignore in logging.
-# Added the full-width quotation marks “ and ”
 PUNCTUATION_AND_WHITESPACE = set(" \t\n\r\f\v，。？！、：；《》【】（）“”")
 
 
@@ -25,26 +24,10 @@ def load_dictionary(dict_path):
 
 
 # --------------------------------------------------------
-# PART 1: Extract comma-separated Hanzi → output.txt
-# --------------------------------------------------------
-def extract_hanzi(dict_path):
-    with open(dict_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-
-    hanzi_list = [entry["hanzi"] for entry in data.values()]
-    result = ", ".join(hanzi_list)
-
-    with open("output.txt", "w", encoding="utf-8") as f:
-        f.write(result)
-
-    print("[OK] Wrote comma-separated hanzi list → output.txt")
-
-
-# --------------------------------------------------------
-# PART 2: Tokenize story → output.json
+# Tokenize story → output.json
 # Using longest match: 4 → 3 → 2 → 1 characters
 # --------------------------------------------------------
-def tokenize_story(dict_path, story_path):
+def tokenize_story(dict_path, story_path, character_names):
     dict_map = load_dictionary(dict_path)
 
     with open(story_path, "r", encoding="utf-8") as f:
@@ -58,12 +41,12 @@ def tokenize_story(dict_path, story_path):
     # Store consecutive unknown Hanzi characters for grouped logging
     unknown_hanzi_sequence = []
     
-    # NEW: List to accumulate all sequences for a single, final log message
+    # List to accumulate all sequences for a single, final log message
     all_unknown_sequences = []
 
     while i < n:
         matched = False
-
+        
         # Try a 4-char, then 3-char, then 2-char, then 1-char match
         for L in range(max_len, 0, -1):
             if i + L > n:
@@ -71,7 +54,29 @@ def tokenize_story(dict_path, story_path):
 
             chunk = story[i:i+L]
 
+            # 1. Check if the chunk is a known character name (Highest Priority)
+            if chunk in character_names:
+                
+                # Log the name being tokenized
+                print(f"[INFO] Character Name Tokenized: {chunk}")
+                
+                # If there's an accumulated unknown sequence, save it and clear the accumulator
+                if unknown_hanzi_sequence:
+                    all_unknown_sequences.append("".join(unknown_hanzi_sequence))
+                    unknown_hanzi_sequence = []
+                
+                # Add the name token (id: None)
+                tokens.append({
+                    "id": None,
+                    "text": chunk
+                })
+                i += L
+                matched = True
+                break
+            
+            # 2. Check if the chunk is in the dictionary (Second Priority)
             if chunk in dict_map:
+                
                 # --- Known Token Found ---
                 
                 # If there's an accumulated unknown sequence, save it and clear the accumulator
@@ -122,7 +127,7 @@ def tokenize_story(dict_path, story_path):
     if unknown_hanzi_sequence:
         all_unknown_sequences.append("".join(unknown_hanzi_sequence))
 
-    # NEW: Log all accumulated unknown sequences in the desired format
+    # Log all accumulated unknown sequences in the desired format
     log_final_unknown_sequences(all_unknown_sequences)
 
     # Build output structure
@@ -160,47 +165,31 @@ def log_final_unknown_sequences(all_sequences):
 # --------------------------------------------------------
 def main():
     parser = argparse.ArgumentParser(
-        description="Chinese Dictionary & Story Processing Helper"
+        description="Chinese Story Tokenizer (Longest-Match Algorithm)"
     )
 
-    parser.add_argument(
-        "--hanzi",
-        action="store_true",
-        help="Extract comma-separated hanzi from dictionary.json → output.txt"
-    )
-
-    parser.add_argument(
-        "--token",
-        action="store_true",
-        help="Tokenize a story using longest-match algorithm → output.json"
-    )
-
+    # Positional arguments (required)
     parser.add_argument("dict", help="Path to dictionary.json")
-    parser.add_argument("input", nargs="?", help="Path to story.txt (required for --token mode)")
+    parser.add_argument("story", help="Path to story.txt")
+    
+    # Optional argument for character names
+    parser.add_argument(
+        "--names",
+        default="",
+        help="Comma-separated list of character names to tokenize as 'null' (e.g., 王小明,李华)"
+    )
 
     args = parser.parse_args()
 
-    # Validate mode selection
-    if args.hanzi and args.token:
-        print("[ERROR] Cannot use both --hanzi and --token at the same time.")
-        sys.exit(1)
+    # Parse the comma-separated string into a set for quick lookup
+    # Handle case where --names is empty
+    if args.names:
+        character_names = set(args.names.split(','))
+    else:
+        character_names = set()
 
-    if not args.hanzi and not args.token:
-        print("[ERROR] You must specify either --hanzi or --token.")
-        sys.exit(1)
-
-    # Extract hanzi → no input file needed
-    if args.hanzi:
-        extract_hanzi(args.dict)
-        return
-
-    # Tokenize story → requires input
-    if args.token:
-        if not args.input:
-            print("[ERROR] Token mode requires: dictionary.json story.txt")
-            sys.exit(1)
-        tokenize_story(args.dict, args.input)
-        return
+    # The action is now always tokenization
+    tokenize_story(args.dict, args.story, character_names)
 
 
 if __name__ == "__main__":

@@ -67,9 +67,9 @@ def tokenize_story(dict_path, story_path, character_names):
                 
                 # Add the name token (id: None)
                 tokens.append({
-                    "id": None,
-                    "text": chunk
-                })
+    "id": "w05005",  # <-- Assigned your new special ID
+    "text": chunk
+})
                 i += L
                 matched = True
                 break

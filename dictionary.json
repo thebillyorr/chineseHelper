@@ -1294,7 +1294,7 @@
         "difficulty": 1
     },
   "w00151": {
-    "hanzi": "﻿吧",
+    "hanzi": "吧",
     "pinyin": "ba",
     "english": [
       "Particle indicating polite suggestion"
@@ -40750,15 +40750,6 @@
     ],
     "difficulty": 6
   },
-  "w04387": {
-    "hanzi": "喂",
-    "pinyin": "wèi, wéi",
-    "english": [
-      "Hey",
-      "To feed | hello (on the phone)"
-    ],
-    "difficulty": 6
-  },
   "w04388": {
     "hanzi": "蔚蓝",
     "pinyin": "wèilán",
@@ -46441,6 +46432,33 @@
       "Take the responsibility for a decision"
     ],
     "difficulty": 6
+  },
+  "w05002": {
+    "hanzi": "秋天",
+    "pinyin": "qiūtiān",
+    "english": [
+      "Autumn",
+      "Fall"
+    ],
+    "difficulty": 2
+  },
+  "w05003": {
+    "hanzi": "他们",
+    "pinyin": "tāmen",
+    "english": [
+      "They"
+    ],
+    "difficulty": 1
+  },
+  "w05004": {
+    "hanzi": "成",
+    "pinyin": "chéng",
+    "english": [
+      "To become",
+      "To turn into",
+      "To succeed"
+    ],
+    "difficulty": 3
   }
 }
 

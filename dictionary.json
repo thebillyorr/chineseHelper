@@ -1,6 +1,6 @@
 {
     "w00001": {
-        "hanzi": "﻿爱",
+        "hanzi": "爱",
         "pinyin": "ài",
         "english": [
             "Love"
@@ -25672,11 +25672,11 @@
   },
   "w02770": {
     "hanzi": "盛",
-    "pinyin": "chéng, shèng",
+    "pinyin": "shèng",
     "english": [
       "Contain",
       "To ladle",
-      "To fill | flourishing",
+      "To fill",
       "Grand",
       "Abundant"
     ],
@@ -46459,11 +46459,9933 @@
       "To succeed"
     ],
     "difficulty": 3
+  },
+  "w05005": {
+    "hanzi": "且",
+    "pinyin": "qiě",
+    "english": [
+      "And",
+      "Moreover",
+      "About to"
+    ],
+    "difficulty": 3
+  },
+  "w05006": {
+    "hanzi": "丽",
+    "pinyin": "lì",
+    "english": [
+      "Beautiful",
+      "Magnificent"
+    ],
+    "difficulty": 3
+  },
+  "w05007": {
+    "hanzi": "乎",
+    "pinyin": "hū",
+    "english": [
+      "(Particle)",
+      "Similar to",
+      "At",
+      "To"
+    ],
+    "difficulty": 3
+  },
+  "w05008": {
+    "hanzi": "令",
+    "pinyin": "lìng",
+    "english": [
+      "To order",
+      "To command",
+      "To cause"
+    ],
+    "difficulty": 3
+  },
+  "w05009": {
+    "hanzi": "们",
+    "pinyin": "men",
+    "english": [
+      "(Plural marker for pronouns and nouns referring to people)"
+    ],
+    "difficulty": 3
+  },
+  "w05010": {
+    "hanzi": "佛",
+    "pinyin": "fó",
+    "english": [
+      "Buddha",
+      "Buddhism"
+    ],
+    "difficulty": 3
+  },
+  "w05011": {
+    "hanzi": "俊",
+    "pinyin": "jùn",
+    "english": [
+      "Handsome",
+      "Talented"
+    ],
+    "difficulty": 3
+  },
+  "w05012": {
+    "hanzi": "兰",
+    "pinyin": "lán",
+    "english": [
+      "Orchid"
+    ],
+    "difficulty": 3
+  },
+  "w05013": {
+    "hanzi": "兵",
+    "pinyin": "bīng",
+    "english": [
+      "Soldier",
+      "Army",
+      "Weapon"
+    ],
+    "difficulty": 3
+  },
+  "w05014": {
+    "hanzi": "凤",
+    "pinyin": "fèng",
+    "english": [
+      "Phoenix"
+    ],
+    "difficulty": 3
+  },
+  "w05015": {
+    "hanzi": "凰",
+    "pinyin": "huáng",
+    "english": [
+      "Phoenix (female)"
+    ],
+    "difficulty": 3
+  },
+  "w05016": {
+    "hanzi": "击",
+    "pinyin": "jī",
+    "english": [
+      "To hit",
+      "To strike",
+      "To attack"
+    ],
+    "difficulty": 3
+  },
+  "w05017": {
+    "hanzi": "刘",
+    "pinyin": "liú",
+    "english": [
+      "(Surname)",
+      "To kill"
+    ],
+    "difficulty": 3
+  },
+  "w05018": {
+    "hanzi": "午",
+    "pinyin": "wǔ",
+    "english": [
+      "Noon"
+    ],
+    "difficulty": 3
+  },
+  "w05019": {
+    "hanzi": "厂",
+    "pinyin": "chǎng",
+    "english": [
+      "Factory",
+      "Yard"
+    ],
+    "difficulty": 3
+  },
+  "w05020": {
+    "hanzi": "叁",
+    "pinyin": "sān",
+    "english": [
+      "Three (banker's anti-fraud numeral)"
+    ],
+    "difficulty": 3
+  },
+  "w05021": {
+    "hanzi": "史",
+    "pinyin": "shǐ",
+    "english": [
+      "History"
+    ],
+    "difficulty": 3
+  },
+  "w05022": {
+    "hanzi": "吴",
+    "pinyin": "wú",
+    "english": [
+      "(Surname)",
+      "Kingdom of Wu"
+    ],
+    "difficulty": 3
+  },
+  "w05023": {
+    "hanzi": "呜",
+    "pinyin": "wū",
+    "english": [
+      "(Onomatopoeia for humming or sobbing)"
+    ],
+    "difficulty": 3
+  },
+  "w05024": {
+    "hanzi": "喔",
+    "pinyin": "ō",
+    "english": [
+      "Oh",
+      "I see"
+    ],
+    "difficulty": 3
+  },
+  "w05025": {
+    "hanzi": "嘻",
+    "pinyin": "xī",
+    "english": [
+      "(Onomatopoeia for giggling)"
+    ],
+    "difficulty": 3
+  },
+  "w05026": {
+    "hanzi": "圣",
+    "pinyin": "shèng",
+    "english": [
+      "Holy",
+      "Sacred",
+      "Saint"
+    ],
+    "difficulty": 3
+  },
+  "w05027": {
+    "hanzi": "型",
+    "pinyin": "xíng",
+    "english": [
+      "Model",
+      "Type",
+      "Pattern"
+    ],
+    "difficulty": 3
+  },
+  "w05028": {
+    "hanzi": "垒",
+    "pinyin": "lěi",
+    "english": [
+      "Rampart",
+      "Base (in baseball)"
+    ],
+    "difficulty": 3
+  },
+  "w05029": {
+    "hanzi": "堂",
+    "pinyin": "táng",
+    "english": [
+      "Hall",
+      "Court"
+    ],
+    "difficulty": 3
+  },
+  "w05030": {
+    "hanzi": "央",
+    "pinyin": "yāng",
+    "english": [
+      "Center",
+      "End"
+    ],
+    "difficulty": 3
+  },
+  "w05031": {
+    "hanzi": "奏",
+    "pinyin": "zòu",
+    "english": [
+      "To play music",
+      "To present"
+    ],
+    "difficulty": 3
+  },
+  "w05032": {
+    "hanzi": "妳",
+    "pinyin": "nǐ",
+    "english": [
+      "You (female)"
+    ],
+    "difficulty": 3
+  },
+  "w05033": {
+    "hanzi": "宜",
+    "pinyin": "yí",
+    "english": [
+      "Suitable",
+      "Appropriate"
+    ],
+    "difficulty": 3
+  },
+  "w05034": {
+    "hanzi": "室",
+    "pinyin": "shì",
+    "english": [
+      "Room"
+    ],
+    "difficulty": 3
+  },
+  "w05035": {
+    "hanzi": "尔",
+    "pinyin": "ěr",
+    "english": [
+      "You",
+      "Thus"
+    ],
+    "difficulty": 3
+  },
+  "w05036": {
+    "hanzi": "己",
+    "pinyin": "jǐ",
+    "english": [
+      "Self",
+      "Oneself"
+    ],
+    "difficulty": 3
+  },
+  "w05037": {
+    "hanzi": "帝",
+    "pinyin": "dì",
+    "english": [
+      "Emperor",
+      "God"
+    ],
+    "difficulty": 3
+  },
+  "w05038": {
+    "hanzi": "幕",
+    "pinyin": "mù",
+    "english": [
+      "Curtain",
+      "Screen",
+      "Act (of a play)"
+    ],
+    "difficulty": 3
+  },
+  "w05039": {
+    "hanzi": "店",
+    "pinyin": "diàn",
+    "english": [
+      "Shop",
+      "Store"
+    ],
+    "difficulty": 3
+  },
+  "w05040": {
+    "hanzi": "府",
+    "pinyin": "fǔ",
+    "english": [
+      "Government office",
+      "Residence"
+    ],
+    "difficulty": 3
+  },
+  "w05041": {
+    "hanzi": "康",
+    "pinyin": "kāng",
+    "english": [
+      "Healthy",
+      "Peaceful"
+    ],
+    "difficulty": 3
+  },
+  "w05042": {
+    "hanzi": "式",
+    "pinyin": "shì",
+    "english": [
+      "Style",
+      "Type",
+      "Formula"
+    ],
+    "difficulty": 3
+  },
+  "w05043": {
+    "hanzi": "德",
+    "pinyin": "dé",
+    "english": [
+      "Virtue",
+      "Morality",
+      "Germany"
+    ],
+    "difficulty": 3
+  },
+  "w05044": {
+    "hanzi": "忆",
+    "pinyin": "yì",
+    "english": [
+      "To remember",
+      "To recall"
+    ],
+    "difficulty": 3
+  },
+  "w05045": {
+    "hanzi": "怕",
+    "pinyin": "pà",
+    "english": [
+      "To fear",
+      "To be afraid"
+    ],
+    "difficulty": 3
+  },
+  "w05046": {
+    "hanzi": "息",
+    "pinyin": "xī",
+    "english": [
+      "Breath",
+      "News",
+      "Interest"
+    ],
+    "difficulty": 3
+  },
+  "w05047": {
+    "hanzi": "惜",
+    "pinyin": "xī",
+    "english": [
+      "To cherish",
+      "To pity"
+    ],
+    "difficulty": 3
+  },
+  "w05048": {
+    "hanzi": "择",
+    "pinyin": "zé",
+    "english": [
+      "To select",
+      "To choose"
+    ],
+    "difficulty": 3
+  },
+  "w05049": {
+    "hanzi": "援",
+    "pinyin": "yuán",
+    "english": [
+      "To help",
+      "To assist"
+    ],
+    "difficulty": 3
+  },
+  "w05050": {
+    "hanzi": "料",
+    "pinyin": "liào",
+    "english": [
+      "Material",
+      "To expect"
+    ],
+    "difficulty": 3
+  },
+  "w05051": {
+    "hanzi": "族",
+    "pinyin": "zú",
+    "english": [
+      "Race",
+      "Nationality",
+      "Clan"
+    ],
+    "difficulty": 3
+  },
+  "w05052": {
+    "hanzi": "易",
+    "pinyin": "yì",
+    "english": [
+      "Easy",
+      "Change"
+    ],
+    "difficulty": 3
+  },
+  "w05053": {
+    "hanzi": "望",
+    "pinyin": "wàng",
+    "english": [
+      "To hope",
+      "To gaze",
+      "To visit"
+    ],
+    "difficulty": 3
+  },
+  "w05054": {
+    "hanzi": "术",
+    "pinyin": "shù",
+    "english": [
+      "Art",
+      "Skill",
+      "Technique"
+    ],
+    "difficulty": 3
+  },
+  "w05055": {
+    "hanzi": "李",
+    "pinyin": "lǐ",
+    "english": [
+      "Plum",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05056": {
+    "hanzi": "杨",
+    "pinyin": "yáng",
+    "english": [
+      "Poplar",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05057": {
+    "hanzi": "松",
+    "pinyin": "sōng",
+    "english": [
+      "Pine",
+      "Loose"
+    ],
+    "difficulty": 3
+  },
+  "w05058": {
+    "hanzi": "板",
+    "pinyin": "bǎn",
+    "english": [
+      "Board",
+      "Plank"
+    ],
+    "difficulty": 3
+  },
+  "w05059": {
+    "hanzi": "林",
+    "pinyin": "lín",
+    "english": [
+      "Forest",
+      "Woods"
+    ],
+    "difficulty": 3
+  },
+  "w05060": {
+    "hanzi": "架",
+    "pinyin": "jià",
+    "english": [
+      "Shelf",
+      "Frame",
+      "To support"
+    ],
+    "difficulty": 3
+  },
+  "w05061": {
+    "hanzi": "梅",
+    "pinyin": "méi",
+    "english": [
+      "Plum",
+      "Plum flower"
+    ],
+    "difficulty": 3
+  },
+  "w05062": {
+    "hanzi": "楚",
+    "pinyin": "chǔ",
+    "english": [
+      "Clear",
+      "Distinct",
+      "Pain"
+    ],
+    "difficulty": 3
+  },
+  "w05063": {
+    "hanzi": "歉",
+    "pinyin": "qiàn",
+    "english": [
+      "Apology",
+      "Regret"
+    ],
+    "difficulty": 3
+  },
+  "w05064": {
+    "hanzi": "止",
+    "pinyin": "zhǐ",
+    "english": [
+      "To stop",
+      "To prohibit"
+    ],
+    "difficulty": 3
+  },
+  "w05065": {
+    "hanzi": "求",
+    "pinyin": "qiú",
+    "english": [
+      "To beg",
+      "To seek"
+    ],
+    "difficulty": 3
+  },
+  "w05066": {
+    "hanzi": "江",
+    "pinyin": "jiāng",
+    "english": [
+      "River"
+    ],
+    "difficulty": 3
+  },
+  "w05067": {
+    "hanzi": "洋",
+    "pinyin": "yáng",
+    "english": [
+      "Ocean",
+      "Foreign"
+    ],
+    "difficulty": 3
+  },
+  "w05068": {
+    "hanzi": "济",
+    "pinyin": "jì",
+    "english": [
+      "To cross a river",
+      "To aid"
+    ],
+    "difficulty": 3
+  },
+  "w05069": {
+    "hanzi": "湾",
+    "pinyin": "wān",
+    "english": [
+      "Bay",
+      "Gulf"
+    ],
+    "difficulty": 3
+  },
+  "w05070": {
+    "hanzi": "牌",
+    "pinyin": "pái",
+    "english": [
+      "Card",
+      "Plate",
+      "Brand"
+    ],
+    "difficulty": 3
+  },
+  "w05071": {
+    "hanzi": "狂",
+    "pinyin": "kuáng",
+    "english": [
+      "Mad",
+      "Crazy",
+      "Violent"
+    ],
+    "difficulty": 3
+  },
+  "w05072": {
+    "hanzi": "琴",
+    "pinyin": "qín",
+    "english": [
+      "Zither",
+      "Musical instrument"
+    ],
+    "difficulty": 3
+  },
+  "w05073": {
+    "hanzi": "益",
+    "pinyin": "yì",
+    "english": [
+      "Benefit",
+      "Profit"
+    ],
+    "difficulty": 3
+  },
+  "w05074": {
+    "hanzi": "碟",
+    "pinyin": "dié",
+    "english": [
+      "Dish",
+      "Plate",
+      "Disc"
+    ],
+    "difficulty": 3
+  },
+  "w05075": {
+    "hanzi": "纸",
+    "pinyin": "zhǐ",
+    "english": [
+      "Paper"
+    ],
+    "difficulty": 3
+  },
+  "w05076": {
+    "hanzi": "绍",
+    "pinyin": "shào",
+    "english": [
+      "To continue",
+      "To carry on"
+    ],
+    "difficulty": 3
+  },
+  "w05077": {
+    "hanzi": "续",
+    "pinyin": "xù",
+    "english": [
+      "To continue",
+      "To replenish"
+    ],
+    "difficulty": 3
+  },
+  "w05078": {
+    "hanzi": "罗",
+    "pinyin": "luó",
+    "english": [
+      "Net",
+      "To collect",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05079": {
+    "hanzi": "置",
+    "pinyin": "zhì",
+    "english": [
+      "To place",
+      "To set up"
+    ],
+    "difficulty": 3
+  },
+  "w05080": {
+    "hanzi": "者",
+    "pinyin": "zhě",
+    "english": [
+      "(Person who does sth.)"
+    ],
+    "difficulty": 3
+  },
+  "w05081": {
+    "hanzi": "耶",
+    "pinyin": "yé",
+    "english": [
+      "(Final particle)",
+      "Jesus"
+    ],
+    "difficulty": 3
+  },
+  "w05082": {
+    "hanzi": "肉",
+    "pinyin": "ròu",
+    "english": [
+      "Meat",
+      "Flesh"
+    ],
+    "difficulty": 3
+  },
+  "w05083": {
+    "hanzi": "育",
+    "pinyin": "yù",
+    "english": [
+      "To educate",
+      "To give birth to"
+    ],
+    "difficulty": 3
+  },
+  "w05084": {
+    "hanzi": "般",
+    "pinyin": "bān",
+    "english": [
+      "Sort",
+      "Kind",
+      "Class"
+    ],
+    "difficulty": 3
+  },
+  "w05085": {
+    "hanzi": "荐",
+    "pinyin": "jiàn",
+    "english": [
+      "To recommend"
+    ],
+    "difficulty": 3
+  },
+  "w05086": {
+    "hanzi": "萤",
+    "pinyin": "yíng",
+    "english": [
+      "Firefly"
+    ],
+    "difficulty": 3
+  },
+  "w05087": {
+    "hanzi": "虎",
+    "pinyin": "hǔ",
+    "english": [
+      "Tiger"
+    ],
+    "difficulty": 3
+  },
+  "w05088": {
+    "hanzi": "虑",
+    "pinyin": "lǜ",
+    "english": [
+      "To consider",
+      "To worry"
+    ],
+    "difficulty": 3
+  },
+  "w05089": {
+    "hanzi": "蛮",
+    "pinyin": "mán",
+    "english": [
+      "Barbarian",
+      "Rough",
+      "Quite"
+    ],
+    "difficulty": 3
+  },
+  "w05090": {
+    "hanzi": "讯",
+    "pinyin": "xùn",
+    "english": [
+      "Message",
+      "News"
+    ],
+    "difficulty": 3
+  },
+  "w05091": {
+    "hanzi": "该",
+    "pinyin": "gāi",
+    "english": [
+      "Should",
+      "Ought to"
+    ],
+    "difficulty": 3
+  },
+  "w05092": {
+    "hanzi": "谓",
+    "pinyin": "wèi",
+    "english": [
+      "To speak",
+      "To say",
+      "Meaning"
+    ],
+    "difficulty": 3
+  },
+  "w05093": {
+    "hanzi": "贴",
+    "pinyin": "tiē",
+    "english": [
+      "To paste",
+      "To stick"
+    ],
+    "difficulty": 3
+  },
+  "w05094": {
+    "hanzi": "费",
+    "pinyin": "fèi",
+    "english": [
+      "To cost",
+      "Fee",
+      "Waste"
+    ],
+    "difficulty": 3
+  },
+  "w05095": {
+    "hanzi": "赏",
+    "pinyin": "shǎng",
+    "english": [
+      "To admire",
+      "To reward"
+    ],
+    "difficulty": 3
+  },
+  "w05096": {
+    "hanzi": "赛",
+    "pinyin": "sài",
+    "english": [
+      "Match",
+      "Competition"
+    ],
+    "difficulty": 3
+  },
+  "w05097": {
+    "hanzi": "赵",
+    "pinyin": "zhào",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05098": {
+    "hanzi": "载",
+    "pinyin": "zài",
+    "english": [
+      "To carry",
+      "To load"
+    ],
+    "difficulty": 3
+  },
+  "w05099": {
+    "hanzi": "辑",
+    "pinyin": "jí",
+    "english": [
+      "To gather",
+      "To edit"
+    ],
+    "difficulty": 3
+  },
+  "w05100": {
+    "hanzi": "述",
+    "pinyin": "shù",
+    "english": [
+      "To state",
+      "To narrate"
+    ],
+    "difficulty": 3
+  },
+  "w05101": {
+    "hanzi": "郭",
+    "pinyin": "guō",
+    "english": [
+      "Outer city wall",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05102": {
+    "hanzi": "量",
+    "pinyin": "liàng",
+    "english": [
+      "Quantity",
+      "Amount"
+    ],
+    "difficulty": 3
+  },
+  "w05103": {
+    "hanzi": "钟",
+    "pinyin": "zhōng",
+    "english": [
+      "Clock",
+      "Bell"
+    ],
+    "difficulty": 3
+  },
+  "w05104": {
+    "hanzi": "铁",
+    "pinyin": "tiě",
+    "english": [
+      "Iron"
+    ],
+    "difficulty": 3
+  },
+  "w05105": {
+    "hanzi": "铭",
+    "pinyin": "míng",
+    "english": [
+      "To engrave",
+      "Inscription"
+    ],
+    "difficulty": 3
+  },
+  "w05106": {
+    "hanzi": "阿",
+    "pinyin": "ā",
+    "english": [
+      "(Prefix for names)"
+    ],
+    "difficulty": 3
+  },
+  "w05107": {
+    "hanzi": "际",
+    "pinyin": "jì",
+    "english": [
+      "Border",
+      "Edge",
+      "Inter-"
+    ],
+    "difficulty": 3
+  },
+  "w05108": {
+    "hanzi": "院",
+    "pinyin": "yuàn",
+    "english": [
+      "Courtyard",
+      "Institution"
+    ],
+    "difficulty": 3
+  },
+  "w05109": {
+    "hanzi": "险",
+    "pinyin": "xiǎn",
+    "english": [
+      "Danger",
+      "Risk"
+    ],
+    "difficulty": 3
+  },
+  "w05110": {
+    "hanzi": "雨",
+    "pinyin": "yǔ",
+    "english": [
+      "Rain"
+    ],
+    "difficulty": 3
+  },
+  "w05111": {
+    "hanzi": "静",
+    "pinyin": "jìng",
+    "english": [
+      "Quiet",
+      "Still"
+    ],
+    "difficulty": 3
+  },
+  "w05112": {
+    "hanzi": "馆",
+    "pinyin": "guǎn",
+    "english": [
+      "Building",
+      "Shop",
+      "Embassy"
+    ],
+    "difficulty": 3
+  },
+  "w05113": {
+    "hanzi": "鬼",
+    "pinyin": "guǐ",
+    "english": [
+      "Ghost",
+      "Demon"
+    ],
+    "difficulty": 3
+  },
+  "w05114": {
+    "hanzi": "麽",
+    "pinyin": "me",
+    "english": [
+      "(Suffix for questions)"
+    ],
+    "difficulty": 3
+  },
+  "w05115": {
+    "hanzi": "丌",
+    "pinyin": "jī",
+    "english": [
+      "(Surname)",
+      "Table"
+    ],
+    "difficulty": 3
+  },
+  "w05116": {
+    "hanzi": "丹",
+    "pinyin": "dān",
+    "english": [
+      "Red",
+      "Pill"
+    ],
+    "difficulty": 3
+  },
+  "w05117": {
+    "hanzi": "乃",
+    "pinyin": "nǎi",
+    "english": [
+      "To be",
+      "Thus"
+    ],
+    "difficulty": 3
+  },
+  "w05118": {
+    "hanzi": "么",
+    "pinyin": "me",
+    "english": [
+      "(Suffix)"
+    ],
+    "difficulty": 3
+  },
+  "w05119": {
+    "hanzi": "乏",
+    "pinyin": "fá",
+    "english": [
+      "Lack",
+      "Tired"
+    ],
+    "difficulty": 3
+  },
+  "w05120": {
+    "hanzi": "乔",
+    "pinyin": "qiáo",
+    "english": [
+      "Tall",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05121": {
+    "hanzi": "予",
+    "pinyin": "yǔ",
+    "english": [
+      "To give"
+    ],
+    "difficulty": 3
+  },
+  "w05122": {
+    "hanzi": "亡",
+    "pinyin": "wáng",
+    "english": [
+      "To die",
+      "To flee"
+    ],
+    "difficulty": 3
+  },
+  "w05123": {
+    "hanzi": "亨",
+    "pinyin": "hēng",
+    "english": [
+      "Prosperous"
+    ],
+    "difficulty": 3
+  },
+  "w05124": {
+    "hanzi": "仅",
+    "pinyin": "jǐn",
+    "english": [
+      "Only",
+      "Merely"
+    ],
+    "difficulty": 3
+  },
+  "w05125": {
+    "hanzi": "仇",
+    "pinyin": "chóu",
+    "english": [
+      "Hatred",
+      "Enemy"
+    ],
+    "difficulty": 3
+  },
+  "w05126": {
+    "hanzi": "仙",
+    "pinyin": "xiān",
+    "english": [
+      "Immortal",
+      "Fairy"
+    ],
+    "difficulty": 3
+  },
+  "w05127": {
+    "hanzi": "仰",
+    "pinyin": "yǎng",
+    "english": [
+      "To look up",
+      "To admire"
+    ],
+    "difficulty": 3
+  },
+  "w05128": {
+    "hanzi": "仲",
+    "pinyin": "zhòng",
+    "english": [
+      "Second (in seniority)"
+    ],
+    "difficulty": 3
+  },
+  "w05129": {
+    "hanzi": "伊",
+    "pinyin": "yī",
+    "english": [
+      "He",
+      "She",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05130": {
+    "hanzi": "伍",
+    "pinyin": "wǔ",
+    "english": [
+      "Five",
+      "Army",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05131": {
+    "hanzi": "伦",
+    "pinyin": "lún",
+    "english": [
+      "Human relationship",
+      "Logic"
+    ],
+    "difficulty": 3
+  },
+  "w05132": {
+    "hanzi": "余",
+    "pinyin": "yú",
+    "english": [
+      "Surplus",
+      "I",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05133": {
+    "hanzi": "侠",
+    "pinyin": "xiá",
+    "english": [
+      "Knight-errant",
+      "Hero"
+    ],
+    "difficulty": 3
+  },
+  "w05134": {
+    "hanzi": "侨",
+    "pinyin": "qiáo",
+    "english": [
+      "Expatriate"
+    ],
+    "difficulty": 3
+  },
+  "w05135": {
+    "hanzi": "侯",
+    "pinyin": "hóu",
+    "english": [
+      "Marquis"
+    ],
+    "difficulty": 3
+  },
+  "w05136": {
+    "hanzi": "倚",
+    "pinyin": "yǐ",
+    "english": [
+      "To lean on"
+    ],
+    "difficulty": 3
+  },
+  "w05137": {
+    "hanzi": "傲",
+    "pinyin": "ào",
+    "english": [
+      "Proud",
+      "Arrogant"
+    ],
+    "difficulty": 3
+  },
+  "w05138": {
+    "hanzi": "兮",
+    "pinyin": "xī",
+    "english": [
+      "(Particle in old Chinese)"
+    ],
+    "difficulty": 3
+  },
+  "w05139": {
+    "hanzi": "兽",
+    "pinyin": "shòu",
+    "english": [
+      "Beast",
+      "Animal"
+    ],
+    "difficulty": 3
+  },
+  "w05140": {
+    "hanzi": "净",
+    "pinyin": "jìng",
+    "english": [
+      "Clean",
+      "Net"
+    ],
+    "difficulty": 3
+  },
+  "w05141": {
+    "hanzi": "凯",
+    "pinyin": "kǎi",
+    "english": [
+      "Triumphant",
+      "Victorious"
+    ],
+    "difficulty": 3
+  },
+  "w05142": {
+    "hanzi": "函",
+    "pinyin": "hán",
+    "english": [
+      "Letter",
+      "Envelope"
+    ],
+    "difficulty": 3
+  },
+  "w05143": {
+    "hanzi": "劫",
+    "pinyin": "jié",
+    "english": [
+      "Robbery",
+      "Disaster"
+    ],
+    "difficulty": 3
+  },
+  "w05144": {
+    "hanzi": "励",
+    "pinyin": "lì",
+    "english": [
+      "To encourage"
+    ],
+    "difficulty": 3
+  },
+  "w05145": {
+    "hanzi": "劲",
+    "pinyin": "jìn",
+    "english": [
+      "Strength",
+      "Energy"
+    ],
+    "difficulty": 3
+  },
+  "w05146": {
+    "hanzi": "勒",
+    "pinyin": "lè",
+    "english": [
+      "To rein in",
+      "To extort"
+    ],
+    "difficulty": 3
+  },
+  "w05147": {
+    "hanzi": "卒",
+    "pinyin": "zú",
+    "english": [
+      "Soldier",
+      "To die"
+    ],
+    "difficulty": 3
+  },
+  "w05148": {
+    "hanzi": "厅",
+    "pinyin": "tīng",
+    "english": [
+      "Hall",
+      "Office"
+    ],
+    "difficulty": 3
+  },
+  "w05149": {
+    "hanzi": "叭",
+    "pinyin": "bā",
+    "english": [
+      "(Onomatopoeia)"
+    ],
+    "difficulty": 3
+  },
+  "w05150": {
+    "hanzi": "吕",
+    "pinyin": "lǚ",
+    "english": [
+      "(Surname)",
+      "Pitch pipe"
+    ],
+    "difficulty": 3
+  },
+  "w05151": {
+    "hanzi": "吟",
+    "pinyin": "yín",
+    "english": [
+      "To chant",
+      "To moan"
+    ],
+    "difficulty": 3
+  },
+  "w05152": {
+    "hanzi": "吾",
+    "pinyin": "wú",
+    "english": [
+      "I",
+      "My"
+    ],
+    "difficulty": 3
+  },
+  "w05153": {
+    "hanzi": "咦",
+    "pinyin": "yí",
+    "english": [
+      "(Expression of surprise)"
+    ],
+    "difficulty": 3
+  },
+  "w05154": {
+    "hanzi": "咧",
+    "pinyin": "liě",
+    "english": [
+      "To grin"
+    ],
+    "difficulty": 3
+  },
+  "w05155": {
+    "hanzi": "咪",
+    "pinyin": "mī",
+    "english": [
+      "(Sound of cat)",
+      "Microphone"
+    ],
+    "difficulty": 3
+  },
+  "w05156": {
+    "hanzi": "哀",
+    "pinyin": "āi",
+    "english": [
+      "Sorrow",
+      "Grief"
+    ],
+    "difficulty": 3
+  },
+  "w05157": {
+    "hanzi": "哉",
+    "pinyin": "zāi",
+    "english": [
+      "(Exclamatory particle)"
+    ],
+    "difficulty": 3
+  },
+  "w05158": {
+    "hanzi": "哎",
+    "pinyin": "āi",
+    "english": [
+      "(Interjection of surprise/pain)"
+    ],
+    "difficulty": 3
+  },
+  "w05159": {
+    "hanzi": "哩",
+    "pinyin": "li",
+    "english": [
+      "(Particle)",
+      "Mile"
+    ],
+    "difficulty": 3
+  },
+  "w05160": {
+    "hanzi": "唐",
+    "pinyin": "táng",
+    "english": [
+      "Tang Dynasty",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05161": {
+    "hanzi": "唬",
+    "pinyin": "hǔ",
+    "english": [
+      "To bluff",
+      "To scare"
+    ],
+    "difficulty": 3
+  },
+  "w05162": {
+    "hanzi": "唷",
+    "pinyin": "yō",
+    "english": [
+      "(Interjection)"
+    ],
+    "difficulty": 3
+  },
+  "w05163": {
+    "hanzi": "啡",
+    "pinyin": "fēi",
+    "english": [
+      "Coffee"
+    ],
+    "difficulty": 3
+  },
+  "w05164": {
+    "hanzi": "啪",
+    "pinyin": "pā",
+    "english": [
+      "(Sound of slapping/clapping)"
+    ],
+    "difficulty": 3
+  },
+  "w05165": {
+    "hanzi": "喵",
+    "pinyin": "miāo",
+    "english": [
+      "Meow"
+    ],
+    "difficulty": 3
+  },
+  "w05166": {
+    "hanzi": "喷",
+    "pinyin": "pēn",
+    "english": [
+      "To spray",
+      "To sneeze"
+    ],
+    "difficulty": 3
+  },
+  "w05167": {
+    "hanzi": "圾",
+    "pinyin": "jī",
+    "english": [
+      "Garbage (rubbish)"
+    ],
+    "difficulty": 3
+  },
+  "w05168": {
+    "hanzi": "址",
+    "pinyin": "zhǐ",
+    "english": [
+      "Site",
+      "Location"
+    ],
+    "difficulty": 3
+  },
+  "w05169": {
+    "hanzi": "坜",
+    "pinyin": "lì",
+    "english": [
+      "Pit"
+    ],
+    "difficulty": 3
+  },
+  "w05170": {
+    "hanzi": "坤",
+    "pinyin": "kūn",
+    "english": [
+      "Earth",
+      "Female principle"
+    ],
+    "difficulty": 3
+  },
+  "w05171": {
+    "hanzi": "坪",
+    "pinyin": "píng",
+    "english": [
+      "Level ground",
+      "Plain"
+    ],
+    "difficulty": 3
+  },
+  "w05172": {
+    "hanzi": "域",
+    "pinyin": "yù",
+    "english": [
+      "Region",
+      "Territory"
+    ],
+    "difficulty": 3
+  },
+  "w05173": {
+    "hanzi": "堪",
+    "pinyin": "kān",
+    "english": [
+      "To endure",
+      "Worthy"
+    ],
+    "difficulty": 3
+  },
+  "w05174": {
+    "hanzi": "塞",
+    "pinyin": "sāi",
+    "english": [
+      "To stop up",
+      "Cork"
+    ],
+    "difficulty": 3
+  },
+  "w05175": {
+    "hanzi": "壁",
+    "pinyin": "bì",
+    "english": [
+      "Wall"
+    ],
+    "difficulty": 3
+  },
+  "w05176": {
+    "hanzi": "壳",
+    "pinyin": "ké",
+    "english": [
+      "Shell"
+    ],
+    "difficulty": 3
+  },
+  "w05177": {
+    "hanzi": "夥",
+    "pinyin": "huǒ",
+    "english": [
+      "Partner",
+      "Group"
+    ],
+    "difficulty": 3
+  },
+  "w05178": {
+    "hanzi": "夺",
+    "pinyin": "duó",
+    "english": [
+      "To seize",
+      "To take away"
+    ],
+    "difficulty": 3
+  },
+  "w05179": {
+    "hanzi": "奈",
+    "pinyin": "nài",
+    "english": [
+      "How can one help"
+    ],
+    "difficulty": 3
+  },
+  "w05180": {
+    "hanzi": "契",
+    "pinyin": "qì",
+    "english": [
+      "Contract",
+      "Deed"
+    ],
+    "difficulty": 3
+  },
+  "w05181": {
+    "hanzi": "妙",
+    "pinyin": "miào",
+    "english": [
+      "Wonderful",
+      "Clever"
+    ],
+    "difficulty": 3
+  },
+  "w05182": {
+    "hanzi": "妮",
+    "pinyin": "nī",
+    "english": [
+      "Girl"
+    ],
+    "difficulty": 3
+  },
+  "w05183": {
+    "hanzi": "姆",
+    "pinyin": "mǔ",
+    "english": [
+      "Nanny",
+      "Matron"
+    ],
+    "difficulty": 3
+  },
+  "w05184": {
+    "hanzi": "姊",
+    "pinyin": "zǐ",
+    "english": [
+      "Older sister"
+    ],
+    "difficulty": 3
+  },
+  "w05185": {
+    "hanzi": "娘",
+    "pinyin": "niáng",
+    "english": [
+      "Mother",
+      "Woman"
+    ],
+    "difficulty": 3
+  },
+  "w05186": {
+    "hanzi": "婆",
+    "pinyin": "pó",
+    "english": [
+      "Grandmother",
+      "Matron"
+    ],
+    "difficulty": 3
+  },
+  "w05187": {
+    "hanzi": "孟",
+    "pinyin": "mèng",
+    "english": [
+      "Eldest brother",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05188": {
+    "hanzi": "宋",
+    "pinyin": "sòng",
+    "english": [
+      "Song Dynasty",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05189": {
+    "hanzi": "宙",
+    "pinyin": "zhòu",
+    "english": [
+      "Universe",
+      "Time"
+    ],
+    "difficulty": 3
+  },
+  "w05190": {
+    "hanzi": "寝",
+    "pinyin": "qǐn",
+    "english": [
+      "To sleep",
+      "Bedroom"
+    ],
+    "difficulty": 3
+  },
+  "w05191": {
+    "hanzi": "寞",
+    "pinyin": "mò",
+    "english": [
+      "Lonely"
+    ],
+    "difficulty": 3
+  },
+  "w05192": {
+    "hanzi": "察",
+    "pinyin": "chá",
+    "english": [
+      "To examine",
+      "To observe"
+    ],
+    "difficulty": 3
+  },
+  "w05193": {
+    "hanzi": "尘",
+    "pinyin": "chén",
+    "english": [
+      "Dust"
+    ],
+    "difficulty": 3
+  },
+  "w05194": {
+    "hanzi": "尼",
+    "pinyin": "ní",
+    "english": [
+      "Nun"
+    ],
+    "difficulty": 3
+  },
+  "w05195": {
+    "hanzi": "屠",
+    "pinyin": "tú",
+    "english": [
+      "To slaughter"
+    ],
+    "difficulty": 3
+  },
+  "w05196": {
+    "hanzi": "岚",
+    "pinyin": "lán",
+    "english": [
+      "Mountain mist"
+    ],
+    "difficulty": 3
+  },
+  "w05197": {
+    "hanzi": "岭",
+    "pinyin": "lǐng",
+    "english": [
+      "Ridge",
+      "Mountain range"
+    ],
+    "difficulty": 3
+  },
+  "w05198": {
+    "hanzi": "峰",
+    "pinyin": "fēng",
+    "english": [
+      "Peak",
+      "Summit"
+    ],
+    "difficulty": 3
+  },
+  "w05199": {
+    "hanzi": "巫",
+    "pinyin": "wū",
+    "english": [
+      "Witch",
+      "Wizard"
+    ],
+    "difficulty": 3
+  },
+  "w05200": {
+    "hanzi": "币",
+    "pinyin": "bì",
+    "english": [
+      "Currency",
+      "Coin"
+    ],
+    "difficulty": 3
+  },
+  "w05201": {
+    "hanzi": "席",
+    "pinyin": "xí",
+    "english": [
+      "Mat",
+      "Seat",
+      "Banquet"
+    ],
+    "difficulty": 3
+  },
+  "w05202": {
+    "hanzi": "库",
+    "pinyin": "kù",
+    "english": [
+      "Warehouse",
+      "Storage"
+    ],
+    "difficulty": 3
+  },
+  "w05203": {
+    "hanzi": "庭",
+    "pinyin": "tíng",
+    "english": [
+      "Court",
+      "Courtyard"
+    ],
+    "difficulty": 3
+  },
+  "w05204": {
+    "hanzi": "廖",
+    "pinyin": "liào",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05205": {
+    "hanzi": "廷",
+    "pinyin": "tíng",
+    "english": [
+      "Court (royal)"
+    ],
+    "difficulty": 3
+  },
+  "w05206": {
+    "hanzi": "弃",
+    "pinyin": "qì",
+    "english": [
+      "To abandon"
+    ],
+    "difficulty": 3
+  },
+  "w05207": {
+    "hanzi": "弘",
+    "pinyin": "hóng",
+    "english": [
+      "Great",
+      "Magnificent"
+    ],
+    "difficulty": 3
+  },
+  "w05208": {
+    "hanzi": "弯",
+    "pinyin": "wān",
+    "english": [
+      "Curved",
+      "To bend"
+    ],
+    "difficulty": 3
+  },
+  "w05209": {
+    "hanzi": "彦",
+    "pinyin": "yàn",
+    "english": [
+      "Accomplished",
+      "Elegant"
+    ],
+    "difficulty": 3
+  },
+  "w05210": {
+    "hanzi": "彬",
+    "pinyin": "bīn",
+    "english": [
+      "Refined",
+      "Polite"
+    ],
+    "difficulty": 3
+  },
+  "w05211": {
+    "hanzi": "彭",
+    "pinyin": "péng",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05212": {
+    "hanzi": "彰",
+    "pinyin": "zhāng",
+    "english": [
+      "To manifest",
+      "Clear"
+    ],
+    "difficulty": 3
+  },
+  "w05213": {
+    "hanzi": "役",
+    "pinyin": "yì",
+    "english": [
+      "Service",
+      "War"
+    ],
+    "difficulty": 3
+  },
+  "w05214": {
+    "hanzi": "径",
+    "pinyin": "jìng",
+    "english": [
+      "Path",
+      "Diameter"
+    ],
+    "difficulty": 3
+  },
+  "w05215": {
+    "hanzi": "徐",
+    "pinyin": "xú",
+    "english": [
+      "Slowly",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05216": {
+    "hanzi": "怒",
+    "pinyin": "nù",
+    "english": [
+      "Angry"
+    ],
+    "difficulty": 3
+  },
+  "w05217": {
+    "hanzi": "怖",
+    "pinyin": "bù",
+    "english": [
+      "Terror",
+      "Afraid"
+    ],
+    "difficulty": 3
+  },
+  "w05218": {
+    "hanzi": "怜",
+    "pinyin": "lián",
+    "english": [
+      "To pity"
+    ],
+    "difficulty": 3
+  },
+  "w05219": {
+    "hanzi": "怡",
+    "pinyin": "yí",
+    "english": [
+      "Happy",
+      "Joyful"
+    ],
+    "difficulty": 3
+  },
+  "w05220": {
+    "hanzi": "怨",
+    "pinyin": "yuàn",
+    "english": [
+      "To blame",
+      "To complain"
+    ],
+    "difficulty": 3
+  },
+  "w05221": {
+    "hanzi": "恒",
+    "pinyin": "héng",
+    "english": [
+      "Constant",
+      "Permanent"
+    ],
+    "difficulty": 3
+  },
+  "w05222": {
+    "hanzi": "悉",
+    "pinyin": "xī",
+    "english": [
+      "To know",
+      "All"
+    ],
+    "difficulty": 3
+  },
+  "w05223": {
+    "hanzi": "悟",
+    "pinyin": "wù",
+    "english": [
+      "To realize",
+      "To comprehend"
+    ],
+    "difficulty": 3
+  },
+  "w05224": {
+    "hanzi": "悦",
+    "pinyin": "yuè",
+    "english": [
+      "Pleased",
+      "Happy"
+    ],
+    "difficulty": 3
+  },
+  "w05225": {
+    "hanzi": "惑",
+    "pinyin": "huò",
+    "english": [
+      "Confused",
+      "To puzzle"
+    ],
+    "difficulty": 3
+  },
+  "w05226": {
+    "hanzi": "惠",
+    "pinyin": "huì",
+    "english": [
+      "Benefit",
+      "Favor",
+      "Kindness"
+    ],
+    "difficulty": 3
+  },
+  "w05227": {
+    "hanzi": "惧",
+    "pinyin": "jù",
+    "english": [
+      "To fear",
+      "Dread"
+    ],
+    "difficulty": 3
+  },
+  "w05228": {
+    "hanzi": "惨",
+    "pinyin": "cǎn",
+    "english": [
+      "Miserable",
+      "Wretched",
+      "Cruel"
+    ],
+    "difficulty": 3
+  },
+  "w05229": {
+    "hanzi": "愁",
+    "pinyin": "chóu",
+    "english": [
+      "Worry",
+      "Anxiety"
+    ],
+    "difficulty": 3
+  },
+  "w05230": {
+    "hanzi": "慕",
+    "pinyin": "mù",
+    "english": [
+      "To admire",
+      "To yearn for"
+    ],
+    "difficulty": 3
+  },
+  "w05231": {
+    "hanzi": "慧",
+    "pinyin": "huì",
+    "english": [
+      "Wisdom",
+      "Intelligent"
+    ],
+    "difficulty": 3
+  },
+  "w05232": {
+    "hanzi": "憾",
+    "pinyin": "hàn",
+    "english": [
+      "Regret",
+      "Remorse"
+    ],
+    "difficulty": 3
+  },
+  "w05233": {
+    "hanzi": "户",
+    "pinyin": "hù",
+    "english": [
+      "Door",
+      "Household"
+    ],
+    "difficulty": 3
+  },
+  "w05234": {
+    "hanzi": "扫",
+    "pinyin": "sǎo",
+    "english": [
+      "To sweep"
+    ],
+    "difficulty": 3
+  },
+  "w05235": {
+    "hanzi": "扬",
+    "pinyin": "yáng",
+    "english": [
+      "To raise",
+      "To spread"
+    ],
+    "difficulty": 3
+  },
+  "w05236": {
+    "hanzi": "扯",
+    "pinyin": "chě",
+    "english": [
+      "To pull",
+      "To tear",
+      "To chat"
+    ],
+    "difficulty": 3
+  },
+  "w05237": {
+    "hanzi": "括",
+    "pinyin": "kuò",
+    "english": [
+      "To include",
+      "To enclose"
+    ],
+    "difficulty": 3
+  },
+  "w05238": {
+    "hanzi": "挤",
+    "pinyin": "jǐ",
+    "english": [
+      "Crowded",
+      "To squeeze"
+    ],
+    "difficulty": 3
+  },
+  "w05239": {
+    "hanzi": "捉",
+    "pinyin": "zhuō",
+    "english": [
+      "To catch",
+      "To capture"
+    ],
+    "difficulty": 3
+  },
+  "w05240": {
+    "hanzi": "捷",
+    "pinyin": "jié",
+    "english": [
+      "Quick",
+      "Victory"
+    ],
+    "difficulty": 3
+  },
+  "w05241": {
+    "hanzi": "撑",
+    "pinyin": "chēng",
+    "english": [
+      "To support",
+      "To prop up"
+    ],
+    "difficulty": 3
+  },
+  "w05242": {
+    "hanzi": "擎",
+    "pinyin": "qíng",
+    "english": [
+      "To lift up"
+    ],
+    "difficulty": 3
+  },
+  "w05243": {
+    "hanzi": "敝",
+    "pinyin": "bì",
+    "english": [
+      "Shabby",
+      "My (polite)"
+    ],
+    "difficulty": 3
+  },
+  "w05244": {
+    "hanzi": "敦",
+    "pinyin": "dūn",
+    "english": [
+      "Sincere",
+      "Honest"
+    ],
+    "difficulty": 3
+  },
+  "w05245": {
+    "hanzi": "斋",
+    "pinyin": "zhāi",
+    "english": [
+      "Vegetarian diet",
+      "Study (room)"
+    ],
+    "difficulty": 3
+  },
+  "w05246": {
+    "hanzi": "旦",
+    "pinyin": "dàn",
+    "english": [
+      "Dawn",
+      "Day",
+      "Female role in opera"
+    ],
+    "difficulty": 3
+  },
+  "w05247": {
+    "hanzi": "旭",
+    "pinyin": "xù",
+    "english": [
+      "Rising sun",
+      "Brilliant"
+    ],
+    "difficulty": 3
+  },
+  "w05248": {
+    "hanzi": "映",
+    "pinyin": "yìng",
+    "english": [
+      "To reflect",
+      "To shine"
+    ],
+    "difficulty": 3
+  },
+  "w05249": {
+    "hanzi": "昭",
+    "pinyin": "zhāo",
+    "english": [
+      "Clear",
+      "Obvious"
+    ],
+    "difficulty": 3
+  },
+  "w05250": {
+    "hanzi": "晓",
+    "pinyin": "xiǎo",
+    "english": [
+      "Dawn",
+      "To know"
+    ],
+    "difficulty": 3
+  },
+  "w05251": {
+    "hanzi": "晨",
+    "pinyin": "chén",
+    "english": [
+      "Morning"
+    ],
+    "difficulty": 3
+  },
+  "w05252": {
+    "hanzi": "晶",
+    "pinyin": "jīng",
+    "english": [
+      "Crystal",
+      "Clear"
+    ],
+    "difficulty": 3
+  },
+  "w05253": {
+    "hanzi": "暑",
+    "pinyin": "shǔ",
+    "english": [
+      "Heat",
+      "Hot weather"
+    ],
+    "difficulty": 3
+  },
+  "w05254": {
+    "hanzi": "曰",
+    "pinyin": "yuē",
+    "english": [
+      "To say"
+    ],
+    "difficulty": 3
+  },
+  "w05255": {
+    "hanzi": "曼",
+    "pinyin": "màn",
+    "english": [
+      "Graceful",
+      "Long"
+    ],
+    "difficulty": 3
+  },
+  "w05256": {
+    "hanzi": "替",
+    "pinyin": "tì",
+    "english": [
+      "To replace",
+      "For"
+    ],
+    "difficulty": 3
+  },
+  "w05257": {
+    "hanzi": "末",
+    "pinyin": "mò",
+    "english": [
+      "End",
+      "Tip"
+    ],
+    "difficulty": 3
+  },
+  "w05258": {
+    "hanzi": "朱",
+    "pinyin": "zhū",
+    "english": [
+      "Vermilion",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05259": {
+    "hanzi": "村",
+    "pinyin": "cūn",
+    "english": [
+      "Village"
+    ],
+    "difficulty": 3
+  },
+  "w05260": {
+    "hanzi": "析",
+    "pinyin": "xī",
+    "english": [
+      "To analyze",
+      "To separate"
+    ],
+    "difficulty": 3
+  },
+  "w05261": {
+    "hanzi": "枢",
+    "pinyin": "shū",
+    "english": [
+      "Pivot",
+      "Hub"
+    ],
+    "difficulty": 3
+  },
+  "w05262": {
+    "hanzi": "枫",
+    "pinyin": "fēng",
+    "english": [
+      "Maple"
+    ],
+    "difficulty": 3
+  },
+  "w05263": {
+    "hanzi": "柏",
+    "pinyin": "bǎi",
+    "english": [
+      "Cypress",
+      "Cedar"
+    ],
+    "difficulty": 3
+  },
+  "w05264": {
+    "hanzi": "柳",
+    "pinyin": "liǔ",
+    "english": [
+      "Willow"
+    ],
+    "difficulty": 3
+  },
+  "w05265": {
+    "hanzi": "桑",
+    "pinyin": "sāng",
+    "english": [
+      "Mulberry"
+    ],
+    "difficulty": 3
+  },
+  "w05266": {
+    "hanzi": "梁",
+    "pinyin": "liáng",
+    "english": [
+      "Beam",
+      "Bridge",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05267": {
+    "hanzi": "梯",
+    "pinyin": "tī",
+    "english": [
+      "Ladder",
+      "Stairs"
+    ],
+    "difficulty": 3
+  },
+  "w05268": {
+    "hanzi": "械",
+    "pinyin": "xiè",
+    "english": [
+      "Machine",
+      "Weapon"
+    ],
+    "difficulty": 3
+  },
+  "w05269": {
+    "hanzi": "棋",
+    "pinyin": "qí",
+    "english": [
+      "Chess"
+    ],
+    "difficulty": 3
+  },
+  "w05270": {
+    "hanzi": "棚",
+    "pinyin": "péng",
+    "english": [
+      "Shed",
+      "Canopy"
+    ],
+    "difficulty": 3
+  },
+  "w05271": {
+    "hanzi": "椰",
+    "pinyin": "yē",
+    "english": [
+      "Coconut"
+    ],
+    "difficulty": 3
+  },
+  "w05272": {
+    "hanzi": "殊",
+    "pinyin": "shū",
+    "english": [
+      "Special",
+      "Different"
+    ],
+    "difficulty": 3
+  },
+  "w05273": {
+    "hanzi": "氏",
+    "pinyin": "shì",
+    "english": [
+      "Clan",
+      "Family name"
+    ],
+    "difficulty": 3
+  },
+  "w05274": {
+    "hanzi": "汝",
+    "pinyin": "rǔ",
+    "english": [
+      "You (archaic)"
+    ],
+    "difficulty": 3
+  },
+  "w05275": {
+    "hanzi": "汪",
+    "pinyin": "wāng",
+    "english": [
+      "(Surname)",
+      "Pond"
+    ],
+    "difficulty": 3
+  },
+  "w05276": {
+    "hanzi": "沈",
+    "pinyin": "shěn",
+    "english": [
+      "(Surname)",
+      "To sink (shěn/chén)"
+    ],
+    "difficulty": 3
+  },
+  "w05277": {
+    "hanzi": "沧",
+    "pinyin": "cāng",
+    "english": [
+      "Blue-green",
+      "Cold"
+    ],
+    "difficulty": 3
+  },
+  "w05278": {
+    "hanzi": "河",
+    "pinyin": "hé",
+    "english": [
+      "River"
+    ],
+    "difficulty": 3
+  },
+  "w05279": {
+    "hanzi": "泉",
+    "pinyin": "quán",
+    "english": [
+      "Spring",
+      "Fountain"
+    ],
+    "difficulty": 3
+  },
+  "w05280": {
+    "hanzi": "泥",
+    "pinyin": "ní",
+    "english": [
+      "Mud"
+    ],
+    "difficulty": 3
+  },
+  "w05281": {
+    "hanzi": "泪",
+    "pinyin": "lèi",
+    "english": [
+      "Tears"
+    ],
+    "difficulty": 3
+  },
+  "w05282": {
+    "hanzi": "泳",
+    "pinyin": "yǒng",
+    "english": [
+      "To swim"
+    ],
+    "difficulty": 3
+  },
+  "w05283": {
+    "hanzi": "泽",
+    "pinyin": "zé",
+    "english": [
+      "Pool",
+      "Luster",
+      "Beneficence"
+    ],
+    "difficulty": 3
+  },
+  "w05284": {
+    "hanzi": "洁",
+    "pinyin": "jié",
+    "english": [
+      "Clean"
+    ],
+    "difficulty": 3
+  },
+  "w05285": {
+    "hanzi": "洛",
+    "pinyin": "luò",
+    "english": [
+      "(River name)",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05286": {
+    "hanzi": "洩",
+    "pinyin": "xiè",
+    "english": [
+      "To leak"
+    ],
+    "difficulty": 3
+  },
+  "w05287": {
+    "hanzi": "洲",
+    "pinyin": "zhōu",
+    "english": [
+      "Continent",
+      "Island"
+    ],
+    "difficulty": 3
+  },
+  "w05288": {
+    "hanzi": "浩",
+    "pinyin": "hào",
+    "english": [
+      "Vast",
+      "Grand"
+    ],
+    "difficulty": 3
+  },
+  "w05289": {
+    "hanzi": "浮",
+    "pinyin": "fú",
+    "english": [
+      "To float"
+    ],
+    "difficulty": 3
+  },
+  "w05290": {
+    "hanzi": "涛",
+    "pinyin": "tāo",
+    "english": [
+      "Big wave"
+    ],
+    "difficulty": 3
+  },
+  "w05291": {
+    "hanzi": "涯",
+    "pinyin": "yá",
+    "english": [
+      "Horizon",
+      "Shore"
+    ],
+    "difficulty": 3
+  },
+  "w05292": {
+    "hanzi": "涵",
+    "pinyin": "hán",
+    "english": [
+      "To contain",
+      "Culvert"
+    ],
+    "difficulty": 3
+  },
+  "w05293": {
+    "hanzi": "淑",
+    "pinyin": "shū",
+    "english": [
+      "Kind and gentle"
+    ],
+    "difficulty": 3
+  },
+  "w05294": {
+    "hanzi": "渐",
+    "pinyin": "jiàn",
+    "english": [
+      "Gradually"
+    ],
+    "difficulty": 3
+  },
+  "w05295": {
+    "hanzi": "渡",
+    "pinyin": "dù",
+    "english": [
+      "To cross",
+      "Ferry"
+    ],
+    "difficulty": 3
+  },
+  "w05296": {
+    "hanzi": "滥",
+    "pinyin": "làn",
+    "english": [
+      "To flood",
+      "Excessive"
+    ],
+    "difficulty": 3
+  },
+  "w05297": {
+    "hanzi": "漠",
+    "pinyin": "mò",
+    "english": [
+      "Desert",
+      "Indifferent"
+    ],
+    "difficulty": 3
+  },
+  "w05298": {
+    "hanzi": "炮",
+    "pinyin": "pào",
+    "english": [
+      "Cannon",
+      "Firecracker"
+    ],
+    "difficulty": 3
+  },
+  "w05299": {
+    "hanzi": "炸",
+    "pinyin": "zhà",
+    "english": [
+      "To explode",
+      "To fry"
+    ],
+    "difficulty": 3
+  },
+  "w05300": {
+    "hanzi": "烈",
+    "pinyin": "liè",
+    "english": [
+      "Intense",
+      "Violent"
+    ],
+    "difficulty": 3
+  },
+  "w05301": {
+    "hanzi": "烧",
+    "pinyin": "shāo",
+    "english": [
+      "To burn",
+      "To cook"
+    ],
+    "difficulty": 3
+  },
+  "w05302": {
+    "hanzi": "煞",
+    "pinyin": "shà",
+    "english": [
+      "To stop",
+      "Evil spirit"
+    ],
+    "difficulty": 3
+  },
+  "w05303": {
+    "hanzi": "爵",
+    "pinyin": "jué",
+    "english": [
+      "Nobility",
+      "Jazz"
+    ],
+    "difficulty": 3
+  },
+  "w05304": {
+    "hanzi": "牠",
+    "pinyin": "tā",
+    "english": [
+      "It (for animals)"
+    ],
+    "difficulty": 3
+  },
+  "w05305": {
+    "hanzi": "牧",
+    "pinyin": "mù",
+    "english": [
+      "To herd",
+      "Shepherd"
+    ],
+    "difficulty": 3
+  },
+  "w05306": {
+    "hanzi": "犯",
+    "pinyin": "fàn",
+    "english": [
+      "To violate",
+      "Criminal"
+    ],
+    "difficulty": 3
+  },
+  "w05307": {
+    "hanzi": "狐",
+    "pinyin": "hú",
+    "english": [
+      "Fox"
+    ],
+    "difficulty": 3
+  },
+  "w05308": {
+    "hanzi": "狱",
+    "pinyin": "yù",
+    "english": [
+      "Prison"
+    ],
+    "difficulty": 3
+  },
+  "w05309": {
+    "hanzi": "献",
+    "pinyin": "xiàn",
+    "english": [
+      "To offer",
+      "To donate"
+    ],
+    "difficulty": 3
+  },
+  "w05310": {
+    "hanzi": "玄",
+    "pinyin": "xuán",
+    "english": [
+      "Mysterious",
+      "Black"
+    ],
+    "difficulty": 3
+  },
+  "w05311": {
+    "hanzi": "玛",
+    "pinyin": "mǎ",
+    "english": [
+      "Agate"
+    ],
+    "difficulty": 3
+  },
+  "w05312": {
+    "hanzi": "玫",
+    "pinyin": "méi",
+    "english": [
+      "Rose"
+    ],
+    "difficulty": 3
+  },
+  "w05313": {
+    "hanzi": "玲",
+    "pinyin": "líng",
+    "english": [
+      "Tinkling of jade"
+    ],
+    "difficulty": 3
+  },
+  "w05314": {
+    "hanzi": "珠",
+    "pinyin": "zhū",
+    "english": [
+      "Pearl",
+      "Bead"
+    ],
+    "difficulty": 3
+  },
+  "w05315": {
+    "hanzi": "琪",
+    "pinyin": "qí",
+    "english": [
+      "Fine jade"
+    ],
+    "difficulty": 3
+  },
+  "w05316": {
+    "hanzi": "瑜",
+    "pinyin": "yú",
+    "english": [
+      "Fine jade",
+      "Virtue"
+    ],
+    "difficulty": 3
+  },
+  "w05317": {
+    "hanzi": "瑞",
+    "pinyin": "ruì",
+    "english": [
+      "Lucky",
+      "Auspicious"
+    ],
+    "difficulty": 3
+  },
+  "w05318": {
+    "hanzi": "瑰",
+    "pinyin": "guī",
+    "english": [
+      "Rose",
+      "Gem"
+    ],
+    "difficulty": 3
+  },
+  "w05319": {
+    "hanzi": "瓜",
+    "pinyin": "guā",
+    "english": [
+      "Melon"
+    ],
+    "difficulty": 3
+  },
+  "w05320": {
+    "hanzi": "甘",
+    "pinyin": "gān",
+    "english": [
+      "Sweet",
+      "Willing"
+    ],
+    "difficulty": 3
+  },
+  "w05321": {
+    "hanzi": "略",
+    "pinyin": "lüè",
+    "english": [
+      "Strategy",
+      "Brief"
+    ],
+    "difficulty": 3
+  },
+  "w05322": {
+    "hanzi": "疗",
+    "pinyin": "liáo",
+    "english": [
+      "To treat",
+      "To cure"
+    ],
+    "difficulty": 3
+  },
+  "w05323": {
+    "hanzi": "痴",
+    "pinyin": "chī",
+    "english": [
+      "Foolish",
+      "Obsessed"
+    ],
+    "difficulty": 3
+  },
+  "w05324": {
+    "hanzi": "盃",
+    "pinyin": "bēi",
+    "english": [
+      "Cup"
+    ],
+    "difficulty": 3
+  },
+  "w05325": {
+    "hanzi": "盟",
+    "pinyin": "méng",
+    "english": [
+      "Alliance",
+      "Oath"
+    ],
+    "difficulty": 3
+  },
+  "w05326": {
+    "hanzi": "盾",
+    "pinyin": "dùn",
+    "english": [
+      "Shield"
+    ],
+    "difficulty": 3
+  },
+  "w05327": {
+    "hanzi": "眠",
+    "pinyin": "mián",
+    "english": [
+      "To sleep"
+    ],
+    "difficulty": 3
+  },
+  "w05328": {
+    "hanzi": "睛",
+    "pinyin": "jīng",
+    "english": [
+      "Eye",
+      "Eyeball"
+    ],
+    "difficulty": 3
+  },
+  "w05329": {
+    "hanzi": "矣",
+    "pinyin": "yǐ",
+    "english": [
+      "(Final particle)"
+    ],
+    "difficulty": 3
+  },
+  "w05330": {
+    "hanzi": "砂",
+    "pinyin": "shā",
+    "english": [
+      "Sand",
+      "Grit"
+    ],
+    "difficulty": 3
+  },
+  "w05331": {
+    "hanzi": "础",
+    "pinyin": "chǔ",
+    "english": [
+      "Foundation",
+      "Base"
+    ],
+    "difficulty": 3
+  },
+  "w05332": {
+    "hanzi": "碍",
+    "pinyin": "ài",
+    "english": [
+      "To hinder",
+      "Obstacle"
+    ],
+    "difficulty": 3
+  },
+  "w05333": {
+    "hanzi": "碧",
+    "pinyin": "bì",
+    "english": [
+      "Green jade",
+      "Bluish green"
+    ],
+    "difficulty": 3
+  },
+  "w05334": {
+    "hanzi": "祥",
+    "pinyin": "xiáng",
+    "english": [
+      "Auspicious",
+      "Lucky"
+    ],
+    "difficulty": 3
+  },
+  "w05335": {
+    "hanzi": "祸",
+    "pinyin": "huò",
+    "english": [
+      "Disaster",
+      "Misfortune"
+    ],
+    "difficulty": 3
+  },
+  "w05336": {
+    "hanzi": "禅",
+    "pinyin": "chán",
+    "english": [
+      "Zen",
+      "Meditation"
+    ],
+    "difficulty": 3
+  },
+  "w05337": {
+    "hanzi": "秀",
+    "pinyin": "xiù",
+    "english": [
+      "Elegant",
+      "Show"
+    ],
+    "difficulty": 3
+  },
+  "w05338": {
+    "hanzi": "秦",
+    "pinyin": "qín",
+    "english": [
+      "Qin Dynasty",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05339": {
+    "hanzi": "稣",
+    "pinyin": "sū",
+    "english": [
+      "Revive"
+    ],
+    "difficulty": 3
+  },
+  "w05340": {
+    "hanzi": "穹",
+    "pinyin": "qióng",
+    "english": [
+      "Dome",
+      "Sky"
+    ],
+    "difficulty": 3
+  },
+  "w05341": {
+    "hanzi": "笛",
+    "pinyin": "dí",
+    "english": [
+      "Flute"
+    ],
+    "difficulty": 3
+  },
+  "w05342": {
+    "hanzi": "筋",
+    "pinyin": "jīn",
+    "english": [
+      "Muscle",
+      "Tendon"
+    ],
+    "difficulty": 3
+  },
+  "w05343": {
+    "hanzi": "筑",
+    "pinyin": "zhù",
+    "english": [
+      "To build",
+      "Construction"
+    ],
+    "difficulty": 3
+  },
+  "w05344": {
+    "hanzi": "箭",
+    "pinyin": "jiàn",
+    "english": [
+      "Arrow"
+    ],
+    "difficulty": 3
+  },
+  "w05345": {
+    "hanzi": "箱",
+    "pinyin": "xiāng",
+    "english": [
+      "Box",
+      "Trunk"
+    ],
+    "difficulty": 3
+  },
+  "w05346": {
+    "hanzi": "篮",
+    "pinyin": "lán",
+    "english": [
+      "Basket"
+    ],
+    "difficulty": 3
+  },
+  "w05347": {
+    "hanzi": "糕",
+    "pinyin": "gāo",
+    "english": [
+      "Cake"
+    ],
+    "difficulty": 3
+  },
+  "w05348": {
+    "hanzi": "织",
+    "pinyin": "zhī",
+    "english": [
+      "To weave",
+      "To knit"
+    ],
+    "difficulty": 3
+  },
+  "w05349": {
+    "hanzi": "绘",
+    "pinyin": "huì",
+    "english": [
+      "To paint",
+      "To draw"
+    ],
+    "difficulty": 3
+  },
+  "w05350": {
+    "hanzi": "绩",
+    "pinyin": "jì",
+    "english": [
+      "Achievement",
+      "Merit"
+    ],
+    "difficulty": 3
+  },
+  "w05351": {
+    "hanzi": "绪",
+    "pinyin": "xù",
+    "english": [
+      "Mood",
+      "Thread"
+    ],
+    "difficulty": 3
+  },
+  "w05352": {
+    "hanzi": "署",
+    "pinyin": "shǔ",
+    "english": [
+      "Office",
+      "Bureau",
+      "To sign"
+    ],
+    "difficulty": 3
+  },
+  "w05353": {
+    "hanzi": "翁",
+    "pinyin": "wēng",
+    "english": [
+      "Old man"
+    ],
+    "difficulty": 3
+  },
+  "w05354": {
+    "hanzi": "翔",
+    "pinyin": "xiáng",
+    "english": [
+      "To soar",
+      "To glide"
+    ],
+    "difficulty": 3
+  },
+  "w05355": {
+    "hanzi": "耻",
+    "pinyin": "chǐ",
+    "english": [
+      "Shame"
+    ],
+    "difficulty": 3
+  },
+  "w05356": {
+    "hanzi": "胎",
+    "pinyin": "tāi",
+    "english": [
+      "Fetus",
+      "Tire"
+    ],
+    "difficulty": 3
+  },
+  "w05357": {
+    "hanzi": "胞",
+    "pinyin": "bāo",
+    "english": [
+      "Womb",
+      "Cell (biology)"
+    ],
+    "difficulty": 3
+  },
+  "w05358": {
+    "hanzi": "艾",
+    "pinyin": "ài",
+    "english": [
+      "Mugwort",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05359": {
+    "hanzi": "芬",
+    "pinyin": "fēn",
+    "english": [
+      "Fragrance"
+    ],
+    "difficulty": 3
+  },
+  "w05360": {
+    "hanzi": "芳",
+    "pinyin": "fāng",
+    "english": [
+      "Fragrant"
+    ],
+    "difficulty": 3
+  },
+  "w05361": {
+    "hanzi": "荷",
+    "pinyin": "hé",
+    "english": [
+      "Lotus",
+      "Load"
+    ],
+    "difficulty": 3
+  },
+  "w05362": {
+    "hanzi": "莉",
+    "pinyin": "lì",
+    "english": [
+      "Jasmine"
+    ],
+    "difficulty": 3
+  },
+  "w05363": {
+    "hanzi": "莎",
+    "pinyin": "shā",
+    "english": [
+      "(Used in names)"
+    ],
+    "difficulty": 3
+  },
+  "w05364": {
+    "hanzi": "莱",
+    "pinyin": "lái",
+    "english": [
+      "Goosefoot",
+      "(Used in names)"
+    ],
+    "difficulty": 3
+  },
+  "w05365": {
+    "hanzi": "莲",
+    "pinyin": "lián",
+    "english": [
+      "Lotus"
+    ],
+    "difficulty": 3
+  },
+  "w05366": {
+    "hanzi": "菩",
+    "pinyin": "pú",
+    "english": [
+      "Bodhisattva"
+    ],
+    "difficulty": 3
+  },
+  "w05367": {
+    "hanzi": "菲",
+    "pinyin": "fēi",
+    "english": [
+      "Rich",
+      "Luxurious",
+      "(Used in names)"
+    ],
+    "difficulty": 3
+  },
+  "w05368": {
+    "hanzi": "萧",
+    "pinyin": "xiāo",
+    "english": [
+      "Desolate",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05369": {
+    "hanzi": "萨",
+    "pinyin": "sà",
+    "english": [
+      "Bodhisattva"
+    ],
+    "difficulty": 3
+  },
+  "w05370": {
+    "hanzi": "葛",
+    "pinyin": "gé",
+    "english": [
+      "Kudzu",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05371": {
+    "hanzi": "蒋",
+    "pinyin": "jiǎng",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05372": {
+    "hanzi": "蒙",
+    "pinyin": "méng",
+    "english": [
+      "To cover",
+      "Mongol",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05373": {
+    "hanzi": "蔡",
+    "pinyin": "cài",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05374": {
+    "hanzi": "藉",
+    "pinyin": "jiè",
+    "english": [
+      "To rely on",
+      "Pretext"
+    ],
+    "difficulty": 3
+  },
+  "w05375": {
+    "hanzi": "藏",
+    "pinyin": "cáng",
+    "english": [
+      "To hide",
+      "To store"
+    ],
+    "difficulty": 3
+  },
+  "w05376": {
+    "hanzi": "藤",
+    "pinyin": "téng",
+    "english": [
+      "Rattan",
+      "Vine"
+    ],
+    "difficulty": 3
+  },
+  "w05377": {
+    "hanzi": "虫",
+    "pinyin": "chóng",
+    "english": [
+      "Insect",
+      "Worm"
+    ],
+    "difficulty": 3
+  },
+  "w05378": {
+    "hanzi": "蛙",
+    "pinyin": "wā",
+    "english": [
+      "Frog"
+    ],
+    "difficulty": 3
+  },
+  "w05379": {
+    "hanzi": "蝎",
+    "pinyin": "xiē",
+    "english": [
+      "Scorpion"
+    ],
+    "difficulty": 3
+  },
+  "w05380": {
+    "hanzi": "蝶",
+    "pinyin": "dié",
+    "english": [
+      "Butterfly"
+    ],
+    "difficulty": 3
+  },
+  "w05381": {
+    "hanzi": "蟹",
+    "pinyin": "xiè",
+    "english": [
+      "Crab"
+    ],
+    "difficulty": 3
+  },
+  "w05382": {
+    "hanzi": "衡",
+    "pinyin": "héng",
+    "english": [
+      "To weigh",
+      "Balance"
+    ],
+    "difficulty": 3
+  },
+  "w05383": {
+    "hanzi": "袋",
+    "pinyin": "dài",
+    "english": [
+      "Bag",
+      "Pocket"
+    ],
+    "difficulty": 3
+  },
+  "w05384": {
+    "hanzi": "裂",
+    "pinyin": "liè",
+    "english": [
+      "To crack",
+      "To split"
+    ],
+    "difficulty": 3
+  },
+  "w05385": {
+    "hanzi": "裕",
+    "pinyin": "yù",
+    "english": [
+      "Abundant"
+    ],
+    "difficulty": 3
+  },
+  "w05386": {
+    "hanzi": "览",
+    "pinyin": "lǎn",
+    "english": [
+      "To look at",
+      "To view"
+    ],
+    "difficulty": 3
+  },
+  "w05387": {
+    "hanzi": "誉",
+    "pinyin": "yù",
+    "english": [
+      "Reputation",
+      "Praise"
+    ],
+    "difficulty": 3
+  },
+  "w05388": {
+    "hanzi": "誓",
+    "pinyin": "shì",
+    "english": [
+      "Oath",
+      "To vow"
+    ],
+    "difficulty": 3
+  },
+  "w05389": {
+    "hanzi": "订",
+    "pinyin": "dìng",
+    "english": [
+      "To subscribe",
+      "To book"
+    ],
+    "difficulty": 3
+  },
+  "w05390": {
+    "hanzi": "译",
+    "pinyin": "yì",
+    "english": [
+      "To translate"
+    ],
+    "difficulty": 3
+  },
+  "w05391": {
+    "hanzi": "诺",
+    "pinyin": "nuò",
+    "english": [
+      "Promise",
+      "Yes"
+    ],
+    "difficulty": 3
+  },
+  "w05392": {
+    "hanzi": "谊",
+    "pinyin": "yì",
+    "english": [
+      "Friendship"
+    ],
+    "difficulty": 3
+  },
+  "w05393": {
+    "hanzi": "谱",
+    "pinyin": "pǔ",
+    "english": [
+      "Chart",
+      "Score (music)"
+    ],
+    "difficulty": 3
+  },
+  "w05394": {
+    "hanzi": "谷",
+    "pinyin": "gǔ",
+    "english": [
+      "Valley",
+      "Grain"
+    ],
+    "difficulty": 3
+  },
+  "w05395": {
+    "hanzi": "貌",
+    "pinyin": "mào",
+    "english": [
+      "Appearance"
+    ],
+    "difficulty": 3
+  },
+  "w05396": {
+    "hanzi": "贱",
+    "pinyin": "jiàn",
+    "english": [
+      "Cheap",
+      "Lowly"
+    ],
+    "difficulty": 3
+  },
+  "w05397": {
+    "hanzi": "贺",
+    "pinyin": "hè",
+    "english": [
+      "To congratulate"
+    ],
+    "difficulty": 3
+  },
+  "w05398": {
+    "hanzi": "赐",
+    "pinyin": "cì",
+    "english": [
+      "To bestow"
+    ],
+    "difficulty": 3
+  },
+  "w05399": {
+    "hanzi": "赖",
+    "pinyin": "lài",
+    "english": [
+      "To rely on",
+      "To blame"
+    ],
+    "difficulty": 3
+  },
+  "w05400": {
+    "hanzi": "跃",
+    "pinyin": "yuè",
+    "english": [
+      "To jump",
+      "To leap"
+    ],
+    "difficulty": 3
+  },
+  "w05401": {
+    "hanzi": "轩",
+    "pinyin": "xuān",
+    "english": [
+      "High",
+      "Pavilion"
+    ],
+    "difficulty": 3
+  },
+  "w05402": {
+    "hanzi": "辈",
+    "pinyin": "bèi",
+    "english": [
+      "Generation"
+    ],
+    "difficulty": 3
+  },
+  "w05403": {
+    "hanzi": "辱",
+    "pinyin": "rǔ",
+    "english": [
+      "Disgrace",
+      "Insult"
+    ],
+    "difficulty": 3
+  },
+  "w05404": {
+    "hanzi": "迪",
+    "pinyin": "dí",
+    "english": [
+      "To enlighten",
+      "(Used in names)"
+    ],
+    "difficulty": 3
+  },
+  "w05405": {
+    "hanzi": "迴",
+    "pinyin": "huí",
+    "english": [
+      "To return",
+      "To curve"
+    ],
+    "difficulty": 3
+  },
+  "w05406": {
+    "hanzi": "逊",
+    "pinyin": "xùn",
+    "english": [
+      "Modest",
+      "Inferior"
+    ],
+    "difficulty": 3
+  },
+  "w05407": {
+    "hanzi": "逸",
+    "pinyin": "yì",
+    "english": [
+      "Ease",
+      "Leisure"
+    ],
+    "difficulty": 3
+  },
+  "w05408": {
+    "hanzi": "邦",
+    "pinyin": "bāng",
+    "english": [
+      "State",
+      "Country"
+    ],
+    "difficulty": 3
+  },
+  "w05409": {
+    "hanzi": "邪",
+    "pinyin": "xié",
+    "english": [
+      "Evil",
+      "Unorthodox"
+    ],
+    "difficulty": 3
+  },
+  "w05410": {
+    "hanzi": "邱",
+    "pinyin": "qiū",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05411": {
+    "hanzi": "郁",
+    "pinyin": "yù",
+    "english": [
+      "Gloomy",
+      "Lush"
+    ],
+    "difficulty": 3
+  },
+  "w05412": {
+    "hanzi": "郎",
+    "pinyin": "láng",
+    "english": [
+      "Youth",
+      "Gentleman"
+    ],
+    "difficulty": 3
+  },
+  "w05413": {
+    "hanzi": "酷",
+    "pinyin": "kù",
+    "english": [
+      "Cruel",
+      "Cool (slang)"
+    ],
+    "difficulty": 3
+  },
+  "w05414": {
+    "hanzi": "鑑",
+    "pinyin": "jiàn",
+    "english": [
+      "Mirror",
+      "To reflect"
+    ],
+    "difficulty": 3
+  },
+  "w05415": {
+    "hanzi": "锐",
+    "pinyin": "ruì",
+    "english": [
+      "Sharp",
+      "Acute"
+    ],
+    "difficulty": 3
+  },
+  "w05416": {
+    "hanzi": "锺",
+    "pinyin": "zhōng",
+    "english": [
+      "Cup",
+      "To love"
+    ],
+    "difficulty": 3
+  },
+  "w05417": {
+    "hanzi": "閒",
+    "pinyin": "xián",
+    "english": [
+      "Idle",
+      "Leisure"
+    ],
+    "difficulty": 3
+  },
+  "w05418": {
+    "hanzi": "闷",
+    "pinyin": "mèn",
+    "english": [
+      "Stuffy",
+      "Depressed"
+    ],
+    "difficulty": 3
+  },
+  "w05419": {
+    "hanzi": "闹",
+    "pinyin": "nào",
+    "english": [
+      "Noisy",
+      "To make a noise"
+    ],
+    "difficulty": 3
+  },
+  "w05420": {
+    "hanzi": "阁",
+    "pinyin": "gé",
+    "english": [
+      "Pavilion",
+      "Cabinet"
+    ],
+    "difficulty": 3
+  },
+  "w05421": {
+    "hanzi": "阔",
+    "pinyin": "kuò",
+    "english": [
+      "Wide",
+      "Broad"
+    ],
+    "difficulty": 3
+  },
+  "w05422": {
+    "hanzi": "陀",
+    "pinyin": "tuó",
+    "english": [
+      "(Used in names/Buddhist terms)"
+    ],
+    "difficulty": 3
+  },
+  "w05423": {
+    "hanzi": "雅",
+    "pinyin": "yǎ",
+    "english": [
+      "Elegant"
+    ],
+    "difficulty": 3
+  },
+  "w05424": {
+    "hanzi": "雳",
+    "pinyin": "lì",
+    "english": [
+      "Thunderbolt"
+    ],
+    "difficulty": 3
+  },
+  "w05425": {
+    "hanzi": "露",
+    "pinyin": "lù",
+    "english": [
+      "Dew",
+      "To reveal"
+    ],
+    "difficulty": 3
+  },
+  "w05426": {
+    "hanzi": "霹",
+    "pinyin": "pī",
+    "english": [
+      "Thunderbolt"
+    ],
+    "difficulty": 3
+  },
+  "w05427": {
+    "hanzi": "靖",
+    "pinyin": "jìng",
+    "english": [
+      "Peaceful"
+    ],
+    "difficulty": 3
+  },
+  "w05428": {
+    "hanzi": "鞋",
+    "pinyin": "xié",
+    "english": [
+      "Shoe"
+    ],
+    "difficulty": 3
+  },
+  "w05429": {
+    "hanzi": "韩",
+    "pinyin": "hán",
+    "english": [
+      "Korea",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05430": {
+    "hanzi": "韵",
+    "pinyin": "yùn",
+    "english": [
+      "Rhyme",
+      "Charm"
+    ],
+    "difficulty": 3
+  },
+  "w05431": {
+    "hanzi": "饰",
+    "pinyin": "shì",
+    "english": [
+      "Decoration",
+      "To adorn"
+    ],
+    "difficulty": 3
+  },
+  "w05432": {
+    "hanzi": "馀",
+    "pinyin": "yú",
+    "english": [
+      "Surplus"
+    ],
+    "difficulty": 3
+  },
+  "w05433": {
+    "hanzi": "驶",
+    "pinyin": "shǐ",
+    "english": [
+      "To drive",
+      "To sail"
+    ],
+    "difficulty": 3
+  },
+  "w05434": {
+    "hanzi": "魂",
+    "pinyin": "hún",
+    "english": [
+      "Soul",
+      "Spirit"
+    ],
+    "difficulty": 3
+  },
+  "w05435": {
+    "hanzi": "鲁",
+    "pinyin": "lǔ",
+    "english": [
+      "Rash",
+      "Rude",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05436": {
+    "hanzi": "鸣",
+    "pinyin": "míng",
+    "english": [
+      "To cry (of birds)",
+      "To sound"
+    ],
+    "difficulty": 3
+  },
+  "w05437": {
+    "hanzi": "鸿",
+    "pinyin": "hóng",
+    "english": [
+      "Swan goose",
+      "Great"
+    ],
+    "difficulty": 3
+  },
+  "w05438": {
+    "hanzi": "鹅",
+    "pinyin": "é",
+    "english": [
+      "Goose"
+    ],
+    "difficulty": 3
+  },
+  "w05439": {
+    "hanzi": "鹰",
+    "pinyin": "yīng",
+    "english": [
+      "Eagle",
+      "Falcon"
+    ],
+    "difficulty": 3
+  },
+  "w05440": {
+    "hanzi": "鹿",
+    "pinyin": "lù",
+    "english": [
+      "Deer"
+    ],
+    "difficulty": 3
+  },
+  "w05441": {
+    "hanzi": "齿",
+    "pinyin": "chǐ",
+    "english": [
+      "Tooth"
+    ],
+    "difficulty": 3
+  },
+  "w05442": {
+    "hanzi": "龄",
+    "pinyin": "líng",
+    "english": [
+      "Age"
+    ],
+    "difficulty": 3
+  },
+  "w05443": {
+    "hanzi": "龟",
+    "pinyin": "guī",
+    "english": [
+      "Turtle"
+    ],
+    "difficulty": 3
+  },
+  "w05444": {
+    "hanzi": "丐",
+    "pinyin": "gài",
+    "english": [
+      "Beggar"
+    ],
+    "difficulty": 3
+  },
+  "w05445": {
+    "hanzi": "丞",
+    "pinyin": "chéng",
+    "english": [
+      "Deputy",
+      "Assistant"
+    ],
+    "difficulty": 3
+  },
+  "w05446": {
+    "hanzi": "乳",
+    "pinyin": "rǔ",
+    "english": [
+      "Milk",
+      "Breast"
+    ],
+    "difficulty": 3
+  },
+  "w05447": {
+    "hanzi": "亟",
+    "pinyin": "jí",
+    "english": [
+      "Urgent"
+    ],
+    "difficulty": 3
+  },
+  "w05448": {
+    "hanzi": "仄",
+    "pinyin": "zè",
+    "english": [
+      "Oblique tone",
+      "Narrow"
+    ],
+    "difficulty": 3
+  },
+  "w05449": {
+    "hanzi": "仆",
+    "pinyin": "pū",
+    "english": [
+      "To fall forward",
+      "Servant"
+    ],
+    "difficulty": 3
+  },
+  "w05450": {
+    "hanzi": "仕",
+    "pinyin": "shì",
+    "english": [
+      "Official",
+      "To serve"
+    ],
+    "difficulty": 3
+  },
+  "w05451": {
+    "hanzi": "仗",
+    "pinyin": "zhàng",
+    "english": [
+      "Battle",
+      "To rely on"
+    ],
+    "difficulty": 3
+  },
+  "w05452": {
+    "hanzi": "仟",
+    "pinyin": "qiān",
+    "english": [
+      "Thousand (banker's anti-fraud numeral)"
+    ],
+    "difficulty": 3
+  },
+  "w05453": {
+    "hanzi": "伏",
+    "pinyin": "fú",
+    "english": [
+      "To lean over",
+      "To hide",
+      "Volt"
+    ],
+    "difficulty": 3
+  },
+  "w05454": {
+    "hanzi": "伐",
+    "pinyin": "fá",
+    "english": [
+      "To cut down",
+      "To attack"
+    ],
+    "difficulty": 3
+  },
+  "w05455": {
+    "hanzi": "伫",
+    "pinyin": "zhù",
+    "english": [
+      "To stand for a long time"
+    ],
+    "difficulty": 3
+  },
+  "w05456": {
+    "hanzi": "佐",
+    "pinyin": "zuǒ",
+    "english": [
+      "To assist"
+    ],
+    "difficulty": 3
+  },
+  "w05457": {
+    "hanzi": "佑",
+    "pinyin": "yòu",
+    "english": [
+      "To bless",
+      "To protect"
+    ],
+    "difficulty": 3
+  },
+  "w05458": {
+    "hanzi": "佬",
+    "pinyin": "lǎo",
+    "english": [
+      "Guy",
+      "Fellow"
+    ],
+    "difficulty": 3
+  },
+  "w05459": {
+    "hanzi": "佮",
+    "pinyin": "gé",
+    "english": [
+      "To combine"
+    ],
+    "difficulty": 3
+  },
+  "w05460": {
+    "hanzi": "佰",
+    "pinyin": "bǎi",
+    "english": [
+      "Hundred (banker's anti-fraud numeral)"
+    ],
+    "difficulty": 3
+  },
+  "w05461": {
+    "hanzi": "侍",
+    "pinyin": "shì",
+    "english": [
+      "To serve",
+      "Attendant"
+    ],
+    "difficulty": 3
+  },
+  "w05462": {
+    "hanzi": "侣",
+    "pinyin": "lǚ",
+    "english": [
+      "Companion"
+    ],
+    "difficulty": 3
+  },
+  "w05463": {
+    "hanzi": "侬",
+    "pinyin": "nóng",
+    "english": [
+      "I (dialect)",
+      "You"
+    ],
+    "difficulty": 3
+  },
+  "w05464": {
+    "hanzi": "俄",
+    "pinyin": "é",
+    "english": [
+      "Russia",
+      "Suddenly"
+    ],
+    "difficulty": 3
+  },
+  "w05465": {
+    "hanzi": "俺",
+    "pinyin": "ǎn",
+    "english": [
+      "I",
+      "My"
+    ],
+    "difficulty": 3
+  },
+  "w05466": {
+    "hanzi": "倦",
+    "pinyin": "juàn",
+    "english": [
+      "Tired",
+      "Weary"
+    ],
+    "difficulty": 3
+  },
+  "w05467": {
+    "hanzi": "倩",
+    "pinyin": "qiàn",
+    "english": [
+      "Pretty",
+      "Son-in-law"
+    ],
+    "difficulty": 3
+  },
+  "w05468": {
+    "hanzi": "倪",
+    "pinyin": "ní",
+    "english": [
+      "(Surname)",
+      "Origin"
+    ],
+    "difficulty": 3
+  },
+  "w05469": {
+    "hanzi": "傅",
+    "pinyin": "fù",
+    "english": [
+      "Tutor",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05470": {
+    "hanzi": "僚",
+    "pinyin": "liáo",
+    "english": [
+      "Bureaucrat",
+      "Colleague"
+    ],
+    "difficulty": 3
+  },
+  "w05471": {
+    "hanzi": "僧",
+    "pinyin": "sēng",
+    "english": [
+      "Monk"
+    ],
+    "difficulty": 3
+  },
+  "w05472": {
+    "hanzi": "兆",
+    "pinyin": "zhào",
+    "english": [
+      "Omen",
+      "Million/Mega"
+    ],
+    "difficulty": 3
+  },
+  "w05473": {
+    "hanzi": "兹",
+    "pinyin": "zī",
+    "english": [
+      "This",
+      "Now"
+    ],
+    "difficulty": 3
+  },
+  "w05474": {
+    "hanzi": "冈",
+    "pinyin": "gāng",
+    "english": [
+      "Ridge",
+      "Mound"
+    ],
+    "difficulty": 3
+  },
+  "w05475": {
+    "hanzi": "冥",
+    "pinyin": "míng",
+    "english": [
+      "Dark",
+      "Deep",
+      "Underworld"
+    ],
+    "difficulty": 3
+  },
+  "w05476": {
+    "hanzi": "冯",
+    "pinyin": "féng",
+    "english": [
+      "(Surname)",
+      "To gallop"
+    ],
+    "difficulty": 3
+  },
+  "w05477": {
+    "hanzi": "凋",
+    "pinyin": "diāo",
+    "english": [
+      "Withered"
+    ],
+    "difficulty": 3
+  },
+  "w05478": {
+    "hanzi": "凳",
+    "pinyin": "dèng",
+    "english": [
+      "Stool",
+      "Bench"
+    ],
+    "difficulty": 3
+  },
+  "w05479": {
+    "hanzi": "凸",
+    "pinyin": "tū",
+    "english": [
+      "Convex",
+      "Protruding"
+    ],
+    "difficulty": 3
+  },
+  "w05480": {
+    "hanzi": "刁",
+    "pinyin": "diāo",
+    "english": [
+      "Tricky",
+      "Sly"
+    ],
+    "difficulty": 3
+  },
+  "w05481": {
+    "hanzi": "刃",
+    "pinyin": "rèn",
+    "english": [
+      "Blade",
+      "Edge"
+    ],
+    "difficulty": 3
+  },
+  "w05482": {
+    "hanzi": "券",
+    "pinyin": "quàn",
+    "english": [
+      "Ticket",
+      "Certificate"
+    ],
+    "difficulty": 3
+  },
+  "w05483": {
+    "hanzi": "剂",
+    "pinyin": "jì",
+    "english": [
+      "Dose",
+      "Agent"
+    ],
+    "difficulty": 3
+  },
+  "w05484": {
+    "hanzi": "剃",
+    "pinyin": "tì",
+    "english": [
+      "To shave"
+    ],
+    "difficulty": 3
+  },
+  "w05485": {
+    "hanzi": "剖",
+    "pinyin": "pōu",
+    "english": [
+      "To cut open",
+      "To analyze"
+    ],
+    "difficulty": 3
+  },
+  "w05486": {
+    "hanzi": "劣",
+    "pinyin": "liè",
+    "english": [
+      "Inferior",
+      "Bad"
+    ],
+    "difficulty": 3
+  },
+  "w05487": {
+    "hanzi": "勃",
+    "pinyin": "bó",
+    "english": [
+      "Sudden",
+      "Vigorous"
+    ],
+    "difficulty": 3
+  },
+  "w05488": {
+    "hanzi": "勋",
+    "pinyin": "xūn",
+    "english": [
+      "Merit",
+      "Medal"
+    ],
+    "difficulty": 3
+  },
+  "w05489": {
+    "hanzi": "募",
+    "pinyin": "mù",
+    "english": [
+      "To raise",
+      "To recruit"
+    ],
+    "difficulty": 3
+  },
+  "w05490": {
+    "hanzi": "匙",
+    "pinyin": "chí",
+    "english": [
+      "Spoon",
+      "Key"
+    ],
+    "difficulty": 3
+  },
+  "w05491": {
+    "hanzi": "匠",
+    "pinyin": "jiàng",
+    "english": [
+      "Craftsman"
+    ],
+    "difficulty": 3
+  },
+  "w05492": {
+    "hanzi": "匡",
+    "pinyin": "kuāng",
+    "english": [
+      "To correct",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05493": {
+    "hanzi": "匣",
+    "pinyin": "xiá",
+    "english": [
+      "Box",
+      "Casket"
+    ],
+    "difficulty": 3
+  },
+  "w05494": {
+    "hanzi": "匪",
+    "pinyin": "fěi",
+    "english": [
+      "Bandit"
+    ],
+    "difficulty": 3
+  },
+  "w05495": {
+    "hanzi": "匿",
+    "pinyin": "nì",
+    "english": [
+      "To hide"
+    ],
+    "difficulty": 3
+  },
+  "w05496": {
+    "hanzi": "卜",
+    "pinyin": "bǔ",
+    "english": [
+      "To divine",
+      "Fortune telling"
+    ],
+    "difficulty": 3
+  },
+  "w05497": {
+    "hanzi": "卢",
+    "pinyin": "lú",
+    "english": [
+      "(Surname)",
+      "Cottage"
+    ],
+    "difficulty": 3
+  },
+  "w05498": {
+    "hanzi": "卦",
+    "pinyin": "guà",
+    "english": [
+      "Divinatory trigram"
+    ],
+    "difficulty": 3
+  },
+  "w05499": {
+    "hanzi": "卵",
+    "pinyin": "luǎn",
+    "english": [
+      "Egg",
+      "Ovum"
+    ],
+    "difficulty": 3
+  },
+  "w05500": {
+    "hanzi": "卸",
+    "pinyin": "xiè",
+    "english": [
+      "To unload",
+      "To remove"
+    ],
+    "difficulty": 3
+  },
+  "w05501": {
+    "hanzi": "卿",
+    "pinyin": "qīng",
+    "english": [
+      "Minister",
+      "Term of endearment"
+    ],
+    "difficulty": 3
+  },
+  "w05502": {
+    "hanzi": "厢",
+    "pinyin": "xiāng",
+    "english": [
+      "Box (in theater)",
+      "Side room"
+    ],
+    "difficulty": 3
+  },
+  "w05503": {
+    "hanzi": "叛",
+    "pinyin": "pàn",
+    "english": [
+      "To betray",
+      "To rebel"
+    ],
+    "difficulty": 3
+  },
+  "w05504": {
+    "hanzi": "叠",
+    "pinyin": "dié",
+    "english": [
+      "To fold",
+      "To pile up"
+    ],
+    "difficulty": 3
+  },
+  "w05505": {
+    "hanzi": "叡",
+    "pinyin": "ruì",
+    "english": [
+      "Wise",
+      "Astute"
+    ],
+    "difficulty": 3
+  },
+  "w05506": {
+    "hanzi": "吁",
+    "pinyin": "xū",
+    "english": [
+      "To sigh",
+      "To appeal"
+    ],
+    "difficulty": 3
+  },
+  "w05507": {
+    "hanzi": "吋",
+    "pinyin": "cùn",
+    "english": [
+      "Inch"
+    ],
+    "difficulty": 3
+  },
+  "w05508": {
+    "hanzi": "呃",
+    "pinyin": "è",
+    "english": [
+      "Hiccup",
+      "Uh"
+    ],
+    "difficulty": 3
+  },
+  "w05509": {
+    "hanzi": "呐",
+    "pinyin": "nà",
+    "english": [
+      "(Particle)",
+      "To shout"
+    ],
+    "difficulty": 3
+  },
+  "w05510": {
+    "hanzi": "呒",
+    "pinyin": "mǔ",
+    "english": [
+      "(Interjection)"
+    ],
+    "difficulty": 3
+  },
+  "w05511": {
+    "hanzi": "呦",
+    "pinyin": "yōu",
+    "english": [
+      "(Sound of deer bleating)"
+    ],
+    "difficulty": 3
+  },
+  "w05512": {
+    "hanzi": "呱",
+    "pinyin": "guā",
+    "english": [
+      "(Sound of crying/quacking)"
+    ],
+    "difficulty": 3
+  },
+  "w05513": {
+    "hanzi": "咏",
+    "pinyin": "yǒng",
+    "english": [
+      "To chant",
+      "To sing"
+    ],
+    "difficulty": 3
+  },
+  "w05514": {
+    "hanzi": "咒",
+    "pinyin": "zhòu",
+    "english": [
+      "Curse",
+      "Incantation"
+    ],
+    "difficulty": 3
+  },
+  "w05515": {
+    "hanzi": "咕",
+    "pinyin": "gū",
+    "english": [
+      "(Sound of rumbling/cooing)"
+    ],
+    "difficulty": 3
+  },
+  "w05516": {
+    "hanzi": "咚",
+    "pinyin": "dōng",
+    "english": [
+      "(Sound of thumping)"
+    ],
+    "difficulty": 3
+  },
+  "w05517": {
+    "hanzi": "哑",
+    "pinyin": "yǎ",
+    "english": [
+      "Dumb",
+      "Mute"
+    ],
+    "difficulty": 3
+  },
+  "w05518": {
+    "hanzi": "哔",
+    "pinyin": "bì",
+    "english": [
+      "(Sound of beep)"
+    ],
+    "difficulty": 3
+  },
+  "w05519": {
+    "hanzi": "哟",
+    "pinyin": "yō",
+    "english": [
+      "(Interjection)"
+    ],
+    "difficulty": 3
+  },
+  "w05520": {
+    "hanzi": "唇",
+    "pinyin": "chún",
+    "english": [
+      "Lip"
+    ],
+    "difficulty": 3
+  },
+  "w05521": {
+    "hanzi": "唔",
+    "pinyin": "wú",
+    "english": [
+      "(Sound of humming)"
+    ],
+    "difficulty": 3
+  },
+  "w05522": {
+    "hanzi": "唤",
+    "pinyin": "huàn",
+    "english": [
+      "To call"
+    ],
+    "difficulty": 3
+  },
+  "w05523": {
+    "hanzi": "啸",
+    "pinyin": "xiào",
+    "english": [
+      "To whistle",
+      "To roar"
+    ],
+    "difficulty": 3
+  },
+  "w05524": {
+    "hanzi": "喃",
+    "pinyin": "nán",
+    "english": [
+      "Mumble"
+    ],
+    "difficulty": 3
+  },
+  "w05525": {
+    "hanzi": "喻",
+    "pinyin": "yù",
+    "english": [
+      "Metaphor",
+      "To explain"
+    ],
+    "difficulty": 3
+  },
+  "w05526": {
+    "hanzi": "喽",
+    "pinyin": "lou",
+    "english": [
+      "(Particle)"
+    ],
+    "difficulty": 3
+  },
+  "w05527": {
+    "hanzi": "嗜",
+    "pinyin": "shì",
+    "english": [
+      "Addicted to",
+      "Fond of"
+    ],
+    "difficulty": 3
+  },
+  "w05528": {
+    "hanzi": "嘎",
+    "pinyin": "gā",
+    "english": [
+      "(Sound of creaking/quacking)"
+    ],
+    "difficulty": 3
+  },
+  "w05529": {
+    "hanzi": "嘘",
+    "pinyin": "xū",
+    "english": [
+      "Hush",
+      "To hiss"
+    ],
+    "difficulty": 3
+  },
+  "w05530": {
+    "hanzi": "嘟",
+    "pinyin": "dū",
+    "english": [
+      "To toot",
+      "To pout"
+    ],
+    "difficulty": 3
+  },
+  "w05531": {
+    "hanzi": "噜",
+    "pinyin": "lū",
+    "english": [
+      "(Sound)"
+    ],
+    "difficulty": 3
+  },
+  "w05532": {
+    "hanzi": "噢",
+    "pinyin": "ō",
+    "english": [
+      "Oh!"
+    ],
+    "difficulty": 3
+  },
+  "w05533": {
+    "hanzi": "嚣",
+    "pinyin": "xiāo",
+    "english": [
+      "Clamor",
+      "Arrogant"
+    ],
+    "difficulty": 3
+  },
+  "w05534": {
+    "hanzi": "囊",
+    "pinyin": "náng",
+    "english": [
+      "Bag",
+      "Sack"
+    ],
+    "difficulty": 3
+  },
+  "w05535": {
+    "hanzi": "囡",
+    "pinyin": "nān",
+    "english": [
+      "Kid",
+      "Daughter"
+    ],
+    "difficulty": 3
+  },
+  "w05536": {
+    "hanzi": "圭",
+    "pinyin": "guī",
+    "english": [
+      "Jade tablet"
+    ],
+    "difficulty": 3
+  },
+  "w05537": {
+    "hanzi": "坂",
+    "pinyin": "bǎn",
+    "english": [
+      "Slope"
+    ],
+    "difficulty": 3
+  },
+  "w05538": {
+    "hanzi": "坊",
+    "pinyin": "fāng",
+    "english": [
+      "Lane",
+      "Workshop"
+    ],
+    "difficulty": 3
+  },
+  "w05539": {
+    "hanzi": "坎",
+    "pinyin": "kǎn",
+    "english": [
+      "Pit",
+      "Threshold"
+    ],
+    "difficulty": 3
+  },
+  "w05540": {
+    "hanzi": "坛",
+    "pinyin": "tán",
+    "english": [
+      "Altar",
+      "Jar"
+    ],
+    "difficulty": 3
+  },
+  "w05541": {
+    "hanzi": "垦",
+    "pinyin": "kěn",
+    "english": [
+      "To reclaim land"
+    ],
+    "difficulty": 3
+  },
+  "w05542": {
+    "hanzi": "垮",
+    "pinyin": "kuǎ",
+    "english": [
+      "To collapse"
+    ],
+    "difficulty": 3
+  },
+  "w05543": {
+    "hanzi": "埃",
+    "pinyin": "āi",
+    "english": [
+      "Dust",
+      "Angstrom"
+    ],
+    "difficulty": 3
+  },
+  "w05544": {
+    "hanzi": "埔",
+    "pinyin": "pǔ",
+    "english": [
+      "Plain",
+      "Port"
+    ],
+    "difficulty": 3
+  },
+  "w05545": {
+    "hanzi": "堡",
+    "pinyin": "bǎo",
+    "english": [
+      "Fort",
+      "Castle"
+    ],
+    "difficulty": 3
+  },
+  "w05546": {
+    "hanzi": "墓",
+    "pinyin": "mù",
+    "english": [
+      "Tomb",
+      "Grave"
+    ],
+    "difficulty": 3
+  },
+  "w05547": {
+    "hanzi": "壹",
+    "pinyin": "yī",
+    "english": [
+      "One (banker's anti-fraud numeral)"
+    ],
+    "difficulty": 3
+  },
+  "w05548": {
+    "hanzi": "夷",
+    "pinyin": "yí",
+    "english": [
+      "Barbarian",
+      "To raze"
+    ],
+    "difficulty": 3
+  },
+  "w05549": {
+    "hanzi": "奕",
+    "pinyin": "yì",
+    "english": [
+      "Abundant",
+      "Graceful"
+    ],
+    "difficulty": 3
+  },
+  "w05550": {
+    "hanzi": "奸",
+    "pinyin": "jiān",
+    "english": [
+      "Traitor",
+      "Adultery"
+    ],
+    "difficulty": 3
+  },
+  "w05551": {
+    "hanzi": "妆",
+    "pinyin": "zhuāng",
+    "english": [
+      "Makeup",
+      "Adornment"
+    ],
+    "difficulty": 3
+  },
+  "w05552": {
+    "hanzi": "妒",
+    "pinyin": "dù",
+    "english": [
+      "Jealous"
+    ],
+    "difficulty": 3
+  },
+  "w05553": {
+    "hanzi": "妓",
+    "pinyin": "jì",
+    "english": [
+      "Prostitute"
+    ],
+    "difficulty": 3
+  },
+  "w05554": {
+    "hanzi": "妖",
+    "pinyin": "yāo",
+    "english": [
+      "Demon",
+      "Bewitching"
+    ],
+    "difficulty": 3
+  },
+  "w05555": {
+    "hanzi": "姚",
+    "pinyin": "yáo",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05556": {
+    "hanzi": "姜",
+    "pinyin": "jiāng",
+    "english": [
+      "Ginger",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05557": {
+    "hanzi": "姨",
+    "pinyin": "yí",
+    "english": [
+      "Aunt (mother's sister)"
+    ],
+    "difficulty": 3
+  },
+  "w05558": {
+    "hanzi": "姬",
+    "pinyin": "jī",
+    "english": [
+      "Beauty",
+      "Concubine"
+    ],
+    "difficulty": 3
+  },
+  "w05559": {
+    "hanzi": "姻",
+    "pinyin": "yīn",
+    "english": [
+      "Marriage"
+    ],
+    "difficulty": 3
+  },
+  "w05560": {
+    "hanzi": "娜",
+    "pinyin": "nà",
+    "english": [
+      "Graceful"
+    ],
+    "difficulty": 3
+  },
+  "w05561": {
+    "hanzi": "娟",
+    "pinyin": "juān",
+    "english": [
+      "Beautiful"
+    ],
+    "difficulty": 3
+  },
+  "w05562": {
+    "hanzi": "婉",
+    "pinyin": "wǎn",
+    "english": [
+      "Gentle",
+      "Tactful"
+    ],
+    "difficulty": 3
+  },
+  "w05563": {
+    "hanzi": "婷",
+    "pinyin": "tíng",
+    "english": [
+      "Graceful"
+    ],
+    "difficulty": 3
+  },
+  "w05564": {
+    "hanzi": "媚",
+    "pinyin": "mèi",
+    "english": [
+      "Charming",
+      "Flattery"
+    ],
+    "difficulty": 3
+  },
+  "w05565": {
+    "hanzi": "孰",
+    "pinyin": "shú",
+    "english": [
+      "Who",
+      "Which"
+    ],
+    "difficulty": 3
+  },
+  "w05566": {
+    "hanzi": "宅",
+    "pinyin": "zhái",
+    "english": [
+      "Residence",
+      "House"
+    ],
+    "difficulty": 3
+  },
+  "w05567": {
+    "hanzi": "宛",
+    "pinyin": "wǎn",
+    "english": [
+      "As if",
+      "Tortuous"
+    ],
+    "difficulty": 3
+  },
+  "w05568": {
+    "hanzi": "宵",
+    "pinyin": "xiāo",
+    "english": [
+      "Night"
+    ],
+    "difficulty": 3
+  },
+  "w05569": {
+    "hanzi": "寇",
+    "pinyin": "kòu",
+    "english": [
+      "Bandit",
+      "Enemy"
+    ],
+    "difficulty": 3
+  },
+  "w05570": {
+    "hanzi": "寡",
+    "pinyin": "guǎ",
+    "english": [
+      "Widow",
+      "Few"
+    ],
+    "difficulty": 3
+  },
+  "w05571": {
+    "hanzi": "寮",
+    "pinyin": "liáo",
+    "english": [
+      "Hut",
+      "Shack"
+    ],
+    "difficulty": 3
+  },
+  "w05572": {
+    "hanzi": "寸",
+    "pinyin": "cùn",
+    "english": [
+      "Inch (Chinese unit)"
+    ],
+    "difficulty": 3
+  },
+  "w05573": {
+    "hanzi": "尉",
+    "pinyin": "wèi",
+    "english": [
+      "Military officer"
+    ],
+    "difficulty": 3
+  },
+  "w05574": {
+    "hanzi": "尧",
+    "pinyin": "yáo",
+    "english": [
+      "(Sage emperor)"
+    ],
+    "difficulty": 3
+  },
+  "w05575": {
+    "hanzi": "尬",
+    "pinyin": "gà",
+    "english": [
+      "Embarrassed"
+    ],
+    "difficulty": 3
+  },
+  "w05576": {
+    "hanzi": "尹",
+    "pinyin": "yǐn",
+    "english": [
+      "Magistrate",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05577": {
+    "hanzi": "尿",
+    "pinyin": "niào",
+    "english": [
+      "Urine"
+    ],
+    "difficulty": 3
+  },
+  "w05578": {
+    "hanzi": "屎",
+    "pinyin": "shǐ",
+    "english": [
+      "Excrement"
+    ],
+    "difficulty": 3
+  },
+  "w05579": {
+    "hanzi": "屿",
+    "pinyin": "yǔ",
+    "english": [
+      "Islet"
+    ],
+    "difficulty": 3
+  },
+  "w05580": {
+    "hanzi": "峻",
+    "pinyin": "jùn",
+    "english": [
+      "Steep",
+      "Severe"
+    ],
+    "difficulty": 3
+  },
+  "w05581": {
+    "hanzi": "崎",
+    "pinyin": "qí",
+    "english": [
+      "Rugged"
+    ],
+    "difficulty": 3
+  },
+  "w05582": {
+    "hanzi": "崔",
+    "pinyin": "cuī",
+    "english": [
+      "(Surname)",
+      "High"
+    ],
+    "difficulty": 3
+  },
+  "w05583": {
+    "hanzi": "巾",
+    "pinyin": "jīn",
+    "english": [
+      "Towel",
+      "Kerchief"
+    ],
+    "difficulty": 3
+  },
+  "w05584": {
+    "hanzi": "帆",
+    "pinyin": "fān",
+    "english": [
+      "Sail"
+    ],
+    "difficulty": 3
+  },
+  "w05585": {
+    "hanzi": "帕",
+    "pinyin": "pà",
+    "english": [
+      "Handkerchief"
+    ],
+    "difficulty": 3
+  },
+  "w05586": {
+    "hanzi": "帖",
+    "pinyin": "tiě",
+    "english": [
+      "Invitation card",
+      "Note"
+    ],
+    "difficulty": 3
+  },
+  "w05587": {
+    "hanzi": "庙",
+    "pinyin": "miào",
+    "english": [
+      "Temple"
+    ],
+    "difficulty": 3
+  },
+  "w05588": {
+    "hanzi": "庚",
+    "pinyin": "gēng",
+    "english": [
+      "Age",
+      "Seventh heavenly stem"
+    ],
+    "difficulty": 3
+  },
+  "w05589": {
+    "hanzi": "廊",
+    "pinyin": "láng",
+    "english": [
+      "Corridor"
+    ],
+    "difficulty": 3
+  },
+  "w05590": {
+    "hanzi": "廿",
+    "pinyin": "niàn",
+    "english": [
+      "Twenty"
+    ],
+    "difficulty": 3
+  },
+  "w05591": {
+    "hanzi": "弓",
+    "pinyin": "gōng",
+    "english": [
+      "Bow"
+    ],
+    "difficulty": 3
+  },
+  "w05592": {
+    "hanzi": "弗",
+    "pinyin": "fú",
+    "english": [
+      "Not"
+    ],
+    "difficulty": 3
+  },
+  "w05593": {
+    "hanzi": "彷",
+    "pinyin": "páng",
+    "english": [
+      "Irresolute"
+    ],
+    "difficulty": 3
+  },
+  "w05594": {
+    "hanzi": "御",
+    "pinyin": "yù",
+    "english": [
+      "Imperial",
+      "To defend"
+    ],
+    "difficulty": 3
+  },
+  "w05595": {
+    "hanzi": "忿",
+    "pinyin": "fèn",
+    "english": [
+      "Anger"
+    ],
+    "difficulty": 3
+  },
+  "w05596": {
+    "hanzi": "恕",
+    "pinyin": "shù",
+    "english": [
+      "To forgive"
+    ],
+    "difficulty": 3
+  },
+  "w05597": {
+    "hanzi": "悍",
+    "pinyin": "hàn",
+    "english": [
+      "Fierce",
+      "Brave"
+    ],
+    "difficulty": 3
+  },
+  "w05598": {
+    "hanzi": "悸",
+    "pinyin": "jì",
+    "english": [
+      "Palpitation"
+    ],
+    "difficulty": 3
+  },
+  "w05599": {
+    "hanzi": "悼",
+    "pinyin": "dào",
+    "english": [
+      "To mourn"
+    ],
+    "difficulty": 3
+  },
+  "w05600": {
+    "hanzi": "惘",
+    "pinyin": "wǎng",
+    "english": [
+      "Disappointed"
+    ],
+    "difficulty": 3
+  },
+  "w05601": {
+    "hanzi": "惟",
+    "pinyin": "wéi",
+    "english": [
+      "Only",
+      "But"
+    ],
+    "difficulty": 3
+  },
+  "w05602": {
+    "hanzi": "惰",
+    "pinyin": "duò",
+    "english": [
+      "Lazy"
+    ],
+    "difficulty": 3
+  },
+  "w05603": {
+    "hanzi": "惶",
+    "pinyin": "huáng",
+    "english": [
+      "Fearful"
+    ],
+    "difficulty": 3
+  },
+  "w05604": {
+    "hanzi": "愧",
+    "pinyin": "kuì",
+    "english": [
+      "Ashamed"
+    ],
+    "difficulty": 3
+  },
+  "w05605": {
+    "hanzi": "慨",
+    "pinyin": "kǎi",
+    "english": [
+      "Generous",
+      "Emotional"
+    ],
+    "difficulty": 3
+  },
+  "w05606": {
+    "hanzi": "懿",
+    "pinyin": "yì",
+    "english": [
+      "Virtuous"
+    ],
+    "difficulty": 3
+  },
+  "w05607": {
+    "hanzi": "戈",
+    "pinyin": "gē",
+    "english": [
+      "Spear",
+      "Lance"
+    ],
+    "difficulty": 3
+  },
+  "w05608": {
+    "hanzi": "戚",
+    "pinyin": "qī",
+    "english": [
+      "Relative",
+      "Sorrow"
+    ],
+    "difficulty": 3
+  },
+  "w05609": {
+    "hanzi": "戳",
+    "pinyin": "chuō",
+    "english": [
+      "To poke",
+      "To stamp"
+    ],
+    "difficulty": 3
+  },
+  "w05610": {
+    "hanzi": "扳",
+    "pinyin": "bān",
+    "english": [
+      "To pull",
+      "To turn"
+    ],
+    "difficulty": 3
+  },
+  "w05611": {
+    "hanzi": "抉",
+    "pinyin": "jué",
+    "english": [
+      "To choose"
+    ],
+    "difficulty": 3
+  },
+  "w05612": {
+    "hanzi": "抑",
+    "pinyin": "yì",
+    "english": [
+      "To suppress",
+      "Or"
+    ],
+    "difficulty": 3
+  },
+  "w05613": {
+    "hanzi": "抒",
+    "pinyin": "shū",
+    "english": [
+      "To express"
+    ],
+    "difficulty": 3
+  },
+  "w05614": {
+    "hanzi": "抖",
+    "pinyin": "dǒu",
+    "english": [
+      "To shake",
+      "To tremble"
+    ],
+    "difficulty": 3
+  },
+  "w05615": {
+    "hanzi": "拂",
+    "pinyin": "fú",
+    "english": [
+      "To brush away"
+    ],
+    "difficulty": 3
+  },
+  "w05616": {
+    "hanzi": "拓",
+    "pinyin": "tuò",
+    "english": [
+      "To expand",
+      "To develop"
+    ],
+    "difficulty": 3
+  },
+  "w05617": {
+    "hanzi": "拙",
+    "pinyin": "zhuō",
+    "english": [
+      "Clumsy"
+    ],
+    "difficulty": 3
+  },
+  "w05618": {
+    "hanzi": "拢",
+    "pinyin": "lǒng",
+    "english": [
+      "To gather",
+      "To hold"
+    ],
+    "difficulty": 3
+  },
+  "w05619": {
+    "hanzi": "拭",
+    "pinyin": "shì",
+    "english": [
+      "To wipe"
+    ],
+    "difficulty": 3
+  },
+  "w05620": {
+    "hanzi": "拯",
+    "pinyin": "zhěng",
+    "english": [
+      "To save"
+    ],
+    "difficulty": 3
+  },
+  "w05621": {
+    "hanzi": "拷",
+    "pinyin": "kǎo",
+    "english": [
+      "To beat",
+      "To torture"
+    ],
+    "difficulty": 3
+  },
+  "w05622": {
+    "hanzi": "挚",
+    "pinyin": "zhì",
+    "english": [
+      "Sincere"
+    ],
+    "difficulty": 3
+  },
+  "w05623": {
+    "hanzi": "掘",
+    "pinyin": "jué",
+    "english": [
+      "To dig"
+    ],
+    "difficulty": 3
+  },
+  "w05624": {
+    "hanzi": "掷",
+    "pinyin": "zhì",
+    "english": [
+      "To throw",
+      "To cast"
+    ],
+    "difficulty": 3
+  },
+  "w05625": {
+    "hanzi": "撰",
+    "pinyin": "zhuàn",
+    "english": [
+      "To compose",
+      "To write"
+    ],
+    "difficulty": 3
+  },
+  "w05626": {
+    "hanzi": "撼",
+    "pinyin": "hàn",
+    "english": [
+      "To shake",
+      "To vibrate"
+    ],
+    "difficulty": 3
+  },
+  "w05627": {
+    "hanzi": "敛",
+    "pinyin": "liǎn",
+    "english": [
+      "To restrain",
+      "To collect"
+    ],
+    "difficulty": 3
+  },
+  "w05628": {
+    "hanzi": "斌",
+    "pinyin": "bīn",
+    "english": [
+      "Refined",
+      "Gentle"
+    ],
+    "difficulty": 3
+  },
+  "w05629": {
+    "hanzi": "斐",
+    "pinyin": "fěi",
+    "english": [
+      "Rich",
+      "Literary"
+    ],
+    "difficulty": 3
+  },
+  "w05630": {
+    "hanzi": "斤",
+    "pinyin": "jīn",
+    "english": [
+      "Catty (weight unit)",
+      "Axe"
+    ],
+    "difficulty": 3
+  },
+  "w05631": {
+    "hanzi": "斥",
+    "pinyin": "chì",
+    "english": [
+      "To blame",
+      "To repel"
+    ],
+    "difficulty": 3
+  },
+  "w05632": {
+    "hanzi": "斧",
+    "pinyin": "fǔ",
+    "english": [
+      "Axe",
+      "Hatchet"
+    ],
+    "difficulty": 3
+  },
+  "w05633": {
+    "hanzi": "旨",
+    "pinyin": "zhǐ",
+    "english": [
+      "Purpose",
+      "Decree"
+    ],
+    "difficulty": 3
+  },
+  "w05634": {
+    "hanzi": "旬",
+    "pinyin": "xún",
+    "english": [
+      "Ten days",
+      "Period"
+    ],
+    "difficulty": 3
+  },
+  "w05635": {
+    "hanzi": "旺",
+    "pinyin": "wàng",
+    "english": [
+      "Prosperous",
+      "Flourishing"
+    ],
+    "difficulty": 3
+  },
+  "w05636": {
+    "hanzi": "昧",
+    "pinyin": "mèi",
+    "english": [
+      "Obscure",
+      "Ignorant"
+    ],
+    "difficulty": 3
+  },
+  "w05637": {
+    "hanzi": "昱",
+    "pinyin": "yù",
+    "english": [
+      "Bright light",
+      "Sunlight"
+    ],
+    "difficulty": 3
+  },
+  "w05638": {
+    "hanzi": "晖",
+    "pinyin": "huī",
+    "english": [
+      "Sunshine",
+      "Splendor"
+    ],
+    "difficulty": 3
+  },
+  "w05639": {
+    "hanzi": "晦",
+    "pinyin": "huì",
+    "english": [
+      "Dark",
+      "Obscure"
+    ],
+    "difficulty": 3
+  },
+  "w05640": {
+    "hanzi": "晰",
+    "pinyin": "xī",
+    "english": [
+      "Clear",
+      "Distinct"
+    ],
+    "difficulty": 3
+  },
+  "w05641": {
+    "hanzi": "暇",
+    "pinyin": "xiá",
+    "english": [
+      "Leisure",
+      "Spare time"
+    ],
+    "difficulty": 3
+  },
+  "w05642": {
+    "hanzi": "暨",
+    "pinyin": "jì",
+    "english": [
+      "And",
+      "To reach"
+    ],
+    "difficulty": 3
+  },
+  "w05643": {
+    "hanzi": "暮",
+    "pinyin": "mù",
+    "english": [
+      "Dusk",
+      "Sunset"
+    ],
+    "difficulty": 3
+  },
+  "w05644": {
+    "hanzi": "暱",
+    "pinyin": "nì",
+    "english": [
+      "Intimate",
+      "Close"
+    ],
+    "difficulty": 3
+  },
+  "w05645": {
+    "hanzi": "曹",
+    "pinyin": "cáo",
+    "english": [
+      "(Surname)",
+      "Official"
+    ],
+    "difficulty": 3
+  },
+  "w05646": {
+    "hanzi": "朦",
+    "pinyin": "méng",
+    "english": [
+      "Hazy",
+      "Dim"
+    ],
+    "difficulty": 3
+  },
+  "w05647": {
+    "hanzi": "札",
+    "pinyin": "zhá",
+    "english": [
+      "Letter",
+      "Note"
+    ],
+    "difficulty": 3
+  },
+  "w05648": {
+    "hanzi": "杆",
+    "pinyin": "gān",
+    "english": [
+      "Pole",
+      "Rod"
+    ],
+    "difficulty": 3
+  },
+  "w05649": {
+    "hanzi": "杉",
+    "pinyin": "shān",
+    "english": [
+      "Fir",
+      "Cedar"
+    ],
+    "difficulty": 3
+  },
+  "w05650": {
+    "hanzi": "杖",
+    "pinyin": "zhàng",
+    "english": [
+      "Cane",
+      "Staff"
+    ],
+    "difficulty": 3
+  },
+  "w05651": {
+    "hanzi": "枉",
+    "pinyin": "wǎng",
+    "english": [
+      "In vain",
+      "Wrong"
+    ],
+    "difficulty": 3
+  },
+  "w05652": {
+    "hanzi": "柄",
+    "pinyin": "bǐng",
+    "english": [
+      "Handle",
+      "Authority"
+    ],
+    "difficulty": 3
+  },
+  "w05653": {
+    "hanzi": "柠",
+    "pinyin": "níng",
+    "english": [
+      "Lemon"
+    ],
+    "difficulty": 3
+  },
+  "w05654": {
+    "hanzi": "柯",
+    "pinyin": "kē",
+    "english": [
+      "Stalk",
+      "Branch"
+    ],
+    "difficulty": 3
+  },
+  "w05655": {
+    "hanzi": "柱",
+    "pinyin": "zhù",
+    "english": [
+      "Pillar",
+      "Post"
+    ],
+    "difficulty": 3
+  },
+  "w05656": {
+    "hanzi": "栅",
+    "pinyin": "zhà",
+    "english": [
+      "Fence",
+      "Grid"
+    ],
+    "difficulty": 3
+  },
+  "w05657": {
+    "hanzi": "栖",
+    "pinyin": "qī",
+    "english": [
+      "To perch",
+      "To dwell"
+    ],
+    "difficulty": 3
+  },
+  "w05658": {
+    "hanzi": "栗",
+    "pinyin": "lì",
+    "english": [
+      "Chestnut",
+      "Trembling"
+    ],
+    "difficulty": 3
+  },
+  "w05659": {
+    "hanzi": "桂",
+    "pinyin": "guì",
+    "english": [
+      "Cassia",
+      "Laurel"
+    ],
+    "difficulty": 3
+  },
+  "w05660": {
+    "hanzi": "桦",
+    "pinyin": "huà",
+    "english": [
+      "Birch"
+    ],
+    "difficulty": 3
+  },
+  "w05661": {
+    "hanzi": "桶",
+    "pinyin": "tǒng",
+    "english": [
+      "Bucket",
+      "Barrel"
+    ],
+    "difficulty": 3
+  },
+  "w05662": {
+    "hanzi": "梭",
+    "pinyin": "suō",
+    "english": [
+      "Shuttle",
+      "To weave"
+    ],
+    "difficulty": 3
+  },
+  "w05663": {
+    "hanzi": "梵",
+    "pinyin": "fàn",
+    "english": [
+      "Sanskrit",
+      "Buddhist"
+    ],
+    "difficulty": 3
+  },
+  "w05664": {
+    "hanzi": "棺",
+    "pinyin": "guān",
+    "english": [
+      "Coffin"
+    ],
+    "difficulty": 3
+  },
+  "w05665": {
+    "hanzi": "楣",
+    "pinyin": "méi",
+    "english": [
+      "Lintel",
+      "Crossbeam"
+    ],
+    "difficulty": 3
+  },
+  "w05666": {
+    "hanzi": "榔",
+    "pinyin": "láng",
+    "english": [
+      "Betel nut tree"
+    ],
+    "difficulty": 3
+  },
+  "w05667": {
+    "hanzi": "槟",
+    "pinyin": "bīn",
+    "english": [
+      "Betel nut"
+    ],
+    "difficulty": 3
+  },
+  "w05668": {
+    "hanzi": "槽",
+    "pinyin": "cáo",
+    "english": [
+      "Trough",
+      "Groove"
+    ],
+    "difficulty": 3
+  },
+  "w05669": {
+    "hanzi": "樱",
+    "pinyin": "yīng",
+    "english": [
+      "Cherry"
+    ],
+    "difficulty": 3
+  },
+  "w05670": {
+    "hanzi": "樵",
+    "pinyin": "qiáo",
+    "english": [
+      "Firewood",
+      "Woodcutter"
+    ],
+    "difficulty": 3
+  },
+  "w05671": {
+    "hanzi": "橘",
+    "pinyin": "jú",
+    "english": [
+      "Tangerine"
+    ],
+    "difficulty": 3
+  },
+  "w05672": {
+    "hanzi": "檬",
+    "pinyin": "méng",
+    "english": [
+      "Lemon"
+    ],
+    "difficulty": 3
+  },
+  "w05673": {
+    "hanzi": "殷",
+    "pinyin": "yīn",
+    "english": [
+      "Abundant",
+      "Hospitable"
+    ],
+    "difficulty": 3
+  },
+  "w05674": {
+    "hanzi": "殿",
+    "pinyin": "diàn",
+    "english": [
+      "Palace",
+      "Hall"
+    ],
+    "difficulty": 3
+  },
+  "w05675": {
+    "hanzi": "毋",
+    "pinyin": "wú",
+    "english": [
+      "Do not",
+      "No"
+    ],
+    "difficulty": 3
+  },
+  "w05676": {
+    "hanzi": "毓",
+    "pinyin": "yù",
+    "english": [
+      "To nurture",
+      "To rear"
+    ],
+    "difficulty": 3
+  },
+  "w05677": {
+    "hanzi": "毙",
+    "pinyin": "bì",
+    "english": [
+      "To die",
+      "To kill"
+    ],
+    "difficulty": 3
+  },
+  "w05678": {
+    "hanzi": "氓",
+    "pinyin": "méng",
+    "english": [
+      "Common people",
+      "Hooligan"
+    ],
+    "difficulty": 3
+  },
+  "w05679": {
+    "hanzi": "氛",
+    "pinyin": "fēn",
+    "english": [
+      "Atmosphere",
+      "Miasma"
+    ],
+    "difficulty": 3
+  },
+  "w05680": {
+    "hanzi": "汁",
+    "pinyin": "zhī",
+    "english": [
+      "Juice",
+      "Fluid"
+    ],
+    "difficulty": 3
+  },
+  "w05681": {
+    "hanzi": "汰",
+    "pinyin": "tài",
+    "english": [
+      "To eliminate",
+      "To wash out"
+    ],
+    "difficulty": 3
+  },
+  "w05682": {
+    "hanzi": "沌",
+    "pinyin": "dùn",
+    "english": [
+      "Confused",
+      "Turbid"
+    ],
+    "difficulty": 3
+  },
+  "w05683": {
+    "hanzi": "沛",
+    "pinyin": "pèi",
+    "english": [
+      "Abundant",
+      "Copious"
+    ],
+    "difficulty": 3
+  },
+  "w05684": {
+    "hanzi": "沦",
+    "pinyin": "lún",
+    "english": [
+      "To sink",
+      "To fall"
+    ],
+    "difficulty": 3
+  },
+  "w05685": {
+    "hanzi": "沫",
+    "pinyin": "mò",
+    "english": [
+      "Foam",
+      "Froth"
+    ],
+    "difficulty": 3
+  },
+  "w05686": {
+    "hanzi": "泊",
+    "pinyin": "bó",
+    "english": [
+      "To anchor",
+      "Lake"
+    ],
+    "difficulty": 3
+  },
+  "w05687": {
+    "hanzi": "泓",
+    "pinyin": "hóng",
+    "english": [
+      "Deep pool",
+      "Clear"
+    ],
+    "difficulty": 3
+  },
+  "w05688": {
+    "hanzi": "泣",
+    "pinyin": "qì",
+    "english": [
+      "To weep",
+      "To sob"
+    ],
+    "difficulty": 3
+  },
+  "w05689": {
+    "hanzi": "浆",
+    "pinyin": "jiāng",
+    "english": [
+      "Thick liquid",
+      "Starch"
+    ],
+    "difficulty": 3
+  },
+  "w05690": {
+    "hanzi": "浊",
+    "pinyin": "zhuó",
+    "english": [
+      "Turbid",
+      "Muddy"
+    ],
+    "difficulty": 3
+  },
+  "w05691": {
+    "hanzi": "浦",
+    "pinyin": "pǔ",
+    "english": [
+      "Riverside",
+      "Estuary"
+    ],
+    "difficulty": 3
+  },
+  "w05692": {
+    "hanzi": "浴",
+    "pinyin": "yù",
+    "english": [
+      "Bath",
+      "To bathe"
+    ],
+    "difficulty": 3
+  },
+  "w05693": {
+    "hanzi": "涅",
+    "pinyin": "niè",
+    "english": [
+      "Black mud",
+      "Nirvana"
+    ],
+    "difficulty": 3
+  },
+  "w05694": {
+    "hanzi": "涕",
+    "pinyin": "tì",
+    "english": [
+      "Tears",
+      "Snivel"
+    ],
+    "difficulty": 3
+  },
+  "w05695": {
+    "hanzi": "润",
+    "pinyin": "rùn",
+    "english": [
+      "Moist",
+      "Profit"
+    ],
+    "difficulty": 3
+  },
+  "w05696": {
+    "hanzi": "涩",
+    "pinyin": "sè",
+    "english": [
+      "Astringent",
+      "Tart"
+    ],
+    "difficulty": 3
+  },
+  "w05697": {
+    "hanzi": "淫",
+    "pinyin": "yín",
+    "english": [
+      "Excessive",
+      "Obscene"
+    ],
+    "difficulty": 3
+  },
+  "w05698": {
+    "hanzi": "淳",
+    "pinyin": "chún",
+    "english": [
+      "Honest",
+      "Pure"
+    ],
+    "difficulty": 3
+  },
+  "w05699": {
+    "hanzi": "添",
+    "pinyin": "tiān",
+    "english": [
+      "To add",
+      "To increase"
+    ],
+    "difficulty": 3
+  },
+  "w05700": {
+    "hanzi": "渊",
+    "pinyin": "yuān",
+    "english": [
+      "Abyss",
+      "Deep"
+    ],
+    "difficulty": 3
+  },
+  "w05701": {
+    "hanzi": "渝",
+    "pinyin": "yú",
+    "english": [
+      "To change",
+      "Chongqing"
+    ],
+    "difficulty": 3
+  },
+  "w05702": {
+    "hanzi": "湘",
+    "pinyin": "xiāng",
+    "english": [
+      "Hunan province",
+      "Xiang River"
+    ],
+    "difficulty": 3
+  },
+  "w05703": {
+    "hanzi": "溃",
+    "pinyin": "kuì",
+    "english": [
+      "To collapse",
+      "To fester"
+    ],
+    "difficulty": 3
+  },
+  "w05704": {
+    "hanzi": "溉",
+    "pinyin": "gài",
+    "english": [
+      "To irrigate"
+    ],
+    "difficulty": 3
+  },
+  "w05705": {
+    "hanzi": "溢",
+    "pinyin": "yì",
+    "english": [
+      "To overflow"
+    ],
+    "difficulty": 3
+  },
+  "w05706": {
+    "hanzi": "溯",
+    "pinyin": "sù",
+    "english": [
+      "To trace back",
+      "Upstream"
+    ],
+    "difficulty": 3
+  },
+  "w05707": {
+    "hanzi": "滤",
+    "pinyin": "lǜ",
+    "english": [
+      "To filter"
+    ],
+    "difficulty": 3
+  },
+  "w05708": {
+    "hanzi": "滨",
+    "pinyin": "bīn",
+    "english": [
+      "Shore",
+      "Beach"
+    ],
+    "difficulty": 3
+  },
+  "w05709": {
+    "hanzi": "滩",
+    "pinyin": "tān",
+    "english": [
+      "Beach",
+      "Shoal"
+    ],
+    "difficulty": 3
+  },
+  "w05710": {
+    "hanzi": "漆",
+    "pinyin": "qī",
+    "english": [
+      "Paint",
+      "Lacquer"
+    ],
+    "difficulty": 3
+  },
+  "w05711": {
+    "hanzi": "潘",
+    "pinyin": "pān",
+    "english": [
+      "(Surname)",
+      "Water from rice"
+    ],
+    "difficulty": 3
+  },
+  "w05712": {
+    "hanzi": "潭",
+    "pinyin": "tán",
+    "english": [
+      "Deep pool"
+    ],
+    "difficulty": 3
+  },
+  "w05713": {
+    "hanzi": "澎",
+    "pinyin": "péng",
+    "english": [
+      "Splashing",
+      "Surging"
+    ],
+    "difficulty": 3
+  },
+  "w05714": {
+    "hanzi": "澡",
+    "pinyin": "zǎo",
+    "english": [
+      "Bath"
+    ],
+    "difficulty": 3
+  },
+  "w05715": {
+    "hanzi": "澳",
+    "pinyin": "ào",
+    "english": [
+      "Inlet",
+      "Australia"
+    ],
+    "difficulty": 3
+  },
+  "w05716": {
+    "hanzi": "瀚",
+    "pinyin": "hàn",
+    "english": [
+      "Vast"
+    ],
+    "difficulty": 3
+  },
+  "w05717": {
+    "hanzi": "炳",
+    "pinyin": "bǐng",
+    "english": [
+      "Bright",
+      "Luminous"
+    ],
+    "difficulty": 3
+  },
+  "w05718": {
+    "hanzi": "炼",
+    "pinyin": "liàn",
+    "english": [
+      "To refine",
+      "To smelt"
+    ],
+    "difficulty": 3
+  },
+  "w05719": {
+    "hanzi": "烁",
+    "pinyin": "shuò",
+    "english": [
+      "To twinkle",
+      "To glisten"
+    ],
+    "difficulty": 3
+  },
+  "w05720": {
+    "hanzi": "烛",
+    "pinyin": "zhú",
+    "english": [
+      "Candle"
+    ],
+    "difficulty": 3
+  },
+  "w05721": {
+    "hanzi": "焉",
+    "pinyin": "yān",
+    "english": [
+      "How",
+      "Why"
+    ],
+    "difficulty": 3
+  },
+  "w05722": {
+    "hanzi": "焕",
+    "pinyin": "huàn",
+    "english": [
+      "Glowing",
+      "Brilliant"
+    ],
+    "difficulty": 3
+  },
+  "w05723": {
+    "hanzi": "焚",
+    "pinyin": "fén",
+    "english": [
+      "To burn"
+    ],
+    "difficulty": 3
+  },
+  "w05724": {
+    "hanzi": "焰",
+    "pinyin": "yàn",
+    "english": [
+      "Flame"
+    ],
+    "difficulty": 3
+  },
+  "w05725": {
+    "hanzi": "煌",
+    "pinyin": "huáng",
+    "english": [
+      "Brilliant",
+      "Luminous"
+    ],
+    "difficulty": 3
+  },
+  "w05726": {
+    "hanzi": "煽",
+    "pinyin": "shān",
+    "english": [
+      "To fan",
+      "To incite"
+    ],
+    "difficulty": 3
+  },
+  "w05727": {
+    "hanzi": "熙",
+    "pinyin": "xī",
+    "english": [
+      "Prosperous",
+      "Bright"
+    ],
+    "difficulty": 3
+  },
+  "w05728": {
+    "hanzi": "燕",
+    "pinyin": "yàn",
+    "english": [
+      "Swallow (bird)"
+    ],
+    "difficulty": 3
+  },
+  "w05729": {
+    "hanzi": "燥",
+    "pinyin": "zào",
+    "english": [
+      "Dry",
+      "Parched"
+    ],
+    "difficulty": 3
+  },
+  "w05730": {
+    "hanzi": "爪",
+    "pinyin": "zhǎo",
+    "english": [
+      "Claw"
+    ],
+    "difficulty": 3
+  },
+  "w05731": {
+    "hanzi": "爹",
+    "pinyin": "diē",
+    "english": [
+      "Dad",
+      "Father"
+    ],
+    "difficulty": 3
+  },
+  "w05732": {
+    "hanzi": "牡",
+    "pinyin": "mǔ",
+    "english": [
+      "Male (animal)"
+    ],
+    "difficulty": 3
+  },
+  "w05733": {
+    "hanzi": "犀",
+    "pinyin": "xī",
+    "english": [
+      "Rhinoceros",
+      "Sharp"
+    ],
+    "difficulty": 3
+  },
+  "w05734": {
+    "hanzi": "狄",
+    "pinyin": "dí",
+    "english": [
+      "(Surname)",
+      "Barbarians"
+    ],
+    "difficulty": 3
+  },
+  "w05735": {
+    "hanzi": "狸",
+    "pinyin": "lí",
+    "english": [
+      "Fox",
+      "Raccoon dog"
+    ],
+    "difficulty": 3
+  },
+  "w05736": {
+    "hanzi": "猎",
+    "pinyin": "liè",
+    "english": [
+      "To hunt"
+    ],
+    "difficulty": 3
+  },
+  "w05737": {
+    "hanzi": "猩",
+    "pinyin": "xīng",
+    "english": [
+      "Gorilla",
+      "Ape"
+    ],
+    "difficulty": 3
+  },
+  "w05738": {
+    "hanzi": "玮",
+    "pinyin": "wěi",
+    "english": [
+      "Precious jade"
+    ],
+    "difficulty": 3
+  },
+  "w05739": {
+    "hanzi": "珊",
+    "pinyin": "shān",
+    "english": [
+      "Coral"
+    ],
+    "difficulty": 3
+  },
+  "w05740": {
+    "hanzi": "琉",
+    "pinyin": "liú",
+    "english": [
+      "Glazed tile"
+    ],
+    "difficulty": 3
+  },
+  "w05741": {
+    "hanzi": "琦",
+    "pinyin": "qí",
+    "english": [
+      "Fine jade",
+      "Admirable"
+    ],
+    "difficulty": 3
+  },
+  "w05742": {
+    "hanzi": "琳",
+    "pinyin": "lín",
+    "english": [
+      "Beautiful jade"
+    ],
+    "difficulty": 3
+  },
+  "w05743": {
+    "hanzi": "琼",
+    "pinyin": "qióng",
+    "english": [
+      "Fine jade",
+      "Exquisite"
+    ],
+    "difficulty": 3
+  },
+  "w05744": {
+    "hanzi": "瑄",
+    "pinyin": "xuān",
+    "english": [
+      "Ornamental jade"
+    ],
+    "difficulty": 3
+  },
+  "w05745": {
+    "hanzi": "瑛",
+    "pinyin": "yīng",
+    "english": [
+      "Luster of jade"
+    ],
+    "difficulty": 3
+  },
+  "w05746": {
+    "hanzi": "瑟",
+    "pinyin": "sè",
+    "english": [
+      "Zither"
+    ],
+    "difficulty": 3
+  },
+  "w05747": {
+    "hanzi": "璃",
+    "pinyin": "lí",
+    "english": [
+      "Glass"
+    ],
+    "difficulty": 3
+  },
+  "w05748": {
+    "hanzi": "璋",
+    "pinyin": "zhāng",
+    "english": [
+      "Jade tablet"
+    ],
+    "difficulty": 3
+  },
+  "w05749": {
+    "hanzi": "璞",
+    "pinyin": "pú",
+    "english": [
+      "Uncut jade"
+    ],
+    "difficulty": 3
+  },
+  "w05750": {
+    "hanzi": "璿",
+    "pinyin": "xuán",
+    "english": [
+      "Fine jade"
+    ],
+    "difficulty": 3
+  },
+  "w05751": {
+    "hanzi": "甄",
+    "pinyin": "zhēn",
+    "english": [
+      "To distinguish",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05752": {
+    "hanzi": "甫",
+    "pinyin": "fǔ",
+    "english": [
+      "Just",
+      "Only"
+    ],
+    "difficulty": 3
+  },
+  "w05753": {
+    "hanzi": "疋",
+    "pinyin": "pǐ",
+    "english": [
+      "Bolt of cloth"
+    ],
+    "difficulty": 3
+  },
+  "w05754": {
+    "hanzi": "疫",
+    "pinyin": "yì",
+    "english": [
+      "Epidemic",
+      "Plague"
+    ],
+    "difficulty": 3
+  },
+  "w05755": {
+    "hanzi": "痞",
+    "pinyin": "pǐ",
+    "english": [
+      "Ruffian",
+      "Scoundrel"
+    ],
+    "difficulty": 3
+  },
+  "w05756": {
+    "hanzi": "瘟",
+    "pinyin": "wēn",
+    "english": [
+      "Plague",
+      "Pestilence"
+    ],
+    "difficulty": 3
+  },
+  "w05757": {
+    "hanzi": "瘾",
+    "pinyin": "yǐn",
+    "english": [
+      "Addiction"
+    ],
+    "difficulty": 3
+  },
+  "w05758": {
+    "hanzi": "皓",
+    "pinyin": "hào",
+    "english": [
+      "White",
+      "Bright"
+    ],
+    "difficulty": 3
+  },
+  "w05759": {
+    "hanzi": "盏",
+    "pinyin": "zhǎn",
+    "english": [
+      "Small cup"
+    ],
+    "difficulty": 3
+  },
+  "w05760": {
+    "hanzi": "眷",
+    "pinyin": "juàn",
+    "english": [
+      "Family",
+      "To care for"
+    ],
+    "difficulty": 3
+  },
+  "w05761": {
+    "hanzi": "睹",
+    "pinyin": "dǔ",
+    "english": [
+      "To see",
+      "To witness"
+    ],
+    "difficulty": 3
+  },
+  "w05762": {
+    "hanzi": "瞒",
+    "pinyin": "mán",
+    "english": [
+      "To hide the truth"
+    ],
+    "difficulty": 3
+  },
+  "w05763": {
+    "hanzi": "矢",
+    "pinyin": "shǐ",
+    "english": [
+      "Arrow",
+      "Vow"
+    ],
+    "difficulty": 3
+  },
+  "w05764": {
+    "hanzi": "矩",
+    "pinyin": "jǔ",
+    "english": [
+      "Rule",
+      "Square"
+    ],
+    "difficulty": 3
+  },
+  "w05765": {
+    "hanzi": "碌",
+    "pinyin": "lù",
+    "english": [
+      "Busy",
+      "Commonplace"
+    ],
+    "difficulty": 3
+  },
+  "w05766": {
+    "hanzi": "碑",
+    "pinyin": "bēi",
+    "english": [
+      "Monument",
+      "Stele"
+    ],
+    "difficulty": 3
+  },
+  "w05767": {
+    "hanzi": "碳",
+    "pinyin": "tàn",
+    "english": [
+      "Carbon"
+    ],
+    "difficulty": 3
+  },
+  "w05768": {
+    "hanzi": "磊",
+    "pinyin": "lěi",
+    "english": [
+      "Rocky",
+      "Open-hearted"
+    ],
+    "difficulty": 3
+  },
+  "w05769": {
+    "hanzi": "祂",
+    "pinyin": "tā",
+    "english": [
+      "He (deity)"
+    ],
+    "difficulty": 3
+  },
+  "w05770": {
+    "hanzi": "祈",
+    "pinyin": "qí",
+    "english": [
+      "To pray"
+    ],
+    "difficulty": 3
+  },
+  "w05771": {
+    "hanzi": "祭",
+    "pinyin": "jì",
+    "english": [
+      "To sacrifice",
+      "Festival"
+    ],
+    "difficulty": 3
+  },
+  "w05772": {
+    "hanzi": "祯",
+    "pinyin": "zhēn",
+    "english": [
+      "Auspicious"
+    ],
+    "difficulty": 3
+  },
+  "w05773": {
+    "hanzi": "祷",
+    "pinyin": "dǎo",
+    "english": [
+      "To pray"
+    ],
+    "difficulty": 3
+  },
+  "w05774": {
+    "hanzi": "祺",
+    "pinyin": "qí",
+    "english": [
+      "Auspicious",
+      "Lucky"
+    ],
+    "difficulty": 3
+  },
+  "w05775": {
+    "hanzi": "禧",
+    "pinyin": "xǐ",
+    "english": [
+      "Happiness",
+      "Jubilation"
+    ],
+    "difficulty": 3
+  },
+  "w05776": {
+    "hanzi": "秉",
+    "pinyin": "bǐng",
+    "english": [
+      "To hold",
+      "To grasp"
+    ],
+    "difficulty": 3
+  },
+  "w05777": {
+    "hanzi": "稀",
+    "pinyin": "xī",
+    "english": [
+      "Rare",
+      "Sparse"
+    ],
+    "difficulty": 3
+  },
+  "w05778": {
+    "hanzi": "稚",
+    "pinyin": "zhì",
+    "english": [
+      "Childish",
+      "Young"
+    ],
+    "difficulty": 3
+  },
+  "w05779": {
+    "hanzi": "穆",
+    "pinyin": "mù",
+    "english": [
+      "Solemn",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05780": {
+    "hanzi": "穗",
+    "pinyin": "suì",
+    "english": [
+      "Ear of grain",
+      "Fringe"
+    ],
+    "difficulty": 3
+  },
+  "w05781": {
+    "hanzi": "穴",
+    "pinyin": "xué",
+    "english": [
+      "Cave",
+      "Hole"
+    ],
+    "difficulty": 3
+  },
+  "w05782": {
+    "hanzi": "窃",
+    "pinyin": "qiè",
+    "english": [
+      "To steal",
+      "Secretly"
+    ],
+    "difficulty": 3
+  },
+  "w05783": {
+    "hanzi": "窈",
+    "pinyin": "yǎo",
+    "english": [
+      "Quiet",
+      "Gentle"
+    ],
+    "difficulty": 3
+  },
+  "w05784": {
+    "hanzi": "窕",
+    "pinyin": "tiǎo",
+    "english": [
+      "Slender",
+      "Charming"
+    ],
+    "difficulty": 3
+  },
+  "w05785": {
+    "hanzi": "窟",
+    "pinyin": "kū",
+    "english": [
+      "Cave",
+      "Den"
+    ],
+    "difficulty": 3
+  },
+  "w05786": {
+    "hanzi": "窥",
+    "pinyin": "kuī",
+    "english": [
+      "To peep",
+      "To spy"
+    ],
+    "difficulty": 3
+  },
+  "w05787": {
+    "hanzi": "竿",
+    "pinyin": "gān",
+    "english": [
+      "Pole",
+      "Rod"
+    ],
+    "difficulty": 3
+  },
+  "w05788": {
+    "hanzi": "筒",
+    "pinyin": "tǒng",
+    "english": [
+      "Tube",
+      "Cylinder"
+    ],
+    "difficulty": 3
+  },
+  "w05789": {
+    "hanzi": "筝",
+    "pinyin": "zhēng",
+    "english": [
+      "Kite",
+      "Zither"
+    ],
+    "difficulty": 3
+  },
+  "w05790": {
+    "hanzi": "筠",
+    "pinyin": "yún",
+    "english": [
+      "Bamboo skin"
+    ],
+    "difficulty": 3
+  },
+  "w05791": {
+    "hanzi": "篠",
+    "pinyin": "xiǎo",
+    "english": [
+      "Dwarf bamboo"
+    ],
+    "difficulty": 3
+  },
+  "w05792": {
+    "hanzi": "簿",
+    "pinyin": "bù",
+    "english": [
+      "Notebook",
+      "Register"
+    ],
+    "difficulty": 3
+  },
+  "w05793": {
+    "hanzi": "粹",
+    "pinyin": "cuì",
+    "english": [
+      "Pure",
+      "Essence"
+    ],
+    "difficulty": 3
+  },
+  "w05794": {
+    "hanzi": "粽",
+    "pinyin": "zòng",
+    "english": [
+      "Rice dumpling"
+    ],
+    "difficulty": 3
+  },
+  "w05795": {
+    "hanzi": "纬",
+    "pinyin": "wěi",
+    "english": [
+      "Latitude",
+      "Weft"
+    ],
+    "difficulty": 3
+  },
+  "w05796": {
+    "hanzi": "纱",
+    "pinyin": "shā",
+    "english": [
+      "Yarn",
+      "Gauze"
+    ],
+    "difficulty": 3
+  },
+  "w05797": {
+    "hanzi": "纶",
+    "pinyin": "lún",
+    "english": [
+      "Fishing line",
+      "Synthetic fiber"
+    ],
+    "difficulty": 3
+  },
+  "w05798": {
+    "hanzi": "纹",
+    "pinyin": "wén",
+    "english": [
+      "Pattern",
+      "Grain"
+    ],
+    "difficulty": 3
+  },
+  "w05799": {
+    "hanzi": "绊",
+    "pinyin": "bàn",
+    "english": [
+      "To trip",
+      "To stumble"
+    ],
+    "difficulty": 3
+  },
+  "w05800": {
+    "hanzi": "绮",
+    "pinyin": "qǐ",
+    "english": [
+      "Beautiful",
+      "Elegant"
+    ],
+    "difficulty": 3
+  },
+  "w05801": {
+    "hanzi": "绰",
+    "pinyin": "chuò",
+    "english": [
+      "Generous",
+      "Ample"
+    ],
+    "difficulty": 3
+  },
+  "w05802": {
+    "hanzi": "绵",
+    "pinyin": "mián",
+    "english": [
+      "Cotton",
+      "Continuous"
+    ],
+    "difficulty": 3
+  },
+  "w05803": {
+    "hanzi": "绽",
+    "pinyin": "zhàn",
+    "english": [
+      "To split",
+      "To bloom"
+    ],
+    "difficulty": 3
+  },
+  "w05804": {
+    "hanzi": "缔",
+    "pinyin": "dì",
+    "english": [
+      "To conclude",
+      "To found"
+    ],
+    "difficulty": 3
+  },
+  "w05805": {
+    "hanzi": "缚",
+    "pinyin": "fù",
+    "english": [
+      "To bind",
+      "To tie"
+    ],
+    "difficulty": 3
+  },
+  "w05806": {
+    "hanzi": "缝",
+    "pinyin": "féng",
+    "english": [
+      "To sew",
+      "Seam"
+    ],
+    "difficulty": 3
+  },
+  "w05807": {
+    "hanzi": "缸",
+    "pinyin": "gāng",
+    "english": [
+      "Jar",
+      "Vat"
+    ],
+    "difficulty": 3
+  },
+  "w05808": {
+    "hanzi": "罩",
+    "pinyin": "zhào",
+    "english": [
+      "Cover",
+      "Hood"
+    ],
+    "difficulty": 3
+  },
+  "w05809": {
+    "hanzi": "羯",
+    "pinyin": "jié",
+    "english": [
+      "Ram",
+      "Castrated ram"
+    ],
+    "difficulty": 3
+  },
+  "w05810": {
+    "hanzi": "翟",
+    "pinyin": "zhái",
+    "english": [
+      "(Surname)",
+      "Pheasant"
+    ],
+    "difficulty": 3
+  },
+  "w05811": {
+    "hanzi": "翠",
+    "pinyin": "cuì",
+    "english": [
+      "Emerald green",
+      "Kingfisher"
+    ],
+    "difficulty": 3
+  },
+  "w05812": {
+    "hanzi": "翩",
+    "pinyin": "piān",
+    "english": [
+      "Fluttering",
+      "Flying"
+    ],
+    "difficulty": 3
+  },
+  "w05813": {
+    "hanzi": "翰",
+    "pinyin": "hàn",
+    "english": [
+      "Writing brush",
+      "Letter"
+    ],
+    "difficulty": 3
+  },
+  "w05814": {
+    "hanzi": "耿",
+    "pinyin": "gěng",
+    "english": [
+      "Bright",
+      "Upright"
+    ],
+    "difficulty": 3
+  },
+  "w05815": {
+    "hanzi": "聆",
+    "pinyin": "líng",
+    "english": [
+      "To listen"
+    ],
+    "difficulty": 3
+  },
+  "w05816": {
+    "hanzi": "聘",
+    "pinyin": "pìn",
+    "english": [
+      "To hire",
+      "To betroth"
+    ],
+    "difficulty": 3
+  },
+  "w05817": {
+    "hanzi": "肃",
+    "pinyin": "sù",
+    "english": [
+      "Solemn",
+      "Strict"
+    ],
+    "difficulty": 3
+  },
+  "w05818": {
+    "hanzi": "肇",
+    "pinyin": "zhào",
+    "english": [
+      "To cause",
+      "To commence"
+    ],
+    "difficulty": 3
+  },
+  "w05819": {
+    "hanzi": "肝",
+    "pinyin": "gān",
+    "english": [
+      "Liver"
+    ],
+    "difficulty": 3
+  },
+  "w05820": {
+    "hanzi": "肠",
+    "pinyin": "cháng",
+    "english": [
+      "Intestine"
+    ],
+    "difficulty": 3
+  },
+  "w05821": {
+    "hanzi": "肢",
+    "pinyin": "zhī",
+    "english": [
+      "Limb"
+    ],
+    "difficulty": 3
+  },
+  "w05822": {
+    "hanzi": "肤",
+    "pinyin": "fū",
+    "english": [
+      "Skin"
+    ],
+    "difficulty": 3
+  },
+  "w05823": {
+    "hanzi": "肾",
+    "pinyin": "shèn",
+    "english": [
+      "Kidney"
+    ],
+    "difficulty": 3
+  },
+  "w05824": {
+    "hanzi": "胀",
+    "pinyin": "zhàng",
+    "english": [
+      "To swell",
+      "To expand"
+    ],
+    "difficulty": 3
+  },
+  "w05825": {
+    "hanzi": "胁",
+    "pinyin": "xié",
+    "english": [
+      "To threaten",
+      "Flank"
+    ],
+    "difficulty": 3
+  },
+  "w05826": {
+    "hanzi": "胏",
+    "pinyin": "zǐ",
+    "english": [
+      "Dried meat with bone"
+    ],
+    "difficulty": 3
+  },
+  "w05827": {
+    "hanzi": "腊",
+    "pinyin": "là",
+    "english": [
+      "Cured meat",
+      "Twelfth lunar month"
+    ],
+    "difficulty": 3
+  },
+  "w05828": {
+    "hanzi": "腔",
+    "pinyin": "qiāng",
+    "english": [
+      "Cavity",
+      "Tune"
+    ],
+    "difficulty": 3
+  },
+  "w05829": {
+    "hanzi": "腕",
+    "pinyin": "wàn",
+    "english": [
+      "Wrist"
+    ],
+    "difficulty": 3
+  },
+  "w05830": {
+    "hanzi": "腻",
+    "pinyin": "nì",
+    "english": [
+      "Greasy",
+      "Tired of"
+    ],
+    "difficulty": 3
+  },
+  "w05831": {
+    "hanzi": "腾",
+    "pinyin": "téng",
+    "english": [
+      "To soar",
+      "To gallop"
+    ],
+    "difficulty": 3
+  },
+  "w05832": {
+    "hanzi": "膀",
+    "pinyin": "bǎng",
+    "english": [
+      "Shoulder",
+      "Wing"
+    ],
+    "difficulty": 3
+  },
+  "w05833": {
+    "hanzi": "膏",
+    "pinyin": "gāo",
+    "english": [
+      "Ointment",
+      "Paste"
+    ],
+    "difficulty": 3
+  },
+  "w05834": {
+    "hanzi": "膨",
+    "pinyin": "péng",
+    "english": [
+      "To expand",
+      "To inflate"
+    ],
+    "difficulty": 3
+  },
+  "w05835": {
+    "hanzi": "臣",
+    "pinyin": "chén",
+    "english": [
+      "Minister",
+      "Subject"
+    ],
+    "difficulty": 3
+  },
+  "w05836": {
+    "hanzi": "舜",
+    "pinyin": "shùn",
+    "english": [
+      "(Sage emperor)"
+    ],
+    "difficulty": 3
+  },
+  "w05837": {
+    "hanzi": "艇",
+    "pinyin": "tǐng",
+    "english": [
+      "Boat",
+      "Submarine"
+    ],
+    "difficulty": 3
+  },
+  "w05838": {
+    "hanzi": "芋",
+    "pinyin": "yù",
+    "english": [
+      "Taro"
+    ],
+    "difficulty": 3
+  },
+  "w05839": {
+    "hanzi": "芒",
+    "pinyin": "máng",
+    "english": [
+      "Awn",
+      "Ray of light"
+    ],
+    "difficulty": 3
+  },
+  "w05840": {
+    "hanzi": "芙",
+    "pinyin": "fú",
+    "english": [
+      "Hibiscus",
+      "Lotus"
+    ],
+    "difficulty": 3
+  },
+  "w05841": {
+    "hanzi": "芝",
+    "pinyin": "zhī",
+    "english": [
+      "Sesame",
+      "Lingzhi mushroom"
+    ],
+    "difficulty": 3
+  },
+  "w05842": {
+    "hanzi": "芦",
+    "pinyin": "lú",
+    "english": [
+      "Reed"
+    ],
+    "difficulty": 3
+  },
+  "w05843": {
+    "hanzi": "芭",
+    "pinyin": "bā",
+    "english": [
+      "Banana",
+      "Fragrant herb"
+    ],
+    "difficulty": 3
+  },
+  "w05844": {
+    "hanzi": "芷",
+    "pinyin": "zhǐ",
+    "english": [
+      "Angelica",
+      "Iris"
+    ],
+    "difficulty": 3
+  },
+  "w05845": {
+    "hanzi": "芸",
+    "pinyin": "yún",
+    "english": [
+      "Rue",
+      "Art"
+    ],
+    "difficulty": 3
+  },
+  "w05846": {
+    "hanzi": "芽",
+    "pinyin": "yá",
+    "english": [
+      "Bud",
+      "Sprout"
+    ],
+    "difficulty": 3
+  },
+  "w05847": {
+    "hanzi": "苑",
+    "pinyin": "yuàn",
+    "english": [
+      "Garden",
+      "Park"
+    ],
+    "difficulty": 3
+  },
+  "w05848": {
+    "hanzi": "苛",
+    "pinyin": "kē",
+    "english": [
+      "Harsh",
+      "Severe"
+    ],
+    "difficulty": 3
+  },
+  "w05849": {
+    "hanzi": "茧",
+    "pinyin": "jiǎn",
+    "english": [
+      "Cocoon",
+      "Callus"
+    ],
+    "difficulty": 3
+  },
+  "w05850": {
+    "hanzi": "茵",
+    "pinyin": "yīn",
+    "english": [
+      "Mattress",
+      "Cushion"
+    ],
+    "difficulty": 3
+  },
+  "w05851": {
+    "hanzi": "茹",
+    "pinyin": "rú",
+    "english": [
+      "To eat",
+      "Rubia"
+    ],
+    "difficulty": 3
+  },
+  "w05852": {
+    "hanzi": "荡",
+    "pinyin": "dàng",
+    "english": [
+      "To swing",
+      "To wander"
+    ],
+    "difficulty": 3
+  },
+  "w05853": {
+    "hanzi": "荫",
+    "pinyin": "yīn",
+    "english": [
+      "Shade",
+      "Shelter"
+    ],
+    "difficulty": 3
+  },
+  "w05854": {
+    "hanzi": "莹",
+    "pinyin": "yíng",
+    "english": [
+      "Lustrous",
+      "Jade-like"
+    ],
+    "difficulty": 3
+  },
+  "w05855": {
+    "hanzi": "莺",
+    "pinyin": "yīng",
+    "english": [
+      "Oriole",
+      "Warbler"
+    ],
+    "difficulty": 3
+  },
+  "w05856": {
+    "hanzi": "菁",
+    "pinyin": "jīng",
+    "english": [
+      "Essence",
+      "Lush"
+    ],
+    "difficulty": 3
+  },
+  "w05857": {
+    "hanzi": "菊",
+    "pinyin": "jú",
+    "english": [
+      "Chrysanthemum"
+    ],
+    "difficulty": 3
+  },
+  "w05858": {
+    "hanzi": "菌",
+    "pinyin": "jūn",
+    "english": [
+      "Fungus",
+      "Bacteria"
+    ],
+    "difficulty": 3
+  },
+  "w05859": {
+    "hanzi": "菱",
+    "pinyin": "líng",
+    "english": [
+      "Water chestnut",
+      "Rhombus"
+    ],
+    "difficulty": 3
+  },
+  "w05860": {
+    "hanzi": "菸",
+    "pinyin": "yān",
+    "english": [
+      "Tobacco"
+    ],
+    "difficulty": 3
+  },
+  "w05861": {
+    "hanzi": "萄",
+    "pinyin": "táo",
+    "english": [
+      "Grape"
+    ],
+    "difficulty": 3
+  },
+  "w05862": {
+    "hanzi": "萍",
+    "pinyin": "píng",
+    "english": [
+      "Duckweed"
+    ],
+    "difficulty": 3
+  },
+  "w05863": {
+    "hanzi": "萝",
+    "pinyin": "luó",
+    "english": [
+      "Radish",
+      "Creeper"
+    ],
+    "difficulty": 3
+  },
+  "w05864": {
+    "hanzi": "葬",
+    "pinyin": "zàng",
+    "english": [
+      "To bury",
+      "Funeral"
+    ],
+    "difficulty": 3
+  },
+  "w05865": {
+    "hanzi": "葱",
+    "pinyin": "cōng",
+    "english": [
+      "Scallion",
+      "Onion"
+    ],
+    "difficulty": 3
+  },
+  "w05866": {
+    "hanzi": "葵",
+    "pinyin": "kuí",
+    "english": [
+      "Sunflower"
+    ],
+    "difficulty": 3
+  },
+  "w05867": {
+    "hanzi": "蒂",
+    "pinyin": "dì",
+    "english": [
+      "Stem",
+      "Base"
+    ],
+    "difficulty": 3
+  },
+  "w05868": {
+    "hanzi": "蒐",
+    "pinyin": "sōu",
+    "english": [
+      "To search",
+      "To gather"
+    ],
+    "difficulty": 3
+  },
+  "w05869": {
+    "hanzi": "蓄",
+    "pinyin": "xù",
+    "english": [
+      "To store",
+      "To save"
+    ],
+    "difficulty": 3
+  },
+  "w05870": {
+    "hanzi": "蓉",
+    "pinyin": "róng",
+    "english": [
+      "Lotus",
+      "Hibiscus"
+    ],
+    "difficulty": 3
+  },
+  "w05871": {
+    "hanzi": "蓬",
+    "pinyin": "péng",
+    "english": [
+      "Fluffy",
+      "Disheveled"
+    ],
+    "difficulty": 3
+  },
+  "w05872": {
+    "hanzi": "蔽",
+    "pinyin": "bì",
+    "english": [
+      "To cover",
+      "To shield"
+    ],
+    "difficulty": 3
+  },
+  "w05873": {
+    "hanzi": "蕃",
+    "pinyin": "fán",
+    "english": [
+      "Luxuriant",
+      "Foreign"
+    ],
+    "difficulty": 3
+  },
+  "w05874": {
+    "hanzi": "蕉",
+    "pinyin": "jiāo",
+    "english": [
+      "Banana"
+    ],
+    "difficulty": 3
+  },
+  "w05875": {
+    "hanzi": "蕾",
+    "pinyin": "lěi",
+    "english": [
+      "Bud"
+    ],
+    "difficulty": 3
+  },
+  "w05876": {
+    "hanzi": "薇",
+    "pinyin": "wēi",
+    "english": [
+      "Fern",
+      "Rose"
+    ],
+    "difficulty": 3
+  },
+  "w05877": {
+    "hanzi": "薛",
+    "pinyin": "xuē",
+    "english": [
+      "(Surname)",
+      "Wormwood"
+    ],
+    "difficulty": 3
+  },
+  "w05878": {
+    "hanzi": "薯",
+    "pinyin": "shǔ",
+    "english": [
+      "Potato",
+      "Yam"
+    ],
+    "difficulty": 3
+  },
+  "w05879": {
+    "hanzi": "薰",
+    "pinyin": "xūn",
+    "english": [
+      "Fragrance",
+      "To smoke"
+    ],
+    "difficulty": 3
+  },
+  "w05880": {
+    "hanzi": "虹",
+    "pinyin": "hóng",
+    "english": [
+      "Rainbow"
+    ],
+    "difficulty": 3
+  },
+  "w05881": {
+    "hanzi": "虾",
+    "pinyin": "xiā",
+    "english": [
+      "Shrimp"
+    ],
+    "difficulty": 3
+  },
+  "w05882": {
+    "hanzi": "蚀",
+    "pinyin": "shí",
+    "english": [
+      "To erode",
+      "Eclipse"
+    ],
+    "difficulty": 3
+  },
+  "w05883": {
+    "hanzi": "蚁",
+    "pinyin": "yǐ",
+    "english": [
+      "Ant"
+    ],
+    "difficulty": 3
+  },
+  "w05884": {
+    "hanzi": "蚊",
+    "pinyin": "wén",
+    "english": [
+      "Mosquito"
+    ],
+    "difficulty": 3
+  },
+  "w05885": {
+    "hanzi": "蚕",
+    "pinyin": "cán",
+    "english": [
+      "Silkworm"
+    ],
+    "difficulty": 3
+  },
+  "w05886": {
+    "hanzi": "蛛",
+    "pinyin": "zhū",
+    "english": [
+      "Spider"
+    ],
+    "difficulty": 3
+  },
+  "w05887": {
+    "hanzi": "蜂",
+    "pinyin": "fēng",
+    "english": [
+      "Bee",
+      "Wasp"
+    ],
+    "difficulty": 3
+  },
+  "w05888": {
+    "hanzi": "蜗",
+    "pinyin": "wō",
+    "english": [
+      "Snail"
+    ],
+    "difficulty": 3
+  },
+  "w05889": {
+    "hanzi": "蜘",
+    "pinyin": "zhī",
+    "english": [
+      "Spider"
+    ],
+    "difficulty": 3
+  },
+  "w05890": {
+    "hanzi": "蝇",
+    "pinyin": "yíng",
+    "english": [
+      "Fly"
+    ],
+    "difficulty": 3
+  },
+  "w05891": {
+    "hanzi": "蝉",
+    "pinyin": "chán",
+    "english": [
+      "Cicada"
+    ],
+    "difficulty": 3
+  },
+  "w05892": {
+    "hanzi": "螂",
+    "pinyin": "láng",
+    "english": [
+      "Mantis",
+      "Cockroach"
+    ],
+    "difficulty": 3
+  },
+  "w05893": {
+    "hanzi": "螃",
+    "pinyin": "páng",
+    "english": [
+      "Crab"
+    ],
+    "difficulty": 3
+  },
+  "w05894": {
+    "hanzi": "螺",
+    "pinyin": "luó",
+    "english": [
+      "Snail",
+      "Screw"
+    ],
+    "difficulty": 3
+  },
+  "w05895": {
+    "hanzi": "蟑",
+    "pinyin": "zhāng",
+    "english": [
+      "Cockroach"
+    ],
+    "difficulty": 3
+  },
+  "w05896": {
+    "hanzi": "蟾",
+    "pinyin": "chán",
+    "english": [
+      "Toad"
+    ],
+    "difficulty": 3
+  },
+  "w05897": {
+    "hanzi": "蠢",
+    "pinyin": "chǔn",
+    "english": [
+      "Stupid",
+      "Foolish"
+    ],
+    "difficulty": 3
+  },
+  "w05898": {
+    "hanzi": "衅",
+    "pinyin": "xìn",
+    "english": [
+      "Quarrel",
+      "Omen"
+    ],
+    "difficulty": 3
+  },
+  "w05899": {
+    "hanzi": "衍",
+    "pinyin": "yǎn",
+    "english": [
+      "To derive",
+      "To spread"
+    ],
+    "difficulty": 3
+  },
+  "w05900": {
+    "hanzi": "衫",
+    "pinyin": "shān",
+    "english": [
+      "Shirt"
+    ],
+    "difficulty": 3
+  },
+  "w05901": {
+    "hanzi": "袁",
+    "pinyin": "yuán",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05902": {
+    "hanzi": "袂",
+    "pinyin": "mèi",
+    "english": [
+      "Sleeve"
+    ],
+    "difficulty": 3
+  },
+  "w05903": {
+    "hanzi": "袍",
+    "pinyin": "páo",
+    "english": [
+      "Robe",
+      "Gown"
+    ],
+    "difficulty": 3
+  },
+  "w05904": {
+    "hanzi": "袖",
+    "pinyin": "xiù",
+    "english": [
+      "Sleeve"
+    ],
+    "difficulty": 3
+  },
+  "w05905": {
+    "hanzi": "袱",
+    "pinyin": "fú",
+    "english": [
+      "Bundle wrapped in cloth"
+    ],
+    "difficulty": 3
+  },
+  "w05906": {
+    "hanzi": "裸",
+    "pinyin": "luǒ",
+    "english": [
+      "Naked"
+    ],
+    "difficulty": 3
+  },
+  "w05907": {
+    "hanzi": "裹",
+    "pinyin": "guǒ",
+    "english": [
+      "To wrap",
+      "To bind"
+    ],
+    "difficulty": 3
+  },
+  "w05908": {
+    "hanzi": "襄",
+    "pinyin": "xiāng",
+    "english": [
+      "To assist",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05909": {
+    "hanzi": "襟",
+    "pinyin": "jīn",
+    "english": [
+      "Lapel",
+      "Bosom"
+    ],
+    "difficulty": 3
+  },
+  "w05910": {
+    "hanzi": "觅",
+    "pinyin": "mì",
+    "english": [
+      "To seek"
+    ],
+    "difficulty": 3
+  },
+  "w05911": {
+    "hanzi": "詹",
+    "pinyin": "zhān",
+    "english": [
+      "Verbose",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05912": {
+    "hanzi": "讶",
+    "pinyin": "yà",
+    "english": [
+      "Surprised"
+    ],
+    "difficulty": 3
+  },
+  "w05913": {
+    "hanzi": "诀",
+    "pinyin": "jué",
+    "english": [
+      "Trick",
+      "Farewell"
+    ],
+    "difficulty": 3
+  },
+  "w05914": {
+    "hanzi": "诇",
+    "pinyin": "xiòng",
+    "english": [
+      "To spy",
+      "To pry"
+    ],
+    "difficulty": 3
+  },
+  "w05915": {
+    "hanzi": "诘",
+    "pinyin": "jié",
+    "english": [
+      "To interrogate"
+    ],
+    "difficulty": 3
+  },
+  "w05916": {
+    "hanzi": "诠",
+    "pinyin": "quán",
+    "english": [
+      "To explain"
+    ],
+    "difficulty": 3
+  },
+  "w05917": {
+    "hanzi": "诡",
+    "pinyin": "guǐ",
+    "english": [
+      "Deceitful",
+      "Weird"
+    ],
+    "difficulty": 3
+  },
+  "w05918": {
+    "hanzi": "谍",
+    "pinyin": "dié",
+    "english": [
+      "Spy"
+    ],
+    "difficulty": 3
+  },
+  "w05919": {
+    "hanzi": "谎",
+    "pinyin": "huǎng",
+    "english": [
+      "Lie"
+    ],
+    "difficulty": 3
+  },
+  "w05920": {
+    "hanzi": "谐",
+    "pinyin": "xié",
+    "english": [
+      "Harmonious"
+    ],
+    "difficulty": 3
+  },
+  "w05921": {
+    "hanzi": "谘",
+    "pinyin": "zī",
+    "english": [
+      "To consult"
+    ],
+    "difficulty": 3
+  },
+  "w05922": {
+    "hanzi": "谛",
+    "pinyin": "dì",
+    "english": [
+      "Truth",
+      "Meaning"
+    ],
+    "difficulty": 3
+  },
+  "w05923": {
+    "hanzi": "谬",
+    "pinyin": "miù",
+    "english": [
+      "Absurd",
+      "Error"
+    ],
+    "difficulty": 3
+  },
+  "w05924": {
+    "hanzi": "谭",
+    "pinyin": "tán",
+    "english": [
+      "To talk",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05925": {
+    "hanzi": "豔",
+    "pinyin": "yàn",
+    "english": [
+      "Colorful",
+      "Glamorous"
+    ],
+    "difficulty": 3
+  },
+  "w05926": {
+    "hanzi": "豫",
+    "pinyin": "yù",
+    "english": [
+      "Happy",
+      "Henan province"
+    ],
+    "difficulty": 3
+  },
+  "w05927": {
+    "hanzi": "豹",
+    "pinyin": "bào",
+    "english": [
+      "Leopard"
+    ],
+    "difficulty": 3
+  },
+  "w05928": {
+    "hanzi": "贞",
+    "pinyin": "zhēn",
+    "english": [
+      "Chaste",
+      "Loyal"
+    ],
+    "difficulty": 3
+  },
+  "w05929": {
+    "hanzi": "贰",
+    "pinyin": "èr",
+    "english": [
+      "Two (banker's anti-fraud numeral)"
+    ],
+    "difficulty": 3
+  },
+  "w05930": {
+    "hanzi": "贾",
+    "pinyin": "jiǎ",
+    "english": [
+      "Merchant",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05931": {
+    "hanzi": "赎",
+    "pinyin": "shú",
+    "english": [
+      "To redeem"
+    ],
+    "difficulty": 3
+  },
+  "w05932": {
+    "hanzi": "赫",
+    "pinyin": "hè",
+    "english": [
+      "Prominent",
+      "Bright"
+    ],
+    "difficulty": 3
+  },
+  "w05933": {
+    "hanzi": "赴",
+    "pinyin": "fù",
+    "english": [
+      "To go to"
+    ],
+    "difficulty": 3
+  },
+  "w05934": {
+    "hanzi": "跷",
+    "pinyin": "qiāo",
+    "english": [
+      "To lift up leg",
+      "Stilts"
+    ],
+    "difficulty": 3
+  },
+  "w05935": {
+    "hanzi": "蹈",
+    "pinyin": "dǎo",
+    "english": [
+      "To tread",
+      "To dance"
+    ],
+    "difficulty": 3
+  },
+  "w05936": {
+    "hanzi": "躯",
+    "pinyin": "qū",
+    "english": [
+      "Body"
+    ],
+    "difficulty": 3
+  },
+  "w05937": {
+    "hanzi": "轴",
+    "pinyin": "zhóu",
+    "english": [
+      "Axis",
+      "Axle"
+    ],
+    "difficulty": 3
+  },
+  "w05938": {
+    "hanzi": "轿",
+    "pinyin": "jiào",
+    "english": [
+      "Sedan chair"
+    ],
+    "difficulty": 3
+  },
+  "w05939": {
+    "hanzi": "辖",
+    "pinyin": "xiá",
+    "english": [
+      "To govern",
+      "Linchpin"
+    ],
+    "difficulty": 3
+  },
+  "w05940": {
+    "hanzi": "辗",
+    "pinyin": "zhǎn",
+    "english": [
+      "To toss and turn"
+    ],
+    "difficulty": 3
+  },
+  "w05941": {
+    "hanzi": "辟",
+    "pinyin": "pì",
+    "english": [
+      "To open up",
+      "To refute"
+    ],
+    "difficulty": 3
+  },
+  "w05942": {
+    "hanzi": "辰",
+    "pinyin": "chén",
+    "english": [
+      "Celestial body",
+      "Time"
+    ],
+    "difficulty": 3
+  },
+  "w05943": {
+    "hanzi": "返",
+    "pinyin": "fǎn",
+    "english": [
+      "To return"
+    ],
+    "difficulty": 3
+  },
+  "w05944": {
+    "hanzi": "迦",
+    "pinyin": "jiā",
+    "english": [
+      "(Phonetic character)"
+    ],
+    "difficulty": 3
+  },
+  "w05945": {
+    "hanzi": "迳",
+    "pinyin": "jìng",
+    "english": [
+      "Path",
+      "Directly"
+    ],
+    "difficulty": 3
+  },
+  "w05946": {
+    "hanzi": "逍",
+    "pinyin": "xiāo",
+    "english": [
+      "Leisurely"
+    ],
+    "difficulty": 3
+  },
+  "w05947": {
+    "hanzi": "逞",
+    "pinyin": "chěng",
+    "english": [
+      "To show off",
+      "To succeed"
+    ],
+    "difficulty": 3
+  },
+  "w05948": {
+    "hanzi": "逾",
+    "pinyin": "yú",
+    "english": [
+      "To exceed"
+    ],
+    "difficulty": 3
+  },
+  "w05949": {
+    "hanzi": "遂",
+    "pinyin": "suì",
+    "english": [
+      "To satisfy",
+      "Then"
+    ],
+    "difficulty": 3
+  },
+  "w05950": {
+    "hanzi": "遣",
+    "pinyin": "qiǎn",
+    "english": [
+      "To dispatch",
+      "To send"
+    ],
+    "difficulty": 3
+  },
+  "w05951": {
+    "hanzi": "遨",
+    "pinyin": "áo",
+    "english": [
+      "To roam"
+    ],
+    "difficulty": 3
+  },
+  "w05952": {
+    "hanzi": "邓",
+    "pinyin": "dèng",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05953": {
+    "hanzi": "郝",
+    "pinyin": "hǎo",
+    "english": [
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05954": {
+    "hanzi": "酌",
+    "pinyin": "zhuó",
+    "english": [
+      "To pour wine",
+      "To consider"
+    ],
+    "difficulty": 3
+  },
+  "w05955": {
+    "hanzi": "酬",
+    "pinyin": "chóu",
+    "english": [
+      "To reward",
+      "To toast"
+    ],
+    "difficulty": 3
+  },
+  "w05956": {
+    "hanzi": "酿",
+    "pinyin": "niàng",
+    "english": [
+      "To brew",
+      "To ferment"
+    ],
+    "difficulty": 3
+  },
+  "w05957": {
+    "hanzi": "醇",
+    "pinyin": "chún",
+    "english": [
+      "Mellow",
+      "Pure"
+    ],
+    "difficulty": 3
+  },
+  "w05958": {
+    "hanzi": "鑫",
+    "pinyin": "xīn",
+    "english": [
+      "Wealth",
+      "Prosperous"
+    ],
+    "difficulty": 3
+  },
+  "w05959": {
+    "hanzi": "钉",
+    "pinyin": "dīng",
+    "english": [
+      "Nail"
+    ],
+    "difficulty": 3
+  },
+  "w05960": {
+    "hanzi": "钗",
+    "pinyin": "chāi",
+    "english": [
+      "Hairpin"
+    ],
+    "difficulty": 3
+  },
+  "w05961": {
+    "hanzi": "钝",
+    "pinyin": "dùn",
+    "english": [
+      "Blunt",
+      "Dull"
+    ],
+    "difficulty": 3
+  },
+  "w05962": {
+    "hanzi": "钧",
+    "pinyin": "jūn",
+    "english": [
+      "30 catties",
+      "Potter's wheel"
+    ],
+    "difficulty": 3
+  },
+  "w05963": {
+    "hanzi": "钮",
+    "pinyin": "niǔ",
+    "english": [
+      "Button",
+      "Knob"
+    ],
+    "difficulty": 3
+  },
+  "w05964": {
+    "hanzi": "钰",
+    "pinyin": "yù",
+    "english": [
+      "Treasure",
+      "Hard metal"
+    ],
+    "difficulty": 3
+  },
+  "w05965": {
+    "hanzi": "铝",
+    "pinyin": "lǚ",
+    "english": [
+      "Aluminum"
+    ],
+    "difficulty": 3
+  },
+  "w05966": {
+    "hanzi": "锡",
+    "pinyin": "xī",
+    "english": [
+      "Tin"
+    ],
+    "difficulty": 3
+  },
+  "w05967": {
+    "hanzi": "锣",
+    "pinyin": "luó",
+    "english": [
+      "Gong"
+    ],
+    "difficulty": 3
+  },
+  "w05968": {
+    "hanzi": "锥",
+    "pinyin": "zhuī",
+    "english": [
+      "Cone",
+      "Awl"
+    ],
+    "difficulty": 3
+  },
+  "w05969": {
+    "hanzi": "锵",
+    "pinyin": "qiāng",
+    "english": [
+      "Clang"
+    ],
+    "difficulty": 3
+  },
+  "w05970": {
+    "hanzi": "闽",
+    "pinyin": "mǐn",
+    "english": [
+      "Fujian province"
+    ],
+    "difficulty": 3
+  },
+  "w05971": {
+    "hanzi": "阀",
+    "pinyin": "fá",
+    "english": [
+      "Valve",
+      "Warlord"
+    ],
+    "difficulty": 3
+  },
+  "w05972": {
+    "hanzi": "阑",
+    "pinyin": "lán",
+    "english": [
+      "Railing",
+      "Late"
+    ],
+    "difficulty": 3
+  },
+  "w05973": {
+    "hanzi": "阮",
+    "pinyin": "ruǎn",
+    "english": [
+      "(Surname)",
+      "Musical instrument"
+    ],
+    "difficulty": 3
+  },
+  "w05974": {
+    "hanzi": "阱",
+    "pinyin": "jǐng",
+    "english": [
+      "Trap"
+    ],
+    "difficulty": 3
+  },
+  "w05975": {
+    "hanzi": "陋",
+    "pinyin": "lòu",
+    "english": [
+      "Ugly",
+      "Humble"
+    ],
+    "difficulty": 3
+  },
+  "w05976": {
+    "hanzi": "陵",
+    "pinyin": "líng",
+    "english": [
+      "Mausoleum",
+      "Hill"
+    ],
+    "difficulty": 3
+  },
+  "w05977": {
+    "hanzi": "隙",
+    "pinyin": "xì",
+    "english": [
+      "Gap",
+      "Crack"
+    ],
+    "difficulty": 3
+  },
+  "w05978": {
+    "hanzi": "隶",
+    "pinyin": "lì",
+    "english": [
+      "Script",
+      "Slave"
+    ],
+    "difficulty": 3
+  },
+  "w05979": {
+    "hanzi": "雀",
+    "pinyin": "què",
+    "english": [
+      "Sparrow"
+    ],
+    "difficulty": 3
+  },
+  "w05980": {
+    "hanzi": "雁",
+    "pinyin": "yàn",
+    "english": [
+      "Wild goose"
+    ],
+    "difficulty": 3
+  },
+  "w05981": {
+    "hanzi": "雏",
+    "pinyin": "chú",
+    "english": [
+      "Chick",
+      "Fledgling"
+    ],
+    "difficulty": 3
+  },
+  "w05982": {
+    "hanzi": "雯",
+    "pinyin": "wén",
+    "english": [
+      "Cloud pattern"
+    ],
+    "difficulty": 3
+  },
+  "w05983": {
+    "hanzi": "霉",
+    "pinyin": "méi",
+    "english": [
+      "Mold",
+      "Bad luck"
+    ],
+    "difficulty": 3
+  },
+  "w05984": {
+    "hanzi": "霍",
+    "pinyin": "huò",
+    "english": [
+      "Suddenly",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05985": {
+    "hanzi": "霖",
+    "pinyin": "lín",
+    "english": [
+      "Continuous rain"
+    ],
+    "difficulty": 3
+  },
+  "w05986": {
+    "hanzi": "霜",
+    "pinyin": "shuāng",
+    "english": [
+      "Frost"
+    ],
+    "difficulty": 3
+  },
+  "w05987": {
+    "hanzi": "靶",
+    "pinyin": "bǎ",
+    "english": [
+      "Target"
+    ],
+    "difficulty": 3
+  },
+  "w05988": {
+    "hanzi": "韦",
+    "pinyin": "wéi",
+    "english": [
+      "Leather",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w05989": {
+    "hanzi": "顷",
+    "pinyin": "qǐng",
+    "english": [
+      "Moment",
+      "Area unit"
+    ],
+    "difficulty": 3
+  },
+  "w05990": {
+    "hanzi": "颂",
+    "pinyin": "sòng",
+    "english": [
+      "To praise",
+      "Ode"
+    ],
+    "difficulty": 3
+  },
+  "w05991": {
+    "hanzi": "颉",
+    "pinyin": "jié",
+    "english": [
+      "(Surname)",
+      "To fly up"
+    ],
+    "difficulty": 3
+  },
+  "w05992": {
+    "hanzi": "颓",
+    "pinyin": "tuí",
+    "english": [
+      "Decadent",
+      "Ruined"
+    ],
+    "difficulty": 3
+  },
+  "w05993": {
+    "hanzi": "颖",
+    "pinyin": "yǐng",
+    "english": [
+      "Clever",
+      "Tip"
+    ],
+    "difficulty": 3
+  },
+  "w05994": {
+    "hanzi": "飙",
+    "pinyin": "biāo",
+    "english": [
+      "Whirlwind"
+    ],
+    "difficulty": 3
+  },
+  "w05995": {
+    "hanzi": "馈",
+    "pinyin": "kuì",
+    "english": [
+      "To present",
+      "To feed"
+    ],
+    "difficulty": 3
+  },
+  "w05996": {
+    "hanzi": "馨",
+    "pinyin": "xīn",
+    "english": [
+      "Fragrant"
+    ],
+    "difficulty": 3
+  },
+  "w05997": {
+    "hanzi": "驰",
+    "pinyin": "chí",
+    "english": [
+      "To gallop",
+      "To spread"
+    ],
+    "difficulty": 3
+  },
+  "w05998": {
+    "hanzi": "驳",
+    "pinyin": "bó",
+    "english": [
+      "To refute",
+      "Barge"
+    ],
+    "difficulty": 3
+  },
+  "w05999": {
+    "hanzi": "驴",
+    "pinyin": "lǘ",
+    "english": [
+      "Donkey"
+    ],
+    "difficulty": 3
+  },
+  "w06000": {
+    "hanzi": "驼",
+    "pinyin": "tuó",
+    "english": [
+      "Camel",
+      "Humpback"
+    ],
+    "difficulty": 3
+  },
+  "w06001": {
+    "hanzi": "骏",
+    "pinyin": "jùn",
+    "english": [
+      "Steed"
+    ],
+    "difficulty": 3
+  },
+  "w06002": {
+    "hanzi": "骤",
+    "pinyin": "zhòu",
+    "english": [
+      "Sudden",
+      "Step"
+    ],
+    "difficulty": 3
+  },
+  "w06003": {
+    "hanzi": "髓",
+    "pinyin": "suǐ",
+    "english": [
+      "Marrow"
+    ],
+    "difficulty": 3
+  },
+  "w06004": {
+    "hanzi": "魁",
+    "pinyin": "kuí",
+    "english": [
+      "Chief",
+      "Head"
+    ],
+    "difficulty": 3
+  },
+  "w06005": {
+    "hanzi": "魏",
+    "pinyin": "wèi",
+    "english": [
+      "Wei kingdom",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w06006": {
+    "hanzi": "鲢",
+    "pinyin": "lián",
+    "english": [
+      "Silver carp"
+    ],
+    "difficulty": 3
+  },
+  "w06007": {
+    "hanzi": "鳖",
+    "pinyin": "biē",
+    "english": [
+      "Soft-shelled turtle"
+    ],
+    "difficulty": 3
+  },
+  "w06008": {
+    "hanzi": "鸥",
+    "pinyin": "ōu",
+    "english": [
+      "Gull"
+    ],
+    "difficulty": 3
+  },
+  "w06009": {
+    "hanzi": "鸭",
+    "pinyin": "yā",
+    "english": [
+      "Duck"
+    ],
+    "difficulty": 3
+  },
+  "w06010": {
+    "hanzi": "鹏",
+    "pinyin": "péng",
+    "english": [
+      "Roc (mythical bird)"
+    ],
+    "difficulty": 3
+  },
+  "w06011": {
+    "hanzi": "鹤",
+    "pinyin": "hè",
+    "english": [
+      "Crane"
+    ],
+    "difficulty": 3
+  },
+  "w06012": {
+    "hanzi": "麟",
+    "pinyin": "lín",
+    "english": [
+      "Kylin (mythical beast)"
+    ],
+    "difficulty": 3
+  },
+  "w06013": {
+    "hanzi": "黏",
+    "pinyin": "nián",
+    "english": [
+      "Sticky"
+    ],
+    "difficulty": 3
+  },
+  "w06014": {
+    "hanzi": "黛",
+    "pinyin": "dài",
+    "english": [
+      "Black eyebrow dye"
+    ],
+    "difficulty": 3
+  },
+  "w06015": {
+    "hanzi": "黯",
+    "pinyin": "àn",
+    "english": [
+      "Dim",
+      "Gloomy"
+    ],
+    "difficulty": 3
+  },
+  "w06016": {
+    "hanzi": "鼎",
+    "pinyin": "dǐng",
+    "english": [
+      "Tripod cauldron"
+    ],
+    "difficulty": 3
+  },
+  "w06017": {
+    "hanzi": "齣",
+    "pinyin": "chū",
+    "english": [
+      "(Measure word for plays)"
+    ],
+    "difficulty": 3
+  },
+  "w06018": {
+    "hanzi": "天",
+    "pinyin": "tiān",
+    "english": [
+      "Sky",
+      "Day"
+    ],
+    "difficulty": 3
+  },
+  "w06019": {
+    "hanzi": "圣诞",
+    "pinyin": "shèng dàn",
+    "english": [
+      "Christmas"
+    ],
+    "difficulty": 3
+  },
+  "w06020": {
+    "hanzi": "弥撒",
+    "pinyin": "mí sa",
+    "english": [
+      "Mass (Catholic)"
+    ],
+    "difficulty": 3
+  },
+  "w06021": {
+    "hanzi": "礼拜",
+    "pinyin": "lǐ bài",
+    "english": [
+      "Worship",
+      "Week"
+    ],
+    "difficulty": 3
+  },
+  "w06022": {
+    "hanzi": "作",
+    "pinyin": "zuò",
+    "english": [
+      "To do",
+      "To make"
+    ],
+    "difficulty": 3
+  },
+  "w06023": {
+    "hanzi": "况",
+    "pinyin": "kuàng",
+    "english": [
+      "Situation",
+      "Moreover"
+    ],
+    "difficulty": 3
+  },
+  "w06024": {
+    "hanzi": "耳熟",
+    "pinyin": "ěr shú",
+    "english": [
+      "Familiar to the ear"
+    ],
+    "difficulty": 3
+  },
+  "w06025": {
+    "hanzi": "详",
+    "pinyin": "xiáng",
+    "english": [
+      "Detailed",
+      "Comprehensive"
+    ],
+    "difficulty": 3
+  },
+  "w06026": {
+    "hanzi": "中",
+    "pinyin": "zhōng",
+    "english": [
+      "Middle",
+      "Center",
+      "China"
+    ],
+    "difficulty": 3
+  },
+  "w06027": {
+    "hanzi": "入侵",
+    "pinyin": "rù qīn",
+    "english": [
+      "To invade",
+      "Invasion"
+    ],
+    "difficulty": 3
+  },
+  "w06028": {
+    "hanzi": "情",
+    "pinyin": "qíng",
+    "english": [
+      "Feeling",
+      "Emotion",
+      "Love"
+    ],
+    "difficulty": 3
+  },
+  "w06029": {
+    "hanzi": "街",
+    "pinyin": "jiē",
+    "english": [
+      "Street"
+    ],
+    "difficulty": 3
+  },
+  "w06030": {
+    "hanzi": "赠礼",
+    "pinyin": "zèng lǐ",
+    "english": [
+      "To give a gift"
+    ],
+    "difficulty": 3
+  },
+  "w06031": {
+    "hanzi": "美食",
+    "pinyin": "měi shí",
+    "english": [
+      "Gourmet food",
+      "Delicacy"
+    ],
+    "difficulty": 3
+  },
+  "w06032": {
+    "hanzi": "聚集",
+    "pinyin": "jù jí",
+    "english": [
+      "To gather",
+      "To assemble"
+    ],
+    "difficulty": 3
+  },
+  "w06033": {
+    "hanzi": "此",
+    "pinyin": "cǐ",
+    "english": [
+      "This",
+      "Here"
+    ],
+    "difficulty": 3
+  },
+  "w06034": {
+    "hanzi": "反观",
+    "pinyin": "fǎn guān",
+    "english": [
+      "By contrast",
+      "To look back"
+    ],
+    "difficulty": 3
+  },
+  "w06035": {
+    "hanzi": "喧",
+    "pinyin": "xuān",
+    "english": [
+      "Noisy",
+      "Clamor"
+    ],
+    "difficulty": 3
+  },
+  "w06036": {
+    "hanzi": "商",
+    "pinyin": "shāng",
+    "english": [
+      "Commerce",
+      "Merchant",
+      "Quotient"
+    ],
+    "difficulty": 3
+  },
+  "w06037": {
+    "hanzi": "围",
+    "pinyin": "wéi",
+    "english": [
+      "To surround",
+      "To encircle"
+    ],
+    "difficulty": 3
+  },
+  "w06038": {
+    "hanzi": "教会",
+    "pinyin": "jiào huì",
+    "english": [
+      "Church"
+    ],
+    "difficulty": 3
+  },
+  "w06039": {
+    "hanzi": "彼",
+    "pinyin": "bǐ",
+    "english": [
+      "That",
+      "Those",
+      "(One) another"
+    ],
+    "difficulty": 3
+  },
+  "w06040": {
+    "hanzi": "王",
+    "pinyin": "wáng",
+    "english": [
+      "King",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w06041": {
+    "hanzi": "总",
+    "pinyin": "zǒng",
+    "english": [
+      "Always",
+      "To assemble",
+      "Chief"
+    ],
+    "difficulty": 3
+  },
+  "w06042": {
+    "hanzi": "帮",
+    "pinyin": "bāng",
+    "english": [
+      "To help",
+      "Gang"
+    ],
+    "difficulty": 3
+  },
+  "w06043": {
+    "hanzi": "没",
+    "pinyin": "méi",
+    "english": [
+      "Not have",
+      "None"
+    ],
+    "difficulty": 3
+  },
+  "w06044": {
+    "hanzi": "线",
+    "pinyin": "xiàn",
+    "english": [
+      "Thread",
+      "String",
+      "Wire",
+      "Line"
+    ],
+    "difficulty": 3
+  },
+  "w06045": {
+    "hanzi": "黄庄",
+    "pinyin": "huáng zhuāng",
+    "english": [
+      "Huangzhuang (place name)"
+    ],
+    "difficulty": 3
+  },
+  "w06046": {
+    "hanzi": "车",
+    "pinyin": "chē",
+    "english": [
+      "Car",
+      "Vehicle"
+    ],
+    "difficulty": 3
+  },
+  "w06047": {
+    "hanzi": "打车",
+    "pinyin": "dǎ chē",
+    "english": [
+      "To take a taxi"
+    ],
+    "difficulty": 3
+  },
+  "w06048": {
+    "hanzi": "后",
+    "pinyin": "hòu",
+    "english": [
+      "Behind",
+      "After",
+      "Queen"
+    ],
+    "difficulty": 3
+  },
+  "w06049": {
+    "hanzi": "窗",
+    "pinyin": "chuāng",
+    "english": [
+      "Window"
+    ],
+    "difficulty": 3
+  },
+  "w06050": {
+    "hanzi": "售",
+    "pinyin": "shòu",
+    "english": [
+      "To sell"
+    ],
+    "difficulty": 3
+  },
+  "w06051": {
+    "hanzi": "处",
+    "pinyin": "chù",
+    "english": [
+      "Place",
+      "Location"
+    ],
+    "difficulty": 3
+  },
+  "w06052": {
+    "hanzi": "卡",
+    "pinyin": "kǎ",
+    "english": [
+      "Card"
+    ],
+    "difficulty": 3
+  },
+  "w06053": {
+    "hanzi": "英文",
+    "pinyin": "yīng wén",
+    "english": [
+      "English (language)"
+    ],
+    "difficulty": 3
+  },
+  "w06054": {
+    "hanzi": "餐桌",
+    "pinyin": "cān zhuō",
+    "english": [
+      "Dining table"
+    ],
+    "difficulty": 3
+  },
+  "w06055": {
+    "hanzi": "美味",
+    "pinyin": "měi wèi",
+    "english": [
+      "Delicious",
+      "Delicacy"
+    ],
+    "difficulty": 3
+  },
+  "w06056": {
+    "hanzi": "打散",
+    "pinyin": "dǎ sàn",
+    "english": [
+      "To break up",
+      "To scatter",
+      "To beat (eggs)"
+    ],
+    "difficulty": 3
+  },
+  "w06057": {
+    "hanzi": "至金黄",
+    "pinyin": "zhì jīn huáng",
+    "english": [
+      "Until golden yellow"
+    ],
+    "difficulty": 3
+  },
+  "w06058": {
+    "hanzi": "另起",
+    "pinyin": "lìng qǐ",
+    "english": [
+      "To start another",
+      "To start separately"
+    ],
+    "difficulty": 3
+  },
+  "w06059": {
+    "hanzi": "加入",
+    "pinyin": "jiā rù",
+    "english": [
+      "To add",
+      "To join"
+    ],
+    "difficulty": 3
+  },
+  "w06060": {
+    "hanzi": "道",
+    "pinyin": "dào",
+    "english": [
+      "Path",
+      "Way",
+      "Method",
+      "(Measure word for dishes)"
+    ],
+    "difficulty": 3
+  },
+  "w06061": {
+    "hanzi": "样",
+    "pinyin": "yàng",
+    "english": [
+      "Appearance",
+      "Shape",
+      "Manner"
+    ],
+    "difficulty": 3
+  },
+  "w06062": {
+    "hanzi": "加",
+    "pinyin": "jiā",
+    "english": [
+      "To add",
+      "Plus"
+    ],
+    "difficulty": 3
+  },
+  "w06063": {
+    "hanzi": "食",
+    "pinyin": "shí",
+    "english": [
+      "Food",
+      "To eat"
+    ],
+    "difficulty": 3
+  },
+  "w06064": {
+    "hanzi": "油",
+    "pinyin": "yóu",
+    "english": [
+      "Oil",
+      "Fat"
+    ],
+    "difficulty": 3
+  },
+  "w06065": {
+    "hanzi": "备",
+    "pinyin": "bèi",
+    "english": [
+      "To prepare",
+      "To get ready"
+    ],
+    "difficulty": 3
+  },
+  "w06066": {
+    "hanzi": "将",
+    "pinyin": "jiāng",
+    "english": [
+      "Will",
+      "Shall",
+      "(particle introducing object)"
+    ],
+    "difficulty": 3
+  },
+  "w06067": {
+    "hanzi": "入",
+    "pinyin": "rù",
+    "english": [
+      "To enter",
+      "To join"
+    ],
+    "difficulty": 3
+  },
+  "w06068": {
+    "hanzi": "至",
+    "pinyin": "zhì",
+    "english": [
+      "To arrive",
+      "Until",
+      "To"
+    ],
+    "difficulty": 3
+  },
+  "w06069": {
+    "hanzi": "适",
+    "pinyin": "shì",
+    "english": [
+      "Suitable",
+      "To fit"
+    ],
+    "difficulty": 3
+  },
+  "w06070": {
+    "hanzi": "待",
+    "pinyin": "dài",
+    "english": [
+      "To wait",
+      "To treat"
+    ],
+    "difficulty": 3
+  },
+  "w06071": {
+    "hanzi": "许",
+    "pinyin": "xǔ",
+    "english": [
+      "To allow",
+      "Perhaps",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w06072": {
+    "hanzi": "房子",
+    "pinyin": "fáng zi",
+    "english": [
+      "House",
+      "Building"
+    ],
+    "difficulty": 3
+  },
+  "w06073": {
+    "hanzi": "北",
+    "pinyin": "běi",
+    "english": [
+      "North"
+    ],
+    "difficulty": 3
+  },
+  "w06074": {
+    "hanzi": "间",
+    "pinyin": "jiān",
+    "english": [
+      "Room",
+      "Between"
+    ],
+    "difficulty": 3
+  },
+  "w06075": {
+    "hanzi": "金",
+    "pinyin": "jīn",
+    "english": [
+      "Gold",
+      "Money",
+      "(Surname)"
+    ],
+    "difficulty": 3
+  },
+  "w06076": {
+    "hanzi": "儿",
+    "pinyin": "ér",
+    "english": [
+      "Son",
+      "Child",
+      "(Suffix)"
+    ],
+    "difficulty": 3
+  },
+  "w06077": {
+    "hanzi": "色",
+    "pinyin": "sè",
+    "english": [
+      "Color",
+      "Look"
+    ],
+    "difficulty": 3
+  },
+  "w06078": {
+    "hanzi": "盲",
+    "pinyin": "máng",
+    "english": [
+      "Blind"
+    ],
+    "difficulty": 3
+  },
+  "w06079": {
+    "hanzi": "头",
+    "pinyin": "tóu",
+    "english": [
+      "Head",
+      "Chief"
+    ],
+    "difficulty": 3
+  },
+  "w06080": {
+    "hanzi": "象",
+    "pinyin": "xiàng",
+    "english": [
+      "Elephant",
+      "Image",
+      "Shape"
+    ],
+    "difficulty": 3
+  },
+  "w06081": {
+    "hanzi": "棍子",
+    "pinyin": "gùn zi",
+    "english": [
+      "Stick",
+      "Rod"
+    ],
+    "difficulty": 3
+  },
+  "w06082": {
+    "hanzi": "第",
+    "pinyin": "dì",
+    "english": [
+      "(Prefix for ordinal numbers)"
+    ],
+    "difficulty": 3
+  },
+  "w06083": {
+    "hanzi": "象牙",
+    "pinyin": "xiàng yá",
+    "english": [
+      "Ivory"
+    ],
+    "difficulty": 3
+  },
+  "w06084": {
+    "hanzi": "明",
+    "pinyin": "míng",
+    "english": [
+      "Bright",
+      "Tomorrow",
+      "Clear"
+    ],
+    "difficulty": 3
+  },
+  "w06085": {
+    "hanzi": "杯",
+    "pinyin": "bēi",
+    "english": [
+      "Cup",
+      "Glass"
+    ],
+    "difficulty": 3
+  },
+  "w06086": {
+    "hanzi": "忘",
+    "pinyin": "wàng",
+    "english": [
+      "To forget"
+    ],
+    "difficulty": 3
+  },
+  "w06087": {
+    "hanzi": "心",
+    "pinyin": "xīn",
+    "english": [
+      "Heart",
+      "Mind"
+    ],
+    "difficulty": 3
+  },
+  "w06088": {
+    "hanzi": "容",
+    "pinyin": "róng",
+    "english": [
+      "To contain",
+      "Appearance",
+      "Face"
+    ],
+    "difficulty": 3
+  },
+  "w06089": {
+    "hanzi": "早早",
+    "pinyin": "zǎo zǎo",
+    "english": [
+      "Early",
+      "Bright and early"
+    ],
+    "difficulty": 3
+  },
+  "w06090": {
+    "hanzi": "面",
+    "pinyin": "miàn",
+    "english": [
+      "Face",
+      "Noodles",
+      "Surface"
+    ],
+    "difficulty": 3
+  },
+  "w06091": {
+    "hanzi": "变",
+    "pinyin": "biàn",
+    "english": [
+      "To change",
+      "To become"
+    ],
+    "difficulty": 3
+  },
+  "w06092": {
+    "hanzi": "跑",
+    "pinyin": "pǎo",
+    "english": [
+      "To run"
+    ],
+    "difficulty": 3
+  },
+  "w06093": {
+    "hanzi": "自",
+    "pinyin": "zì",
+    "english": [
+      "Self",
+      "From",
+      "Since"
+    ],
+    "difficulty": 3
+  },
+  "w06094": {
+    "hanzi": "但",
+    "pinyin": "dàn",
+    "english": [
+      "But",
+      "Yet",
+      "Only"
+    ],
+    "difficulty": 3
+  },
+  "w06095": {
+    "hanzi": "语",
+    "pinyin": "yǔ",
+    "english": [
+      "Language",
+      "Speech"
+    ],
+    "difficulty": 3
+  },
+  "w06096": {
+    "hanzi": "超",
+    "pinyin": "chāo",
+    "english": [
+      "Super",
+      "To exceed",
+      "Ultra-"
+    ],
+    "difficulty": 3
+  },
+  "w06097": {
+    "hanzi": "边",
+    "pinyin": "biān",
+    "english": [
+      "Side",
+      "Edge",
+      "Border"
+    ],
+    "difficulty": 3
+  },
+  "w06098": {
+    "hanzi": "山",
+    "pinyin": "shān",
+    "english": [
+      "Mountain",
+      "Hill"
+    ],
+    "difficulty": 3
+  },
+  "w06099": {
+    "hanzi": "旅途",
+    "pinyin": "lǚ tú",
+    "english": [
+      "Journey",
+      "Trip"
+    ],
+    "difficulty": 3
+  },
+  "w06100": {
+    "hanzi": "美",
+    "pinyin": "měi",
+    "english": [
+      "Beautiful",
+      "Pretty"
+    ],
+    "difficulty": 3
+  },
+  "w06101": {
+    "hanzi": "庄",
+    "pinyin": "zhuāng",
+    "english": [
+      "Village",
+      "Manor",
+      "Farm"
+    ],
+    "difficulty": 3
+  },
+  "w06102": {
+    "hanzi": "股",
+    "pinyin": "gǔ",
+    "english": [
+      "Thigh",
+      "Share",
+      "Portion",
+      "(Measure word for smells/strength)"
+    ],
+    "difficulty": 3
+  },
+  "w06103": {
+    "hanzi": "味",
+    "pinyin": "wèi",
+    "english": [
+      "Taste",
+      "Flavor",
+      "Smell"
+    ],
+    "difficulty": 3
+  },
+  "w06104": {
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "english": [
+      "Rice",
+      "Meal",
+      "Food"
+    ],
+    "difficulty": 3
+  },
+  "w06105": {
+    "hanzi": "秘",
+    "pinyin": "mì",
+    "english": [
+      "Secret",
+      "Mysterious"
+    ],
+    "difficulty": 3
+  },
+  "w06106": {
+    "hanzi": "垃",
+    "pinyin": "lā",
+    "english": [
+      "Rubbish",
+      "Garbage"
+    ],
+    "difficulty": 3
+  },
+  "w06107": {
+    "hanzi": "害",
+    "pinyin": "hài",
+    "english": [
+      "Harm",
+      "To kill",
+      "Calamity"
+    ],
+    "difficulty": 3
+  },
+  "w06108": {
+    "hanzi": "顺手",
+    "pinyin": "shùn shǒu",
+    "english": [
+      "Conveniently",
+      "Smoothly"
+    ],
+    "difficulty": 3
+  },
+  "w06109": {
+    "hanzi": "瓶",
+    "pinyin": "píng",
+    "english": [
+      "Bottle",
+      "Vase",
+      "Pitcher"
+    ],
+    "difficulty": 3
+  },
+  "w06110": {
+    "hanzi": "步",
+    "pinyin": "bù",
+    "english": [
+      "Step",
+      "Walk"
+    ],
+    "difficulty": 3
+  },
+  "w06111": {
+    "hanzi": "华",
+    "pinyin": "huá",
+    "english": [
+      "Magnificent",
+      "China",
+      "Flower"
+    ],
+    "difficulty": 3
+  },
+  "w06112": {
+    "hanzi": "赞同",
+    "pinyin": "zàn tóng",
+    "english": [
+      "To approve",
+      "To agree"
+    ],
+    "difficulty": 3
+  },
+  "w06113": {
+    "hanzi": "并",
+    "pinyin": "bìng",
+    "english": [
+      "And",
+      "Furthermore",
+      "Simultaneously"
+    ],
+    "difficulty": 3
+  },
+  "w06114": {
+    "hanzi": "事",
+    "pinyin": "shì",
+    "english": [
+      "Matter",
+      "Thing",
+      "Business"
+    ],
+    "difficulty": 3
+  },
+  "w06115": {
+    "hanzi": "朋",
+    "pinyin": "péng",
+    "english": [
+      "Friend"
+    ],
+    "difficulty": 3
+  },
+  "w06116": {
+    "hanzi": "学",
+    "pinyin": "xué",
+    "english": [
+      "To study",
+      "School"
+    ],
+    "difficulty": 3
+  },
+  "w06117": {
+    "hanzi": "同",
+    "pinyin": "tóng",
+    "english": [
+      "Same",
+      "Together"
+    ],
+    "difficulty": 3
+  },
+  "w06118": {
+    "hanzi": "电话",
+    "pinyin": "diàn huà",
+    "english": [
+      "Telephone",
+      "Phone call"
+    ],
+    "difficulty": 3
+  },
+  "w06119": {
+    "hanzi": "享",
+    "pinyin": "xiǎng",
+    "english": [
+      "To enjoy"
+    ],
+    "difficulty": 3
+  },
+  "w06120": {
+    "hanzi": "前",
+    "pinyin": "qián",
+    "english": [
+      "Front",
+      "Before"
+    ],
+    "difficulty": 3
+  },
+  "w06121": {
+    "hanzi": "打",
+    "pinyin": "dǎ",
+    "english": [
+      "To hit",
+      "To play",
+      "To call"
+    ],
+    "difficulty": 3
+  },
+  "w06122": {
+    "hanzi": "时",
+    "pinyin": "shí",
+    "english": [
+      "Time",
+      "Hour"
+    ],
+    "difficulty": 3
+  },
+  "w06123": {
+    "hanzi": "意",
+    "pinyin": "yì",
+    "english": [
+      "Meaning",
+      "Idea",
+      "Wish"
+    ],
+    "difficulty": 3
+  },
+  "w06124": {
+    "hanzi": "封信",
+    "pinyin": "fēng xìn",
+    "english": [
+      "A letter"
+    ],
+    "difficulty": 3
+  },
+  "w06125": {
+    "hanzi": "信",
+    "pinyin": "xìn",
+    "english": [
+      "Letter",
+      "Trust",
+      "To believe"
+    ],
+    "difficulty": 3
+  },
+  "w06126": {
+    "hanzi": "句话",
+    "pinyin": "jù huà",
+    "english": [
+      "A sentence"
+    ],
+    "difficulty": 3
+  },
+  "w06127": {
+    "hanzi": "生",
+    "pinyin": "shēng",
+    "english": [
+      "Life",
+      "To give birth",
+      "Raw"
+    ],
+    "difficulty": 3
+  },
+  "w06128": {
+    "hanzi": "病",
+    "pinyin": "bìng",
+    "english": [
+      "Illness",
+      "Sick"
+    ],
+    "difficulty": 3
+  },
+  "w06129": {
+    "hanzi": "感",
+    "pinyin": "gǎn",
+    "english": [
+      "To feel",
+      "Sense"
+    ],
+    "difficulty": 3
+  },
+  "w06130": {
+    "hanzi": "起",
+    "pinyin": "qǐ",
+    "english": [
+      "To rise",
+      "To start"
+    ],
+    "difficulty": 3
+  },
+  "w06131": {
+    "hanzi": "电话通",
+    "pinyin": "diàn huà tōng",
+    "english": [
+      "Phone call connected"
+    ],
+    "difficulty": 3
+  },
+  "w06132": {
+    "hanzi": "诚",
+    "pinyin": "chéng",
+    "english": [
+      "Honest",
+      "Sincere"
+    ],
+    "difficulty": 3
+  },
+  "w06133": {
+    "hanzi": "早",
+    "pinyin": "zǎo",
+    "english": [
+      "Early",
+      "Morning"
+    ],
+    "difficulty": 3
+  },
+  "w06134": {
+    "hanzi": "晚",
+    "pinyin": "wǎn",
+    "english": [
+      "Late",
+      "Evening"
+    ],
+    "difficulty": 3
+  },
+  "w06135": {
+    "hanzi": "吸",
+    "pinyin": "xī",
+    "english": [
+      "To breathe",
+      "To suck",
+      "To absorb"
+    ],
+    "difficulty": 3
+  },
+  "w06136": {
+    "hanzi": "部",
+    "pinyin": "bù",
+    "english": [
+      "Part",
+      "Section",
+      "Department"
+    ],
+    "difficulty": 3
+  },
+  "w06137": {
+    "hanzi": "于",
+    "pinyin": "yú",
+    "english": [
+      "In",
+      "At",
+      "To",
+      "From",
+      "By",
+      "Than"
+    ],
+    "difficulty": 3
+  },
+  "w06138": {
+    "hanzi": "职",
+    "pinyin": "zhí",
+    "english": [
+      "Office",
+      "Duty",
+      "Job"
+    ],
+    "difficulty": 3
   }
 }
-
-
-
-
-
-
